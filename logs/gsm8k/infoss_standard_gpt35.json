@@ -1,0 +1,1102 @@
+[
+    [
+        {
+            "answer": [
+                "Answer: Natalia sold 48 clips in April and half as many, which is 24 clips, in May. So, Natalia sold a total of 72 clips in April and May."
+            ],
+            "answer_gt": "72",
+            "gpt usage": 0.002028469,
+            "elapsed time": 4.766926288604736,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Betty needs $25 more to buy the wallet."
+            ],
+            "answer_gt": "5",
+            "gpt usage": 0.002029899,
+            "elapsed time": 3.112748622894287,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: James writes 624 pages a year."
+            ],
+            "answer_gt": "624",
+            "gpt usage": 0.0020311584999999997,
+            "elapsed time": 5.50359034538269,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The answer is 48."
+            ],
+            "answer_gt": "48",
+            "gpt usage": 0.0020325300000000003,
+            "elapsed time": 3.6787593364715576,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Alexis paid $61 for the shoes."
+            ],
+            "answer_gt": "41",
+            "gpt usage": 0.002034067,
+            "elapsed time": 4.287280082702637,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The answer is 63."
+            ],
+            "answer_gt": "121",
+            "gpt usage": 0.0020354915,
+            "elapsed time": 2.684385061264038,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Randy has a total of 90 trees on his farm."
+            ],
+            "answer_gt": "85",
+            "gpt usage": 0.0020368269999999997,
+            "elapsed time": 4.220197439193726,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: It will take Joy 5 hours to read 120 pages."
+            ],
+            "answer_gt": "5",
+            "gpt usage": 0.0020381005,
+            "elapsed time": 3.020918607711792,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Mike will have $700 after spending $200 on a shirt."
+            ],
+            "answer_gt": "800",
+            "gpt usage": 0.0020397045,
+            "elapsed time": 5.755564451217651,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The answer is 14 hours."
+            ],
+            "answer_gt": "16",
+            "gpt usage": 0.0020411375,
+            "elapsed time": 4.058380365371704,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Bella bought 33 stamps in total."
+            ],
+            "answer_gt": "38",
+            "gpt usage": 0.002042629,
+            "elapsed time": 8.75670576095581,
+            "score": 35.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Samantha's last name has 7 letters."
+            ],
+            "answer_gt": "7",
+            "gpt usage": 0.002044024,
+            "elapsed time": 2.5520193576812744,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Mary will need to pay $62 before her next shopping trip."
+            ],
+            "answer_gt": "62",
+            "gpt usage": 0.0020456505,
+            "elapsed time": 4.494966506958008,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Jack will get 400 ml of salt when all the water evaporates."
+            ],
+            "answer_gt": "400",
+            "gpt usage": 0.0020470965,
+            "elapsed time": 8.359840869903564,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The fifth house has 8 gnomes."
+            ],
+            "answer_gt": "8",
+            "gpt usage": 0.002048616,
+            "elapsed time": 3.955850601196289,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The answer is 4 pieces."
+            ],
+            "answer_gt": "6",
+            "gpt usage": 0.0020500535,
+            "elapsed time": 6.263323783874512,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The car had to travel 10 meters after the 3rd turn."
+            ],
+            "answer_gt": "10",
+            "gpt usage": 0.0020517515,
+            "elapsed time": 7.166123151779175,
+            "score": 60.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The total amount shared was $5250."
+            ],
+            "answer_gt": "5250",
+            "gpt usage": 0.0020532055,
+            "elapsed time": 5.17194938659668,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Lisa earned $30, Jack earned $15, and Tommy earned $15. Therefore, Lisa earned $15 more than Tommy."
+            ],
+            "answer_gt": "15",
+            "gpt usage": 0.0020546515,
+            "elapsed time": 4.728654146194458,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Artemis will need 72 ounces of tea for the party."
+            ],
+            "answer_gt": "9",
+            "gpt usage": 0.002056172,
+            "elapsed time": 5.016262769699097,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Mr. Benson paid $456 in all."
+            ],
+            "answer_gt": "476",
+            "gpt usage": 0.00205747,
+            "elapsed time": 3.8341715335845947,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Each monkey would get 88 bananas."
+            ],
+            "answer_gt": "99",
+            "gpt usage": 0.0020589195,
+            "elapsed time": 5.3632729053497314,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: James spends $400 on coursework materials."
+            ],
+            "answer_gt": "300",
+            "gpt usage": 0.0020604215000000004,
+            "elapsed time": 5.9848668575286865,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Carolyn practices the piano for 20 minutes a day, which is 20 minutes x 6 days = 120 minutes a week. She practices the violin for 3 x 20 minutes = 60 minutes a day. So, in total, she practices for 120 + 60 = 180 minutes a day. In a week, she practices for 180 minutes x 6 days = 1080 minutes. In a month with 4 weeks, she practices for 1080 minutes x 4 weeks = 4320 minutes."
+            ],
+            "answer_gt": "1920",
+            "gpt usage": 0.002062149,
+            "elapsed time": 8.132092475891113,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Sam memorized 18 digits of pi."
+            ],
+            "answer_gt": "10",
+            "gpt usage": 0.002063521,
+            "elapsed time": 5.153942584991455,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Gerald needs to average 10 chores a month to save up for his baseball supplies."
+            ],
+            "answer_gt": "5",
+            "gpt usage": 0.002065138,
+            "elapsed time": 3.8450770378112793,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Each box has 18 pencils."
+            ],
+            "answer_gt": "5",
+            "gpt usage": 0.0020665095,
+            "elapsed time": 6.813539505004883,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The answer is $13."
+            ],
+            "answer_gt": "11",
+            "gpt usage": 0.002068036,
+            "elapsed time": 5.436359167098999,
+            "score": 85.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The answer is 50 minutes."
+            ],
+            "answer_gt": "45",
+            "gpt usage": 0.0020694249999999997,
+            "elapsed time": 2.6286933422088623,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The total amount of money those 60 students get in a day is $320."
+            ],
+            "answer_gt": "320",
+            "gpt usage": 0.0020710235,
+            "elapsed time": 3.2566118240356445,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Jerry will spend a total of 96 hours at the field watching his daughters play and practice."
+            ],
+            "answer_gt": "96",
+            "gpt usage": 0.002072507,
+            "elapsed time": 6.246708869934082,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Each of the remaining cans is holding 6 liters of oil."
+            ],
+            "answer_gt": "15",
+            "gpt usage": 0.002074103,
+            "elapsed time": 4.709774971008301,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: James earns $600 per week."
+            ],
+            "answer_gt": "840",
+            "gpt usage": 0.002075579,
+            "elapsed time": 4.563830375671387,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: After 4 months, Tara will have paid a total of $260 ($65 x 4) in installments. With the additional $20 payment for the down payment, her total payment so far is $280. Subtracting this from the original price of $1000 leaves her with a balance of $720."
+            ],
+            "answer_gt": "520",
+            "gpt usage": 0.002077498,
+            "elapsed time": 8.071245670318604,
+            "score": 90.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Amalie has 360 coins left."
+            ],
+            "answer_gt": "90",
+            "gpt usage": 0.002078967,
+            "elapsed time": 6.957153558731079,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Tim has 38 apples (Martha's 68 - 30), and Harry has 19 apples (half of Tim's 38)."
+            ],
+            "answer_gt": "19",
+            "gpt usage": 0.0020804835,
+            "elapsed time": 7.1452956199646,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The aquarium has 18 cubic feet of water."
+            ],
+            "answer_gt": "54",
+            "gpt usage": 0.002082007,
+            "elapsed time": 3.0617282390594482,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Let x be the amount the second person lost and y be the amount each of the last two people lost. \n\n27 + x + 2y = 103\nx = 27 - 7 = 20\n20 + 2y = 103\n2y = 83\ny = 41.5\n\nSo, each of the last two people lost 41.5 kilograms."
+            ],
+            "answer_gt": "28",
+            "gpt usage": 0.002083729,
+            "elapsed time": 4.193868398666382,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The garden produced a total of 357 vegetables."
+            ],
+            "answer_gt": "768",
+            "gpt usage": 0.0020849985,
+            "elapsed time": 3.6767892837524414,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The answer is 17 slices left."
+            ],
+            "answer_gt": "4",
+            "gpt usage": 0.0020864255,
+            "elapsed time": 3.113370418548584,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Jennifer brought home 90 cans of milk from the store."
+            ],
+            "answer_gt": "100",
+            "gpt usage": 0.0020878485,
+            "elapsed time": 6.88143253326416,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Irene's total income last week is $600."
+            ],
+            "answer_gt": "700",
+            "gpt usage": 0.0020892085,
+            "elapsed time": 4.565195322036743,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Hans could be checked into 99 different rooms in the hotel."
+            ],
+            "answer_gt": "90",
+            "gpt usage": 0.002090638,
+            "elapsed time": 3.191193103790283,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Peter bought 6 ounces of soda."
+            ],
+            "answer_gt": "6",
+            "gpt usage": 0.002091982,
+            "elapsed time": 3.6548409461975098,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Brandon has sold a total of 258 geckos in the last two years."
+            ],
+            "answer_gt": "258",
+            "gpt usage": 0.0020933005,
+            "elapsed time": 3.659804105758667,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Herman will need a total of 3 cups of bird food for all three months."
+            ],
+            "answer_gt": "90",
+            "gpt usage": 0.002094781,
+            "elapsed time": 4.992568016052246,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Sally will have saved $1095 and Bob will have saved $730, so together they will have saved $1825 for their trip at the end of the year."
+            ],
+            "answer_gt": "1825",
+            "gpt usage": 0.00209646,
+            "elapsed time": 4.526419401168823,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: It will take him 60 days to write 3 books that are 400 pages each."
+            ],
+            "answer_gt": "60",
+            "gpt usage": 0.0020978044999999997,
+            "elapsed time": 4.410779714584351,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The total amount of rainwater collected is 105 gallons (4 inches x 15 gallons + 3 inches x 15 gallons). Therefore, James made $126 from selling all the water (105 gallons x $1.2)."
+            ],
+            "answer_gt": "126",
+            "gpt usage": 0.0020995600000000003,
+            "elapsed time": 6.7820515632629395,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The total number of gumballs that Hector purchased is 33."
+            ],
+            "answer_gt": "45",
+            "gpt usage": 0.0021012335000000003,
+            "elapsed time": 5.44521951675415,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The craft store made 12 sales in the stationery section."
+            ],
+            "answer_gt": "15",
+            "gpt usage": 0.0021026425000000002,
+            "elapsed time": 4.057358026504517,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The answer is 25ml."
+            ],
+            "answer_gt": "25",
+            "gpt usage": 0.002104095,
+            "elapsed time": 6.400760173797607,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The boat can transport 96 people in 2 days."
+            ],
+            "answer_gt": "96",
+            "gpt usage": 0.002105427,
+            "elapsed time": 2.730299711227417,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: John got 50 uncommon cards."
+            ],
+            "answer_gt": "50",
+            "gpt usage": 0.002106718,
+            "elapsed time": 4.110569953918457,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The total cost is $174.00."
+            ],
+            "answer_gt": "41",
+            "gpt usage": 0.0021081614999999996,
+            "elapsed time": 4.934514045715332,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Tina sold 105 candy bars, making $210, while Marvin made $70. Therefore, Tina made $140 more for the class trip than Marvin."
+            ],
+            "answer_gt": "140",
+            "gpt usage": 0.0021097805,
+            "elapsed time": 4.385677337646484,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The total number of photos in the family gallery after the trip is 620."
+            ],
+            "answer_gt": "920",
+            "gpt usage": 0.0021115450000000003,
+            "elapsed time": 4.5082738399505615,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Ed has a total of 14 pets (2 dogs + 3 cats + 2*(2+3) = 14)."
+            ],
+            "answer_gt": "15",
+            "gpt usage": 0.0021129705,
+            "elapsed time": 5.69773006439209,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Valerie will need 11 stamps in total."
+            ],
+            "answer_gt": "21",
+            "gpt usage": 0.002114544,
+            "elapsed time": 2.5051028728485107,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The answer is 13."
+            ],
+            "answer_gt": "13",
+            "gpt usage": 0.002115947,
+            "elapsed time": 7.245535850524902,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Carrie will have $20 left over after buying her bike."
+            ],
+            "answer_gt": "720",
+            "gpt usage": 0.0021173980000000004,
+            "elapsed time": 3.8241517543792725,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The number of board members who attended the meeting is 16."
+            ],
+            "answer_gt": "48",
+            "gpt usage": 0.002118898,
+            "elapsed time": 5.256128787994385,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Joy used 18 feet of yarn for the second ball."
+            ],
+            "answer_gt": "18",
+            "gpt usage": 0.00212035,
+            "elapsed time": 3.447784900665283,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: John has 25 roommates."
+            ],
+            "answer_gt": "25",
+            "gpt usage": 0.0021216255,
+            "elapsed time": 3.675657272338867,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The principal needs to book 10 rooms to fit all of the students in the class."
+            ],
+            "answer_gt": "6",
+            "gpt usage": 0.0021231945,
+            "elapsed time": 2.9890544414520264,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Ali has 55 seashells left."
+            ],
+            "answer_gt": "55",
+            "gpt usage": 0.0021246665,
+            "elapsed time": 6.0341596603393555,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The total amount James paid is $110."
+            ],
+            "answer_gt": "110",
+            "gpt usage": 0.0021259994999999997,
+            "elapsed time": 5.656809329986572,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The couple will receive $372 in change."
+            ],
+            "answer_gt": "74",
+            "gpt usage": 0.0021273625,
+            "elapsed time": 2.4218571186065674,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Loraine used 24 sticks of wax to make all the animals."
+            ],
+            "answer_gt": "20",
+            "gpt usage": 0.0021288345,
+            "elapsed time": 4.356547832489014,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: You will save $6 via discounts."
+            ],
+            "answer_gt": "8",
+            "gpt usage": 0.0021301575000000003,
+            "elapsed time": 3.36938214302063,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The total number of kids that got into the movie is 174."
+            ],
+            "answer_gt": "148",
+            "gpt usage": 0.0021316405,
+            "elapsed time": 5.647576093673706,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The answer is 20%."
+            ],
+            "answer_gt": "30",
+            "gpt usage": 0.002133039,
+            "elapsed time": 3.751497268676758,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The third butcher delivered 8 packages."
+            ],
+            "answer_gt": "8",
+            "gpt usage": 0.002134647,
+            "elapsed time": 5.35003662109375,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Richard takes 22 minutes, Cory takes 25 minutes, and Blake takes 21 minutes to clean their rooms. So, in total, they spend 68 minutes cleaning their rooms each week."
+            ],
+            "answer_gt": "136",
+            "gpt usage": 0.00213627,
+            "elapsed time": 6.133049964904785,
+            "score": 60.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Winwin was able to take home $35."
+            ],
+            "answer_gt": "35",
+            "gpt usage": 0.0021377555,
+            "elapsed time": 6.003500938415527,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Angela delivers 3 meals."
+            ],
+            "answer_gt": "3",
+            "gpt usage": 0.0021390834999999997,
+            "elapsed time": 3.503876209259033,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The discounted subscription cost is $44."
+            ],
+            "answer_gt": "44",
+            "gpt usage": 0.0021403755,
+            "elapsed time": 2.8412227630615234,
+            "score": 70.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: After two years, Ariella will have $440 in her son's savings account."
+            ],
+            "answer_gt": "720",
+            "gpt usage": 0.0021418715,
+            "elapsed time": 3.3289361000061035,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The total cost George paid for his food was $15."
+            ],
+            "answer_gt": "21",
+            "gpt usage": 0.002143295,
+            "elapsed time": 3.760791778564453,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The answer is 6 miles."
+            ],
+            "answer_gt": "6",
+            "gpt usage": 0.0021445590000000003,
+            "elapsed time": 2.353147506713867,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: John spent $310 altogether."
+            ],
+            "answer_gt": "295",
+            "gpt usage": 0.0021461124999999997,
+            "elapsed time": 4.792143106460571,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Daniel spent $1,760 on the video games in his collection."
+            ],
+            "answer_gt": "2290",
+            "gpt usage": 0.0021477885,
+            "elapsed time": 4.765254020690918,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The answer is 21."
+            ],
+            "answer_gt": "32",
+            "gpt usage": 0.0021491905,
+            "elapsed time": 5.420995473861694,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Grandpa Lou could have watched a maximum of 6 full-length movies during these two days. He watched 3 movies on Tuesday and 6 movies on Wednesday."
+            ],
+            "answer_gt": "9",
+            "gpt usage": 0.002151089,
+            "elapsed time": 5.478365182876587,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The total cost of Silvia's order before the discount is $60.00. With a 10% discount, she will save $6.00. Therefore, her order after the discount will be $54.00."
+            ],
+            "answer_gt": "54",
+            "gpt usage": 0.0021527155,
+            "elapsed time": 4.940211534500122,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Mel will be 21 years old."
+            ],
+            "answer_gt": "21",
+            "gpt usage": 0.0021539185,
+            "elapsed time": 3.5941572189331055,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Kyle must make 75 origami stars to fill all the glass bottles he bought."
+            ],
+            "answer_gt": "75",
+            "gpt usage": 0.0021553049999999997,
+            "elapsed time": 4.2503273487091064,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Glenn spends $30 in total. $10 on Wednesday and $20 on Saturday."
+            ],
+            "answer_gt": "35",
+            "gpt usage": 0.0021567979999999997,
+            "elapsed time": 3.943828582763672,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The store sells 2 kilograms of sugar every week."
+            ],
+            "answer_gt": "2",
+            "gpt usage": 0.002158058,
+            "elapsed time": 3.8364336490631104,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: After applying the 10% discount, Simon's total purchase comes to $29.25. If he paid with a $50 bill, he would receive $20.75 in change."
+            ],
+            "answer_gt": "23",
+            "gpt usage": 0.0021597854999999997,
+            "elapsed time": 4.500547409057617,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Derek has $240 left."
+            ],
+            "answer_gt": "360",
+            "gpt usage": 0.0021612215000000002,
+            "elapsed time": 3.643345355987549,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Lisa spent a total of $160 (40 + 20 + 80) and Carly spent a total of $50 (10 + 30 + 10). Therefore, Lisa and Carly spent a total of $210 together."
+            ],
+            "answer_gt": "230",
+            "gpt usage": 0.0021631099999999998,
+            "elapsed time": 8.123550653457642,
+            "score": 85.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The total number of positive cases after the third day is 2750."
+            ],
+            "answer_gt": "3750",
+            "gpt usage": 0.0021648915,
+            "elapsed time": 7.742858409881592,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The total length of all of Christina's snakes combined is 58 inches."
+            ],
+            "answer_gt": "50",
+            "gpt usage": 0.0021663340000000002,
+            "elapsed time": 4.783637046813965,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: David broke 2 glasses, while William broke 8 glasses (4 times 2). In total, they broke 10 glasses."
+            ],
+            "answer_gt": "10",
+            "gpt usage": 0.002167774,
+            "elapsed time": 3.207724094390869,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Dallas is 18 years old now."
+            ],
+            "answer_gt": "46",
+            "gpt usage": 0.0021690445,
+            "elapsed time": 2.67262601852417,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The average cost across all products sold today was $940."
+            ],
+            "answer_gt": "670",
+            "gpt usage": 0.0021704660000000002,
+            "elapsed time": 3.8548924922943115,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The total cost of the gifts after the rebate is $354."
+            ],
+            "answer_gt": "322",
+            "gpt usage": 0.0021719545,
+            "elapsed time": 3.5834105014801025,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Herbert is currently 14 years old, so he will be 15 years old next year."
+            ],
+            "answer_gt": "15",
+            "gpt usage": 0.0021733125,
+            "elapsed time": 6.5251874923706055,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Rosie should run for 2 hours and 10 minutes on Friday to reach her goal of running 20 miles for the week."
+            ],
+            "answer_gt": "30",
+            "gpt usage": 0.0021750525,
+            "elapsed time": 7.799212694168091,
+            "score": 95.0
+        }
+    ]
+]

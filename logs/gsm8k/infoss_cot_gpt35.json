@@ -1,0 +1,1102 @@
+[
+    [
+        {
+            "answer": [
+                "Answer: Natalia sold 48 clips in April. In May, she sold half as many, which is 48 / 2 = 24 clips. Altogether, she sold 48 + 24 = 72 clips in April and May. The answer is 72."
+            ],
+            "answer_gt": "72",
+            "gpt usage": 0.0018034815000000002,
+            "elapsed time": 3.9521844387054443,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The wallet costs $100 and Betty has half of that, which is $50. Her parents gave her $15, so her grandparents gave her $15 * 2 = $30. In total, she received $15 + $30 = $45. Adding this to the $50 she already had, Betty now has $50 + $45 = $95. She still needs $100 - $95 = $5 more to buy the wallet. The answer is $5."
+            ],
+            "answer_gt": "5",
+            "gpt usage": 0.0018056475000000002,
+            "elapsed time": 6.0965399742126465,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: James writes a 3-page letter to 2 different friends twice a week, which means he writes 3 * 2 * 2 = 12 pages per week. In a year, there are 52 weeks, so he writes 12 * 52 = 624 pages in a year. The answer is 624."
+            ],
+            "answer_gt": "624",
+            "gpt usage": 0.001807585,
+            "elapsed time": 4.451900482177734,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Albert bought 2 large pizzas, each with 16 slices, so he has 2 * 16 = 32 slices from the large pizzas. He also bought 2 small pizzas, each with 8 slices, so he has 2 * 8 = 16 slices from the small pizzas. In total, he has 32 + 16 = 48 slices of pizza. Therefore, he eats 48 pieces of pizza that day."
+            ],
+            "answer_gt": "48",
+            "gpt usage": 0.001809772,
+            "elapsed time": 11.614942073822021,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Alexis spent a total of $30 + $46 + $38 + $11 + $18 = $143 on the clothes she has receipts for. She had a budget of $200 and has $16 left, so she spent $200 - $16 = $184 in total. Therefore, Alexis paid $184 - $143 = $41 for the shoes. The answer is $41."
+            ],
+            "answer_gt": "41",
+            "gpt usage": 0.001812143,
+            "elapsed time": 5.672727823257446,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Let x be the number of people on the ship the monster ate in the first hundred years. The number of people on the second ship is 2x, and the number of people on the third ship is 4x. In total, the monster has eaten x + 2x + 4x = 7x people over three hundred years, and this equals 847. So, 7x = 847, which means x = 847 / 7 = 121. Therefore, the monster ate 121 people on the ship in the first hundred years."
+            ],
+            "answer_gt": "121",
+            "gpt usage": 0.0018144475,
+            "elapsed time": 7.238935947418213,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Randy has 60 mango trees on his farm. Half of 60 is 60/2 = 30. 5 less than half of 60 is 30 - 5 = 25. So Randy has 25 coconut trees. In total, Randy has 60 mango trees + 25 coconut trees = 85 trees on his farm. The answer is 85."
+            ],
+            "answer_gt": "85",
+            "gpt usage": 0.001816544,
+            "elapsed time": 6.3007652759552,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Joy can read 8 pages in 20 minutes. This means she reads 1 page in 20/8 = 2.5 minutes. To read 120 pages, it will take her 120 * 2.5 = 300 minutes. Since there are 60 minutes in an hour, it will take her 300/60 = 5 hours to read 120 pages. The answer is 5 hours."
+            ],
+            "answer_gt": "5",
+            "gpt usage": 0.0018185879999999999,
+            "elapsed time": 4.779791355133057,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The total ratio is 2 + 5 = 7 parts. Johnson received 5 parts, which is $2500. This means each part is $2500 / 5 = $500. Mike received 2 parts, which is $500 * 2 = $1000. After spending $200 on a shirt, Mike will have $1000 - $200 = $800. The answer is $800."
+            ],
+            "answer_gt": "800",
+            "gpt usage": 0.0018208089999999998,
+            "elapsed time": 10.270601987838745,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Roque walks to work 3 times a week, which takes him 2 hours each time, so he spends 3 * 2 = 6 hours walking. He also rides his bike to work 2 times a week, which takes him 1 hour each time, so he spends 2 * 1 = 2 hours biking. In total, he takes 6 + 2 = 8 hours to get to and from work a week with walking and biking. The answer is 8."
+            ],
+            "answer_gt": "16",
+            "gpt usage": 0.0018231074999999998,
+            "elapsed time": 5.299649715423584,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Bella bought 11 snowflake stamps. She bought 9 more truck stamps than snowflake stamps, so she bought 11 + 9 = 20 truck stamps. She also bought 13 fewer rose stamps than truck stamps, so she bought 20 - 13 = 7 rose stamps. In total, Bella bought 11 + 20 + 7 = 38 stamps. The answer is 38."
+            ],
+            "answer_gt": "38",
+            "gpt usage": 0.0018254044999999998,
+            "elapsed time": 6.427512884140015,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Jamie's last name is Grey, which has 4 letters. If Bobbie's last name has 3 more letters than Samantha's last name, and if Bobbie's last name is twice the length of Jamie's last name when 2 letters are taken off, that means Bobbie's last name is 8 letters long. So, Samantha's last name has 8 - 3 = 5 letters. Therefore, Samantha's last name has 5 letters."
+            ],
+            "answer_gt": "7",
+            "gpt usage": 0.0018276640000000001,
+            "elapsed time": 6.409653425216675,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Mary spent the full credit limit of $100. She paid $15 on Tuesday and $23 on Thursday, which adds up to $15 + $23 = $38. She still needs to pay the remaining credit, which is $100 - $38 = $62. Mary will need to pay $62 before her next shopping trip. The answer is $62."
+            ],
+            "answer_gt": "62",
+            "gpt usage": 0.0018298774999999999,
+            "elapsed time": 5.603751182556152,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: If the seawater is 20% salt, then 2 liters (2000 ml) of seawater will contain 2000 * 0.20 = 400 ml of salt. So, when all the water evaporates, Jack will be left with 400 ml of salt."
+            ],
+            "answer_gt": "400",
+            "gpt usage": 0.001831985,
+            "elapsed time": 5.859366416931152,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The first four houses each have 3 gnomes, so in total, they have 4 * 3 = 12 gnomes. If there are 20 gnomes on the street in total, then the fifth house must have 20 - 12 = 8 gnomes. The fifth house has 8 gnomes."
+            ],
+            "answer_gt": "8",
+            "gpt usage": 0.0018342229999999998,
+            "elapsed time": 6.140666246414185,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Each personal pan pizza is cut into 4 pieces. Bill and Dale eat 50% of their pizzas, which means they each eat 4 * 0.5 = 2 pieces. Ann and Cate eat 75% of their pizzas, which means they each eat 4 * 0.75 = 3 pieces. So, in total, Bill, Dale, Ann, and Cate eat 2 + 2 + 3 + 3 = 10 pieces. Each pizza started with 4 pieces, so there are 4 - 10 = 14 pieces left uneaten. The answer is 14."
+            ],
+            "answer_gt": "6",
+            "gpt usage": 0.0018366290000000002,
+            "elapsed time": 6.8573455810546875,
+            "score": 85.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: After the 1st turn, the car travels 5 meters. After the 2nd turn, it travels 8 meters. This means after the 2nd turn, it has traveled a total of 5 + 8 = 13 meters. The total distance around the ring is 23 meters. This means after the 3rd turn, the car had to travel 23 - 13 = 10 meters. The answer is 10 meters."
+            ],
+            "answer_gt": "10",
+            "gpt usage": 0.001839137,
+            "elapsed time": 5.36660361289978,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: If Ken got $1750, then Tony got twice as much, which is $1750 * 2 = $3500. Therefore, the total amount of money shared was $1750 + $3500 = $5250."
+            ],
+            "answer_gt": "5250",
+            "gpt usage": 0.001841221,
+            "elapsed time": 6.156865358352661,
+            "score": 98.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Half of $60 is $30. Lisa earned $30, Tommy earned half of what Lisa earned, so Tommy earned $30 / 2 = $15. Lisa earned $30 - $15 = $15 more than Tommy. The answer is $15."
+            ],
+            "answer_gt": "15",
+            "gpt usage": 0.001843169,
+            "elapsed time": 4.96440315246582,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Artemis's mom drinks an 8-ounce cup of tea using 1 ounce of tea, so the ratio is 8:1. Each person at the party wants a 6-ounce cup of tea. Using the same ratio, each 6-ounce cup of tea would require 6/8 = 0.75 ounces of tea. With 12 people at the party, she would need 12 * 0.75 = 9 ounces of tea. The answer is 9."
+            ],
+            "answer_gt": "9",
+            "gpt usage": 0.0018455525,
+            "elapsed time": 7.3419578075408936,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Mr. Benson bought 12 tickets at $40 each, so the total cost before any discount is 12 * $40 = $480. Since he bought more than 10 tickets, he gets a 5% discount on each ticket. The discount per ticket is 5/100 * $40 = $2. He bought 2 extra tickets (12 - 10 = 2), so he gets a discount of 2 * $2 = $4. Therefore, he paid $480 - $4 = $476 in total. The answer is $476."
+            ],
+            "answer_gt": "476",
+            "gpt usage": 0.0018478864999999997,
+            "elapsed time": 6.559720039367676,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: In the 6 piles with 9 hands of bananas, each hand has 14 bananas. So each pile has 9 * 14 = 126 bananas. There are 6 piles, so in total, these piles have 6 * 126 = 756 bananas. In the remaining piles with 12 hands of bananas, each hand has 9 bananas. So each pile has 12 * 9 = 108 bananas. There are 4 of these piles, so in total, these piles have 4 * 108 = 432 bananas. Together, the family has 756 + 432 = 1188 bananas. If they divide these equally among the 12 monkeys, each monkey would get 1188 / 12 = 99 bananas. The answer is 99."
+            ],
+            "answer_gt": "99",
+            "gpt usage": 0.001850409,
+            "elapsed time": 6.76560640335083,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: James spends 30% of $1000 on food, which is 0.3 * 1000 = $300.\nHe spends 15% on accommodation, which is 0.15 * 1000 = $150.\nHe spends 25% on entertainment, which is 0.25 * 1000 = $250.\nSo far, he has spent 300 + 150 + 250 = $700.\nThis means he has $1000 - $700 = $300 left to spend on coursework materials. \nTherefore, James spends $300 on coursework materials."
+            ],
+            "answer_gt": "300",
+            "gpt usage": 0.0018527525000000002,
+            "elapsed time": 4.706319093704224,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Carolyn practices the piano for 20 minutes a day, which means she practices the violin for 3 * 20 = 60 minutes a day. In total, she practices for 20 + 60 = 80 minutes a day. In a week, she practices for 80 * 6 = 480 minutes. In a month with four weeks, she practices for 480 * 4 = 1920 minutes. The answer is 1920."
+            ],
+            "answer_gt": "1920",
+            "gpt usage": 0.001854902,
+            "elapsed time": 5.0106847286224365,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: If Mina memorized 24 digits of pi, and she memorized six times as many as Carlos, then Carlos memorized 24 / 6 = 4 digits. Sam memorized six more digits than Carlos, so Sam memorized 4 + 6 = 10 digits. The answer is 10."
+            ],
+            "answer_gt": "10",
+            "gpt usage": 0.0018570334999999999,
+            "elapsed time": 4.350688934326172,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Gerald spends $100 a month on baseball supplies and his season is 4 months long, so he needs to save up $100 * 4 = $400 for his supplies. He charges $10 for each chore, so he needs to do $400 / $10 = 40 chores to save up for his supplies. Since he wants to save up during the months he's not playing baseball, he needs to average 40 / (12 - 4) = 40 / 8 = 5 chores a month. Therefore, he needs to average 5 chores a month to save up for his baseball supplies."
+            ],
+            "answer_gt": "5",
+            "gpt usage": 0.0018594384999999999,
+            "elapsed time": 5.5704967975616455,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Arnel shared the remaining pencils with 5 friends, giving each friend 8 pencils. This means he shared a total of 5 * 8 = 40 pencils. He kept 10 pencils for himself, so he had a total of 40 + 10 = 50 pencils. Since he started with 10 boxes of pencils and each box had the same number of pencils, there were 50 pencils divided into 10 boxes, giving each box 50 / 10 = 5 pencils. Therefore, there are 5 pencils in each box."
+            ],
+            "answer_gt": "5",
+            "gpt usage": 0.0018617285,
+            "elapsed time": 5.449321508407593,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Leah spent 28 / 7 = $4 on a milkshake. This means she had 28 - 4 = $24 left. She put half of this in her savings account, so she put 24 / 2 = $12 in her savings account. This means she had 24 - 12 = $12 left in her wallet. Her dog shredded all the money in her wallet except for $1, so Leah lost $12 - 1 = $11. The answer is $11."
+            ],
+            "answer_gt": "11",
+            "gpt usage": 0.0018640954999999998,
+            "elapsed time": 5.797373294830322,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Leo finished the first part in 25 minutes. The second part took twice as long, so it took 25 * 2 = 50 minutes. Together, the first and second parts took 25 + 50 = 75 minutes. If his assignment took 2 hours (120 minutes) in total, then the third part took 120 - 75 = 45 minutes. Leo finished the third part of his assignment in 45 minutes."
+            ],
+            "answer_gt": "45",
+            "gpt usage": 0.0018663900000000003,
+            "elapsed time": 8.159668445587158,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: 2/3 of the students receive $6 per day, while the remaining 1/3 receive $4 per day. If he surveyed 60 students, then 2/3 of 60 is 40 students receiving $6 per day, and 1/3 of 60 is 20 students receiving $4 per day. \n\nSo, the total amount of money received by the 40 students receiving $6 per day is 40 * $6 = $240 per day. \nAnd the total amount of money received by the 20 students receiving $4 per day is 20 * $4 = $80 per day. \n\nTherefore, the total amount of money those 60 students get in a day is $240 + $80 = $320."
+            ],
+            "answer_gt": "320",
+            "gpt usage": 0.0018689559999999997,
+            "elapsed time": 7.325657367706299,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Each daughter has 8 games, so they each have 8 * 2 = 16 hours of games. Each team practices 4 hours for every game, so each daughter practices for 8 * 4 = 32 hours. This means each daughter spends a total of 16 + 32 = 48 hours at the field. Since Jerry has two daughters, he will spend 48 * 2 = 96 hours at the field watching his daughters play and practice altogether. The answer is 96."
+            ],
+            "answer_gt": "96",
+            "gpt usage": 0.0018713865,
+            "elapsed time": 10.571847915649414,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: There are 24 cans holding 290 liters of oil in total. 10 of the cans are holding 8 liters each, which means 10 * 8 = 80 liters are accounted for. This leaves 290 - 80 = 210 liters for the remaining cans. There are 24 - 10 = 14 remaining cans. Therefore, each of the remaining cans is holding 210 / 14 = 15 liters of oil. The answer is 15."
+            ],
+            "answer_gt": "15",
+            "gpt usage": 0.0018736620000000003,
+            "elapsed time": 7.637843370437622,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: James earns $20 an hour at his main job. 20% less means he earns $20 - ($20 * 0.20) = $20 - $4 = $16 per hour at his second job. He works 30 hours at his main job, so he earns 30 * $20 = $600. He works half as much at his second job, so he works 30 / 2 = 15 hours. Therefore, he earns 15 * $16 = $240 at his second job. In total, he earns $600 + $240 = $840 per week. The answer is $840."
+            ],
+            "answer_gt": "840",
+            "gpt usage": 0.0018761905,
+            "elapsed time": 11.122814893722534,
+            "score": 85.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Tara needs to make a 20% down payment on the $1000 laptop, which is 20/100 * $1000 = $200. Since she wants to pay an additional $20, her total down payment will be $200 + $20 = $220. This means her remaining balance will be $1000 - $220 = $780. \n\nIf she pays $65 per month for 4 months, she will pay a total of $65 * 4 = $260. Subtracting this from her remaining balance of $780, she will have $780 - $260 = $520. \n\nTherefore, Tara's balance after paying for 4 months will be $520."
+            ],
+            "answer_gt": "520",
+            "gpt usage": 0.001878735,
+            "elapsed time": 6.375762939453125,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The ratio of coins Elsa has to Amalie is 10:45, which means Elsa has 10/55 of the total coins and Amalie has 45/55 of the total coins. If the total number of coins is 440, then Amalie has 45/55 * 440 = 360 coins. If she spends 3/4 of what she has on toys, she will spend 3/4 * 360 = 270 coins. Therefore, she will remain with 360 - 270 = 90 coins. The answer is 90."
+            ],
+            "answer_gt": "90",
+            "gpt usage": 0.0018812630000000002,
+            "elapsed time": 10.084176063537598,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Tim has 30 less apples than Martha, so he has 68 - 30 = 38 apples. Harry has half as many apples as Tim, so he has 38 / 2 = 19 apples. The answer is 19."
+            ],
+            "answer_gt": "19",
+            "gpt usage": 0.0018833505,
+            "elapsed time": 6.003237009048462,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The aquarium is 4 feet long, 6 feet wide, and 3 feet high, so the total volume is 4 * 6 * 3 = 72 cubic feet. Nancy fills it halfway, so there is 72 / 2 = 36 cubic feet of water in the aquarium. The cat spills half of it, so there is 36 / 2 = 18 cubic feet left. Nancy then triples the amount of water, which means there are 18 * 3 = 54 cubic feet of water in the aquarium. The answer is 54."
+            ],
+            "answer_gt": "54",
+            "gpt usage": 0.0018857255000000002,
+            "elapsed time": 9.68641710281372,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The first person lost 27 kilograms. The second person lost 27 - 7 = 20 kilograms. This means the first two people lost 27 + 20 = 47 kilograms. The total weight loss is 103 kilograms, so the last two people lost 103 - 47 = 56 kilograms combined. Since they lost the same amount, each of the last two people lost 56 / 2 = 28 kilograms. The answer is 28."
+            ],
+            "answer_gt": "28",
+            "gpt usage": 0.001887961,
+            "elapsed time": 7.433196067810059,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The garden produced 237 potatoes. It also produced 60 fewer cucumbers, which means it produced 237 - 60 = 177 cucumbers. The garden produced twice as many peppers as cucumbers, so it produced 2 * 177 = 354 peppers. In total, the garden produced 237 + 177 + 354 = 768 vegetables. The answer is 768."
+            ],
+            "answer_gt": "768",
+            "gpt usage": 0.0018900475000000001,
+            "elapsed time": 7.774907112121582,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Manny had 3 cookie pies, each cut into 10 slices, so there were a total of 3 * 10 = 30 slices. Manny, his 24 classmates, and Mr. Keith each had 1 slice, which is a total of 1 + 24 + 1 = 26 slices taken. Therefore, there are 30 - 26 = 4 slices left. The answer is 4."
+            ],
+            "answer_gt": "4",
+            "gpt usage": 0.0018922065000000002,
+            "elapsed time": 4.281261920928955,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Jennifer bought 40 cans of milk. For every 5 cans Mark bought, she bought 6 more. Since Mark bought 50 cans, she bought 6 * (50 / 5) = 60 cans. Therefore, Jennifer brought home 40 + 60 = 100 cans of milk from the store."
+            ],
+            "answer_gt": "100",
+            "gpt usage": 0.0018943585,
+            "elapsed time": 5.9591991901397705,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Irene earns $500 for working 40 hours a week. For the 10 hours of overtime she worked, she earns an extra $20 per hour, so she earns 10 * $20 = $200 for overtime. Therefore, her total income for last week is $500 + $200 = $700. The answer is $700."
+            ],
+            "answer_gt": "700",
+            "gpt usage": 0.001896428,
+            "elapsed time": 7.491024017333984,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The hotel has 10 floors with 10 rooms on each floor, but the last floor is unavailable. This means there are 9 floors available with 10 rooms each, for a total of 9 * 10 = 90 rooms. Therefore, Hans could be checked into any one of the 90 available rooms. The answer is 90."
+            ],
+            "answer_gt": "90",
+            "gpt usage": 0.001898572,
+            "elapsed time": 4.131431579589844,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Peter brought $2 and leaves with $.50, meaning he spent $2 - $.50 = $1.50. Since the soda costs $.25 an ounce, he bought $1.50 / $.25 = 6 ounces of soda. The answer is 6 ounces."
+            ],
+            "answer_gt": "6",
+            "gpt usage": 0.0019006094999999999,
+            "elapsed time": 7.0230488777160645,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Brandon sold 86 geckos last year. This means he sold 86 * 2 = 172 geckos the year before. So in the last two years, Brandon has sold 86 + 172 = 258 geckos. The answer is 258."
+            ],
+            "answer_gt": "258",
+            "gpt usage": 0.0019025535000000001,
+            "elapsed time": 8.249492883682251,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Herman feeds the birds 1 cup of food per day. There are 3 months, so he will need 1 cup * 2 times a day * 30 days per month * 3 months = 180 cups of food for all three months. The answer is 180 cups."
+            ],
+            "answer_gt": "90",
+            "gpt usage": 0.0019046985,
+            "elapsed time": 8.575469493865967,
+            "score": 90.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Sally makes $6 per day and saves half, so she saves $6 / 2 = $3 per day. Bob makes $4 per day and saves half, so he saves $4 / 2 = $2 per day. Together, they save $3 + $2 = $5 per day. In a year, they will save $5 * 365 = $1825. They will have saved $1825 each for their trip."
+            ],
+            "answer_gt": "1825",
+            "gpt usage": 0.001907082,
+            "elapsed time": 8.97356104850769,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: John writes 20 pages a day. Each book is 400 pages, so he needs to write 400 * 3 = 1200 pages in total. If he writes 20 pages a day, it will take him 1200 / 20 = 60 days to write 3 books that are 400 pages each. The answer is 60 days."
+            ],
+            "answer_gt": "60",
+            "gpt usage": 0.001909206,
+            "elapsed time": 7.052145481109619,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: On Monday, James collected 4 inches of rain, so he collected 4 * 15 = 60 gallons. On Tuesday, he collected 3 inches of rain, so he collected 3 * 15 = 45 gallons. In total, he collected 60 + 45 = 105 gallons. He can sell each gallon for $1.2, so he made 105 * 1.2 = $126 from selling all the water. The answer is $126."
+            ],
+            "answer_gt": "126",
+            "gpt usage": 0.001911527,
+            "elapsed time": 6.92783260345459,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "To find the total number of gumballs that Hector purchased, we need to work backwards. \n\nIf Hector had 6 gumballs remaining after giving some to Todd, Alisha, and Bobby, then Bobby received 4 times the number of gumballs that Alisha received minus 5. Since Alisha received twice as many as Todd, and Todd received 4 gumballs, Alisha received 2 * 4 = 8 gumballs. \n\nThis means Bobby received 4 * 8 - 5 = 27 gumballs. Adding up the gumballs given to Todd, Alisha, and Bobby, we get 4 + 8 + 27 = 39 gumballs. \n\nSince Hector had 6 gumballs remaining, he must have purchased 39 + 6 = 45 gumballs in total. Therefore, the total number of gumballs that Hector purchased is 45."
+            ],
+            "answer_gt": "45",
+            "gpt usage": 0.0019143279999999999,
+            "elapsed time": 10.836074829101562,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: A third of 36 sales is 36 / 3 = 12 sales in the fabric section. A quarter of 36 sales is 36 / 4 = 9 sales in the jewelry section. So, the total sales in fabric and jewelry sections is 12 + 9 = 21. This means the remaining sales in the stationery section is 36 - 21 = 15. The answer is 15."
+            ],
+            "answer_gt": "15",
+            "gpt usage": 0.001916513,
+            "elapsed time": 6.46700644493103,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Ellie needs 10ml of oil for each wheel, so 10ml x 2 wheels = 20ml for the wheels. She also needs 5ml for the rest of the bike. In total, she needs 20ml + 5ml = 25ml of oil to fix the bike. The answer is 25."
+            ],
+            "answer_gt": "25",
+            "gpt usage": 0.001918686,
+            "elapsed time": 5.408239841461182,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: During one day, the boat can transport 4 trips * 12 people = 48 people. In 2 days, the boat can transport 48 people * 2 = 96 people. The answer is 96."
+            ],
+            "answer_gt": "96",
+            "gpt usage": 0.0019206485000000002,
+            "elapsed time": 8.25788164138794,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Each pack has 1/4 of the cards as uncommon cards. This means each pack has 20 * 1/4 = 5 uncommon cards. John bought 10 packs, so he got 10 * 5 = 50 uncommon cards. The answer is 50."
+            ],
+            "answer_gt": "50",
+            "gpt usage": 0.0019226415,
+            "elapsed time": 5.26316237449646,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Henry took 9 pills a day for 14 days, so he took a total of 9 * 14 = 126 pills. Of these, 4 pills cost $1.50 each, so that's 4 * $1.50 = $6. The other 5 pills cost $5.50 more each, so they cost $1.50 + $5.50 = $7 each. He took 5 * 14 = 70 of these pills, so they cost 70 * $7 = $490. In total, he spent $6 + $490 = $496 on the pills. The answer is $496."
+            ],
+            "answer_gt": "41",
+            "gpt usage": 0.0019249204999999998,
+            "elapsed time": 7.67989182472229,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "First, we find out how many candy bars Tina sold. Since Tina sold three times the number of candy bars as Marvin, she sold 35 * 3 = 105 candy bars.\nMarvin sold 35 candy bars, so he made 35 * $2 = $70.\nTina sold 105 candy bars, so she made 105 * $2 = $210.\nTherefore, Tina made $210 - $70 = $140 more money for the class trip selling candy bars compared to Marvin."
+            ],
+            "answer_gt": "140",
+            "gpt usage": 0.0019272025,
+            "elapsed time": 5.1407928466796875,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "First, they took half of 400, which is 400/2 = 200 photos on the first day.\nOn the second day, they took 200 + 120 = 320 photos.\nIn total, they took 200 + 320 = 520 photos on the trip.\nAdding these photos to the 400 photos already in the gallery, the total number of photos in the gallery is 400 + 520 = 920. \nTherefore, the total number of photos in the gallery is 920."
+            ],
+            "answer_gt": "920",
+            "gpt usage": 0.001929591,
+            "elapsed time": 7.291362285614014,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Ed has 2 dogs + 3 cats = 5 cats and dogs combined. He has twice as many fish as cats and dogs combined, so he has 2 * 5 = 10 fish. In total, Ed has 2 dogs + 3 cats + 10 fish = 15 pets. The answer is 15."
+            ],
+            "answer_gt": "15",
+            "gpt usage": 0.001931591,
+            "elapsed time": 6.357260465621948,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Valerie needs to put stamps on 6 envelopes for the thank you cards (3 for grandmother, uncle, and aunt), 2 for the bills (1 for water bill and 1 for electric bill), 3 for the mail-in rebates, and 6 for the job applications. The electric bill envelope needs 2 stamps. So in total, she needs 6 + 2 + 3 + 6 + 2 = 19 stamps. The answer is 19."
+            ],
+            "answer_gt": "21",
+            "gpt usage": 0.0019341555,
+            "elapsed time": 5.717949628829956,
+            "score": 85.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Jeanette starts with 3 objects and each week she can juggle 2 more. After 5 weeks, she can juggle 3 + (5 * 2) = 3 + 10 = 13 objects. The answer is 13."
+            ],
+            "answer_gt": "13",
+            "gpt usage": 0.0019362325000000001,
+            "elapsed time": 7.720466613769531,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Carrie earns $8 an hour and works 35 hours a week, so she earns 8 * 35 = $280 per week. In a month, there are about 4 weeks, so she earns 280 * 4 = $1120 in a month. After buying a bike for $400, she will have $1120 - $400 = $720 left over. The answer is $720."
+            ],
+            "answer_gt": "720",
+            "gpt usage": 0.0019384390000000001,
+            "elapsed time": 6.809959888458252,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: There were 40 chairs with a capacity of 2 people each, so the total capacity of the chairs is 40 * 2 = 80 people. If 2/5 of the chairs were not occupied, then 2/5 * 40 = 16 chairs were empty. This means that 40 - 16 = 24 chairs were occupied. Since each of these chairs had 2 people, there were a total of 24 * 2 = 48 people who attended the meeting. Therefore, there were 48 board members who attended the meeting."
+            ],
+            "answer_gt": "48",
+            "gpt usage": 0.001940901,
+            "elapsed time": 6.22780966758728,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: If the third ball used 27 feet of yarn and is three times as large as the first ball, then the first ball used 27 / 3 = 9 feet of yarn. Since the first ball is half the size of the second ball, the second ball used 9 * 2 = 18 feet of yarn. Therefore, Joy used 18 feet of yarn for the second ball."
+            ],
+            "answer_gt": "18",
+            "gpt usage": 0.001943236,
+            "elapsed time": 7.57617712020874,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: If Bob has 10 roommates, then twice as many as Bob would be 2 * 10 = 20 roommates. John has five more roommates than twice as many as Bob, so John has 20 + 5 = 25 roommates. Therefore, John has 25 roommates."
+            ],
+            "answer_gt": "25",
+            "gpt usage": 0.001945199,
+            "elapsed time": 5.689444303512573,
+            "score": 100.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Each room can fit 2 students in the queen size beds and 1 student on the pull-out couch, totaling 3 students per room. With 30 students in the class, the principal will need to book 30 / 3 = 10 rooms to fit all of the students. The answer is 10."
+            ],
+            "answer_gt": "6",
+            "gpt usage": 0.0019475539999999998,
+            "elapsed time": 6.934414625167847,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Ali started with 180 seashells. He gave away 40 + 30 = 70 seashells. This means he had 180 - 70 = 110 seashells left. He then sold half of the remaining seashells, which is 110 / 2 = 55 seashells. Therefore, he had 55 seashells left. The answer is 55."
+            ],
+            "answer_gt": "55",
+            "gpt usage": 0.0019498005,
+            "elapsed time": 7.089072942733765,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: James buys 5 packs of beef, each weighing 4 pounds. This means he bought a total of 5 * 4 = 20 pounds of beef. The price of beef is $5.50 per pound, so he paid 20 * $5.50 = $110.00. The answer is $110.00."
+            ],
+            "answer_gt": "110",
+            "gpt usage": 0.001951819,
+            "elapsed time": 3.9114372730255127,
+            "score": 100.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The couple has two children, ages 6 and 10. Both children are below 12 years old, so they each get a $5 discount on the regular ticket price of $109. This means each child's ticket costs $109 - $5 = $104. The couple needs to buy 2 children's tickets and 2 adult tickets, so the total cost is 2*$104 + 2*$109 = $426. They gave the cashier $500, so they will receive $500 - $426 = $74 in change. The answer is $74."
+            ],
+            "answer_gt": "74",
+            "gpt usage": 0.001954292,
+            "elapsed time": 8.953520059585571,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Loraine used 12 sticks of wax for small animals, which means she made 12 / 2 = 6 small animals. Since she made three times as many small animals as large animals, she made 6 / 3 = 2 large animals. Large animals take 4 sticks each, so she used 2 * 4 = 8 sticks for large animals. In total, Loraine used 12 + 8 = 20 sticks of wax to make all the animals. The answer is 20."
+            ],
+            "answer_gt": "20",
+            "gpt usage": 0.0019566435,
+            "elapsed time": 8.031367778778076,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Each gallon of milk is discounted by $1, so you save $1 per gallon. If you buy 3 gallons of milk, you will save 3 * $1 = $3. Each box of cereal is discounted by $1, so you save $1 per box. If you buy 5 boxes of cereal, you will save 5 * $1 = $5. In total, you will save $3 + $5 = $8 via discounts. The answer is $8."
+            ],
+            "answer_gt": "8",
+            "gpt usage": 0.0019588175,
+            "elapsed time": 8.128812551498413,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: From Riverside High, Fern denied 20% of 120 kids, which is 0.20 * 120 = 24 kids. This means 120 - 24 = 96 kids got in. From West Side High, Fern denied 70% of 90 kids, which is 0.70 * 90 = 63 kids. This means 90 - 63 = 27 kids got in. From Mountaintop High, Fern denied half of 50 kids, which is 0.50 * 50 = 25 kids. This means 50 - 25 = 25 kids got in. In total, 96 + 27 + 25 = 148 kids got into the movie. The answer is 148."
+            ],
+            "answer_gt": "148",
+            "gpt usage": 0.0019613745000000003,
+            "elapsed time": 6.8197596073150635,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Using the first spray kills 50% of germs, and using the second spray kills 25% of germs. However, 5% of the germs killed by the second spray are the same ones already killed by the first spray. This means after using both sprays together, the total percentage of germs killed would be 50% + 25% - 5% = 70%. Therefore, after using both sanitizer sprays together, 30% of germs would be left."
+            ],
+            "answer_gt": "30",
+            "gpt usage": 0.001963814,
+            "elapsed time": 5.7974371910095215,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The first butcher delivered 10 packages, each weighing 4 pounds, for a total of 10 * 4 = 40 pounds. The second butcher delivered 7 packages, each weighing 4 pounds, for a total of 7 * 4 = 28 pounds. The total weight of ground beef delivered by the first two butchers is 40 + 28 = 68 pounds. Since the total weight of ground beef delivered by all three butchers is 100 pounds, the third butcher delivered 100 - 68 = 32 pounds. Since each package weighs 4 pounds, the third butcher delivered 32 / 4 = 8 packages. The answer is 8."
+            ],
+            "answer_gt": "8",
+            "gpt usage": 0.0019664815,
+            "elapsed time": 9.806497573852539,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Richard takes 22 minutes to clean his room. Cory takes 22 + 3 = 25 minutes to clean her room. Blake takes 25 - 4 = 21 minutes to clean his room. \nTogether, they spend 22 + 25 + 21 = 68 minutes cleaning their rooms each time. Since they have to clean their rooms twice a week, they spend 68 * 2 = 136 minutes cleaning their rooms each week. \nTherefore, all three of them spend 136 minutes cleaning their rooms each week."
+            ],
+            "answer_gt": "136",
+            "gpt usage": 0.0019688075,
+            "elapsed time": 8.487455368041992,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Winwin won $50 in the lottery. She paid 20% for the tax, which is 0.2 * 50 = $10. She also paid $5 for the processing fee. So in total, she paid 10 + 5 = $15. Therefore, she was able to take home 50 - 15 = $35. The answer is $35."
+            ],
+            "answer_gt": "35",
+            "gpt usage": 0.001970822,
+            "elapsed time": 4.53014612197876,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Angela needs to deliver 8 times as many packages as meals. If she needs to deliver 27 meals and packages combined, and meals are represented by \"m\", then packages would be represented by 8m. This means m + 8m = 27. Combining like terms, this gives us 9m = 27. Dividing both sides by 9, we get m = 3. So, Angela delivers 3 meals."
+            ],
+            "answer_gt": "3",
+            "gpt usage": 0.0019729185,
+            "elapsed time": 9.253492593765259,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: With a 45% discount, the subscription costs 80 * 0.45 = $36 less. Therefore, the discounted subscription costs $80 - $36 = $44. The answer is $44."
+            ],
+            "answer_gt": "44",
+            "gpt usage": 0.0019748385,
+            "elapsed time": 4.619507789611816,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Ariella has $200 more than Daniella, so she has $400 + $200 = $600 in her son's savings account. With simple interest at a rate of 10% per annum, after two years she will have $600 + ($600 * 0.10 * 2) = $600 + $120 = $720. Therefore, Ariella will have $720 after two years."
+            ],
+            "answer_gt": "720",
+            "gpt usage": 0.0019770770000000003,
+            "elapsed time": 8.742804288864136,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The sandwich cost $4. The juice was two times more expensive, so it cost $4 * 2 = $8. The bottle of milk cost 75% of the total cost of the sandwich and juice, which is (4 + 8) * 0.75 = $9. Therefore, George paid $4 + $8 + $9 = $21 for his food."
+            ],
+            "answer_gt": "21",
+            "gpt usage": 0.00197933,
+            "elapsed time": 5.379284143447876,
+            "score": 100.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Jerome wants to ride 12 miles for 12 days, totaling 12 * 12 = 144 miles. He has a 150-mile trip, so he needs to ride 150 - 144 = 6 miles on the 13th day to finish his goal. The answer is 6 miles."
+            ],
+            "answer_gt": "6",
+            "gpt usage": 0.0019813855,
+            "elapsed time": 5.877709865570068,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The cost of the burgers is 100 pounds * $3 = $300. The total cost of condiments and propane is $80. The total cost of everything except alcohol is $300 + $80 = $380. John splits this cost with 3 other people, so his share is $380 / 4 = $95. Adding the $200 he spent on alcohol, John spent $95 + $200 = $295 altogether. The answer is $295."
+            ],
+            "answer_gt": "295",
+            "gpt usage": 0.001983654,
+            "elapsed time": 6.10466742515564,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Daniel bought 80 games for $12 each, so he spent 80 * $12 = $960 on those games. \nThe rest of the games in his collection are 346 - 80 = 266 games.\n50% of the remaining games were bought for $7 each, so he bought 50% of 266 = 133 games for $7 each. This means he spent 133 * $7 = $931 on those games.\nThe rest of the games were bought for $3 each, so he spent 133 * $3 = $399 on those games.\nTherefore, Daniel spent a total of $960 + $931 + $399 = $2290 on all the games in his collection."
+            ],
+            "answer_gt": "2290",
+            "gpt usage": 0.0019861085,
+            "elapsed time": 9.282477378845215,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: On Tuesday, Buddy loses half of his 30 baseball cards, which means he loses 30 / 2 = 15 cards. So on Tuesday, he has 30 - 15 = 15 cards left. On Wednesday, he buys 12 more cards, so he now has 15 + 12 = 27 cards. On Thursday, he buys a third of what he had on Tuesday, which is 15 / 3 = 5 cards. So on Thursday, he has 27 + 5 = 32 baseball cards. The answer is 32."
+            ],
+            "answer_gt": "32",
+            "gpt usage": 0.0019883005000000003,
+            "elapsed time": 6.577658176422119,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: On Tuesday, he watched 4 hours and 30 minutes of movies, which is equivalent to 4 * 60 + 30 = 270 minutes. Since each movie is 90 minutes long, he could have watched 270 / 90 = 3 movies on Tuesday. On Wednesday, he watched twice as many movies, so he could have watched 3 * 2 = 6 movies. Therefore, the maximum number of full-length movies Grandpa could have watched during these two days is 3 + 6 = 9 movies."
+            ],
+            "answer_gt": "9",
+            "gpt usage": 0.0019908935000000003,
+            "elapsed time": 5.9803242683410645,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The total cost of the order without the discount is calculated as follows: 2 quiches at $15.00 each is $30.00, 6 croissants at $3.00 each is $18.00, and 6 buttermilk biscuits at $2.00 each is $12.00. So the total cost without the discount is $30 + $18 + $12 = $60. \n\nSince the total is over $50.00, she is eligible for a 10% discount. 10% of $60 is $6.00. So the total cost of the order with the discount is $60 - $6 = $54.00. The answer is $54.00."
+            ],
+            "answer_gt": "54",
+            "gpt usage": 0.00199342,
+            "elapsed time": 5.996277570724487,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: If Katherine is two dozen years old, she is 2 * 12 = 24 years old. Since Mel is three years younger, she will be 24 - 3 = 21 years old when Katherine is two dozen years old. The answer is 21."
+            ],
+            "answer_gt": "21",
+            "gpt usage": 0.001995455,
+            "elapsed time": 10.666696310043335,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Kyle originally bought 2 glass bottles that can hold 15 origami stars each, so he can hold 2 * 15 = 30 stars. He then bought 3 more identical glass bottles, so in total he bought 2 + 3 = 5 glass bottles. To fill all the glass bottles he bought, he must make 5 * 15 = 75 stars. The answer is 75."
+            ],
+            "answer_gt": "75",
+            "gpt usage": 0.001997637,
+            "elapsed time": 5.435083627700806,
+            "score": 100.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Movie tickets cost $5 each on Monday, so on Wednesday they cost 5 * 2 = $10 each. On Saturday, they cost 5 * 5 = $25 each. Glenn goes on Wednesday and Saturday, so he spends $10 + $25 = $35 in total. The answer is $35."
+            ],
+            "answer_gt": "35",
+            "gpt usage": 0.001999751,
+            "elapsed time": 5.83469033241272,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Each packet is 100 grams, so 20 packets would be 20 * 100 = 2000 grams. Since there are 1000 grams in a kilogram, the store sells 2000 / 1000 = 2 kilograms of sugar every week. The answer is 2 kilograms."
+            ],
+            "answer_gt": "2",
+            "gpt usage": 0.002001757,
+            "elapsed time": 6.1796348094940186,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Simon bought 5 pansies at $2.50 each, which is a total of 5 * $2.50 = $12.50. He also bought 5 petunias at $1.00 each, which is a total of 5 * $1.00 = $5.00. Adding the cost of the hydrangea, his total purchase comes to $12.50 + $5.00 + $12.50 = $30.00. With a 10% discount, he saves $30.00 * 0.10 = $3.00. So, he pays $30.00 - $3.00 = $27.00. If he pays with a $50 bill, he will receive $50.00 - $27.00 = $23.00 in change. The answer is $23.00."
+            ],
+            "answer_gt": "23",
+            "gpt usage": 0.0020044475,
+            "elapsed time": 9.590890169143677,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Derek spends half of $960 on his textbooks, so he spends $960 / 2 = $480. After buying textbooks, he has $960 - $480 = $480 left. He then spends a quarter of that on school supplies, which is $480 / 4 = $120. Therefore, Derek has $480 - $120 = $360 left. The answer is $360."
+            ],
+            "answer_gt": "360",
+            "gpt usage": 0.002006616,
+            "elapsed time": 4.607690811157227,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: \n- Lisa spent $40 on t-shirts, half of this amount on jeans (which is $20), and twice this amount on coats (which is $80).\n- Carly spent a quarter of what Lisa spent on t-shirts (which is $10), 3 times as much on jeans (which is $30), and a quarter of what Lisa spent on coats (which is $20).\n- In total, Lisa spent $40 + $20 + $80 = $140, and Carly spent $10 + $30 + $20 = $60.\n- Therefore, Lisa and Carly spent a total of $140 + $60 = $200."
+            ],
+            "answer_gt": "230",
+            "gpt usage": 0.002009223,
+            "elapsed time": 12.064963817596436,
+            "score": 90.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: \nAfter the second day, the total number of positive cases was 2000 + 500 - 50 = 2450 cases.\nAfter the third day, the total number of positive cases was 2450 + 1500 - 200 = 2750 cases.\nTherefore, the total number of positive cases after the third day was 2750 cases."
+            ],
+            "answer_gt": "3750",
+            "gpt usage": 0.002011633,
+            "elapsed time": 8.28225040435791,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: The first snake is 2 feet long, which is 2 * 12 = 24 inches. The second snake is 16 inches long. The third snake is 10 inches long. Therefore, all of Christina's snakes combined are 24 + 16 + 10 = 50 inches. The answer is 50 inches."
+            ],
+            "answer_gt": "50",
+            "gpt usage": 0.0020137404999999997,
+            "elapsed time": 6.235302686691284,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: David broke 2 glasses. William broke 4 times the number of glasses David broke, which is 4 * 2 = 8 glasses. In total, they broke 2 + 8 = 10 glasses. The answer is 10."
+            ],
+            "answer_gt": "10",
+            "gpt usage": 0.002015648,
+            "elapsed time": 4.825960874557495,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "First, we need to find out how old Darcy is. Darcy is twice as old as Dexter, who is 8, so Darcy is 2 * 8 = 16 years old.\n\nSince Dallas was 3 times the age of Darcy last year, Dallas was 3 * 16 = 48 years old last year.\n\nTo find out how old Dallas is now, we need to add 1 year to his age, so Dallas is now 48 + 1 = 49 years old."
+            ],
+            "answer_gt": "46",
+            "gpt usage": 0.0020178320000000002,
+            "elapsed time": 6.288857460021973,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Apple sold 100 iPhones at $1000 each, totaling 100 * 1000 = $100,000. They also sold 20 iPads at $900 each, totaling 20 * 900 = $18,000. Additionally, they sold 80 Apple TVs at $200 each, totaling 80 * 200 = $16,000. In total, they sold $100,000 + $18,000 + $16,000 = $134,000 worth of products. They sold a total of 100 iPhones + 20 iPads + 80 Apple TVs = 200 products. Therefore, the average cost across all products sold today was $134,000 / 200 = $670."
+            ],
+            "answer_gt": "670",
+            "gpt usage": 0.0020202479999999997,
+            "elapsed time": 8.175169944763184,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Mr. Grey purchased 3 polo shirts for $26 each, so that's 3 * $26 = $78. He also purchased 2 necklaces for $83 each, so that's 2 * $83 = $166. He purchased 1 computer game for $90. So the total cost before the rebate is $78 + $166 + $90 = $334. After the $12 rebate, the total cost of the gifts is $334 - $12 = $322. The answer is $322."
+            ],
+            "answer_gt": "322",
+            "gpt usage": 0.0020226335,
+            "elapsed time": 8.876026630401611,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Herbert is 10 years younger than Kris, so he is 24 - 10 = 14 years old. Next year, Herbert will be 14 + 1 = 15 years old."
+            ],
+            "answer_gt": "15",
+            "gpt usage": 0.0020245625000000003,
+            "elapsed time": 4.160749435424805,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Rosie runs a total of 1 + 0.5 + 1 + 0.33 + 20 = 2.83 hours in the week. If she runs at 6 miles per hour, she runs a total of 6 * 2.83 = 16.98 miles in the week. To reach her goal of 20 miles for the week, she needs to run 20 - 16.98 = 3.02 more miles. At 6 miles per hour, she needs to run for 3.02 / 6 = 0.5 hours or 30 minutes on Friday. Therefore, she should run for 30 minutes on Friday to reach her goal."
+            ],
+            "answer_gt": "30",
+            "gpt usage": 0.002027025,
+            "elapsed time": 7.185725927352905,
+            "score": 95.0
+        }
+    ]
+]

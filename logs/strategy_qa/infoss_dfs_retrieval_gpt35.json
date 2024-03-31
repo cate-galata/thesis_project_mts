@@ -1,0 +1,302 @@
+[
+    [
+        {
+            "answer": [
+                "Answer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0739225,
+            "elapsed time": 4.086878061294556,
+            "scores": {
+                "mece": 4.0,
+                "simplification": 5.0,
+                "relevance": 4.0
+            }
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.074756,
+            "elapsed time": 3.2752699851989746,
+            "scores": {
+                "mece": 0,
+                "simplification": 0,
+                "relevance": 0
+            }
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0754535,
+            "elapsed time": 1.633861780166626,
+            "scores": {
+                "mece": 0,
+                "simplification": 0,
+                "relevance": 0
+            }
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.07623,
+            "elapsed time": 2.249474048614502,
+            "scores": {
+                "mece": 4.0,
+                "simplification": 3.0,
+                "relevance": 5.0
+            }
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.07710550000000001,
+            "elapsed time": 3.3807411193847656,
+            "scores": {
+                "mece": 4.0,
+                "simplification": 4.0,
+                "relevance": 5.0
+            }
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.078012,
+            "elapsed time": 3.8806042671203613,
+            "scores": {
+                "mece": 3.0,
+                "simplification": 4.0,
+                "relevance": 4.0
+            }
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.07897950000000001,
+            "elapsed time": 4.302841663360596,
+            "scores": {
+                "mece": 4.0,
+                "simplification": 4.0,
+                "relevance": 3.0
+            }
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.07985300000000001,
+            "elapsed time": 3.065200090408325,
+            "scores": {
+                "mece": 5.0,
+                "simplification": 5.0,
+                "relevance": 5.0
+            }
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Unable to provide an answer as the question decomposition does not contain any relevant facts or subquestions related to the Stanley Cup or the tibia."
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.08063100000000001,
+            "elapsed time": 2.3540310859680176,
+            "scores": {
+                "mece": 5.0,
+                "simplification": 5.0,
+                "relevance": 5.0
+            }
+        }
+    ],
+    [
+        {
+            "answer": [
+                "This question decomposition does not contain any relevant facts that can help answer the problem."
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.081569,
+            "elapsed time": 3.268616199493408,
+            "scores": {
+                "mece": 4.0,
+                "simplification": 3.0,
+                "relevance": 5.0
+            }
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.082325,
+            "elapsed time": 2.154764175415039,
+            "scores": {
+                "mece": 4.0,
+                "simplification": 4.0,
+                "relevance": 5.0
+            }
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.083192,
+            "elapsed time": 2.7535617351531982,
+            "scores": {
+                "mece": 3.0,
+                "simplification": 4.0,
+                "relevance": 2.0
+            }
+        }
+    ],
+    [
+        {
+            "answer": [
+                "This question decomposition does not contain any helpful facts related to the comparison of Japanese serfdom and English serfdom. Additional research or information is needed to answer this question."
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0841085,
+            "elapsed time": 3.377159833908081,
+            "scores": {
+                "mece": 4.0,
+                "simplification": 4.0,
+                "relevance": 5.0
+            }
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Could an ocelot subsist on a single bee hummingbird per day? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.084895,
+            "elapsed time": 2.775259017944336,
+            "scores": {
+                "mece": 5.0,
+                "simplification": 5.0,
+                "relevance": 5.0
+            }
+        }
+    ],
+    [
+        {
+            "answer": [
+                "- What is Andrew Johnson's presidential number? Andrew Johnson was the 17th President of the United States.\n- What is Elagabalus's Emperor number? Elagabalus was the 25th Roman Emperor.\nAnswer: Does Andrew Johnson's presidential number exceed Elagabalus's Emperor number? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.08583500000000001,
+            "elapsed time": 3.768819808959961,
+            "scores": {
+                "mece": 5.0,
+                "simplification": 5.0,
+                "relevance": 5.0
+            }
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0867455,
+            "elapsed time": 3.6788947582244873,
+            "scores": {
+                "mece": 5.0,
+                "simplification": 5.0,
+                "relevance": 5.0
+            }
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: Can a Haiku fit in a single tweet? true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.087586,
+            "elapsed time": 2.866569995880127,
+            "scores": {
+                "mece": 5.0,
+                "simplification": 5.0,
+                "relevance": 5.0
+            }
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.088415,
+            "elapsed time": 2.757619857788086,
+            "scores": {
+                "mece": 4.0,
+                "simplification": 3.0,
+                "relevance": 5.0
+            }
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Unable to answer the question based on the provided question decomposition. Additional information or research is needed to determine if more anchovy live in colder temperature waters than warmer."
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.08935950000000001,
+            "elapsed time": 4.0896430015563965,
+            "scores": {
+                "mece": 3.0,
+                "simplification": 4.0,
+                "relevance": 3.0
+            }
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Is 3D printing able to make adenovirus? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.090202,
+            "elapsed time": 3.303138017654419,
+            "scores": {
+                "mece": 2.0,
+                "simplification": 4.0,
+                "relevance": 3.0
+            }
+        }
+    ]
+]

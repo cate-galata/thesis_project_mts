@@ -1,0 +1,1102 @@
+[
+    [
+        {
+            "answer": [
+                "Steps:\nGenghis Khan had many children and is believed to have around 16 million male descendants today.\nJulius Caesar also had many children, but it is estimated that only a few million people are related to him today.\nTherefore, more people today are related to Genghis Khan than Julius Caesar.\nAnswer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0017316884999999998,
+            "elapsed time": 5.924699068069458,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nMonoamine Oxidase Inhibitors (MAOIs) are a type of medication used to treat depression.\nA candy bar containing Monoamine Oxidase would not have the same effect as a prescribed MAOI medication.\nTherefore, a Monoamine Oxidase candy bar would not cheer up a depressed friend.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0017335039999999999,
+            "elapsed time": 6.228469371795654,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nThe pound sterling is the currency of the United Kingdom.\nThe value of the pound sterling fluctuates against other currencies.\nThe pound sterling is accepted as a form of payment for goods and services in the UK.\nTherefore, a pound sterling is considered valuable.\nAnswer: true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001735231,
+            "elapsed time": 6.634333610534668,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Based on the facts provided, there is no information regarding whether the anchors on Rede Globo speak Chinese. Therefore, the answer to the question \"Do the anchors on Rede Globo speak Chinese?\" is: false."
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001736863,
+            "elapsed time": 3.9142603874206543,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0017383430000000003,
+            "elapsed time": 3.9528753757476807,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nPetco is a retail store that sells pet supplies and services.\nCasio is a brand that manufactures calculators, watches, and musical instruments.\nPetco does not sell electronics or products made by Casio.\nTherefore, you cannot buy Casio products at Petco.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0017401265,
+            "elapsed time": 5.8127381801605225,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nChristmas trees are typically evergreen trees, which retain their leaves (needles) year-round.\nDeciduous trees are trees that shed their leaves annually.\nTherefore, Christmas trees and deciduous trees are dissimilar in terms of leaf retention.\nAnswer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0017418454999999998,
+            "elapsed time": 4.130180597305298,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nThe Kingdom of Hungary existed from 1000 to 1918.\nDuring this time period, Hungary was a monarchy with a king as the ruler.\nLand owners did not have the right to elect their rulers in the Kingdom of Hungary, as the ruler was typically determined by hereditary succession.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0017437260000000001,
+            "elapsed time": 6.605288028717041,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Dragon Ball has had 19 animated movies and 3 live-action movies.\nFriday the 13th has had 12 movies.\nDragon Ball has had a total of 22 projects (19 animated movies + 3 live-action movies).\nFriday the 13th has had a total of 12 projects.\nTherefore, Dragon Ball shows and movies do not fall short of Friday the 13th number of projects.\nAnswer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0017457185,
+            "elapsed time": 5.713804483413696,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Based on the facts provided, we cannot definitively determine if greed is the most prevalent of the Seven Deadly Sins. The facts given do not provide enough information to make a clear determination. \nAnswer: cannot be determined"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0017473534999999998,
+            "elapsed time": 5.713507175445557,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nThe average number of peas in a pod is around 7-9.\nA billion is 1,000,000,000.\nTo represent a billion with commas, it would be written as 1,000,000,000.\nThere are enough commas in the average number of peas in a pod to represent a billion, therefore the statement is true.\nAnswer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0017492765,
+            "elapsed time": 7.877136945724487,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0017507885,
+            "elapsed time": 4.208587408065796,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nThe Powerpuff Girls are fictional characters from the animated television series created by Craig McCracken.\nCamden Military Academy is a real-life military boarding school located in Camden, South Carolina.\nAs fictional characters, the Powerpuff Girls could not attend a real-life military academy, therefore they could not hypothetically attend the Camden Military Academy.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001752666,
+            "elapsed time": 6.341448783874512,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nUninsured individuals do not have health insurance coverage.\nCT scans can be expensive, with costs ranging from $270 to $4,800.\nWithout insurance coverage, an uninsured person would have to pay out of pocket for a CT scan.\nTherefore, an uninsured person would be more likely than an insured person to decline a CT scan.\nAnswer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001754673,
+            "elapsed time": 6.9337568283081055,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nDisneyland Paris covers an area of approximately 4,800 acres.\nThe Walt Disney World Resort in Florida covers an area of approximately 25,000 acres.\nThe Walt Disney World Resort is significantly larger than Disneyland Paris, therefore Disneyland Paris is not the largest Disney resort.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0017564020000000002,
+            "elapsed time": 4.892323732376099,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nAdam Sandler is a famous actor and comedian known for his comedic roles in movies.\nCole Sprouse is also an actor, known for his role in the TV series Riverdale.\nA scuba man doll is a toy, not typically associated with Adam Sandler's work.\nThere is no direct connection between Adam Sandler, Cole Sprouse, and a scuba man doll, therefore Adam Sandler would not get a reference to Cole Sprouse and a scuba man doll.\nAnswer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001758527,
+            "elapsed time": 13.281920671463013,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Based on the facts given, there is no direct information provided about Disney having an ice princess. Therefore, the answer is: false."
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0017600990000000002,
+            "elapsed time": 4.673965930938721,
+            "score": 90.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nGeorge Washington was the first President of the United States, serving from 1789 to 1797.\nThe compact disc was invented in 1982.\nCompact discs were not invented until after George Washington's death, therefore his speeches could not have been recorded live to a compact disc.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.00176194,
+            "elapsed time": 5.9040367603302,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nBlack salt, also known as Kala Namak, is a type of rock salt used in South Asia.\nBlack salt contains trace impurities of sulfurous compounds, including hydrogen sulfide.\nSulfur compounds are known to create a strong sulfur-like smell.\nTherefore, food made with black salt would likely smell of sulfur.\nAnswer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001763794,
+            "elapsed time": 6.825168609619141,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nMiami is located in the state of Florida.\nFlorida is on the East Coast of the United States.\nMiami is not located on the American West Coast.\nTherefore, Miami is not a city on the American West Coast.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0017654670000000002,
+            "elapsed time": 5.666912794113159,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nThe tibia is the larger of the two bones in the lower leg.\nThe Stanley Cup is awarded to the National Hockey League (NHL) champion.\nIn order to win the Stanley Cup, one must be a member of the winning NHL team.\nHaving a tibia or not does not affect one's ability to play hockey and win the Stanley Cup.\nTherefore, the tibia is not necessary to win the Stanley Cup.\nAnswer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0017673114999999999,
+            "elapsed time": 7.621561765670776,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nRice pudding is a dish made from rice, milk, sugar, and other ingredients.\nHorchata is a drink made from ground almonds, tiger nuts, or rice, mixed with water and sugar.\nRice pudding does not contain water as an ingredient, while horchata does.\nTherefore, adding water to rice pudding does not make it horchata.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0017691815,
+            "elapsed time": 5.20767879486084,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nNickel can cause skin discoloration, known as nickel dermatitis.\nSymptoms of nickel dermatitis include redness, itching, and changes in skin color.\nIf your skin is turning the color of a zombie, it could be due to nickel dermatitis.\nAnswer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.00177095,
+            "elapsed time": 7.56227445602417,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Based on the facts provided, there is no information given to determine whether the Illuminati card game is still popular. Therefore, the answer is: false."
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001772624,
+            "elapsed time": 6.440104722976685,
+            "score": 80.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nMenthol is a compound commonly found in products like cough drops and mint flavored items.\nThere is no direct connection between Menthol and Thanksgiving.\nMenthol is not typically associated with Thanksgiving or the traditions surrounding the holiday.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0017743185000000002,
+            "elapsed time": 5.83789849281311,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0017757805,
+            "elapsed time": 2.7199485301971436,
+            "score": 80.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nSoup is a liquid food that is typically made by boiling ingredients such as meat, vegetables, and seasonings.\nSince soup is a liquid, it can be consumed while on a liquid diet.\nTherefore, there are no types of soup that you cannot eat while on a liquid diet.\nAnswer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0017775375,
+            "elapsed time": 5.324366092681885,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nThe Gulf of Finland is a saltwater body of water.\nSaltwater is corrosive to metal.\nThe Titanic was made of steel, which is a type of metal.\nSteel corrodes more slowly in cold water compared to warm water.\nThe Titanic sank in the North Atlantic Ocean, which is colder than the Gulf of Finland.\nTherefore, the Titanic would likely be well preserved at the bottom of the Gulf of Finland.\nAnswer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001779537,
+            "elapsed time": 9.113719701766968,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nDuring World War II, Switzerland remained neutral and did not participate in the conflict.\nPortugal was involved in the Portuguese Colonial War from 1961 to 1974.\nSince Switzerland's role in WWII was neutrality, and Portugal's role in the Portuguese Colonial War was active participation, no country in the Portuguese Colonial War shared Switzerland's role in WWII.\nAnswer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0017814150000000002,
+            "elapsed time": 6.311049461364746,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nPicts were ancient people who lived in what is now Scotland during the late Iron Age and early medieval periods.\nOld English refers to the early medieval English language spoken in England from the 5th to the 11th centuries.\nSince the Picts lived in Scotland and Old English was spoken in England, it is likely that a Pict would be confused by Old English.\nAnswer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0017832929999999998,
+            "elapsed time": 4.360612869262695,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nJapanese serfdom was known as \"fudai\" and involved peasants working on land owned by daimyos or feudal lords.\nEnglish serfdom involved peasants working on land owned by lords.\nIn Japanese serfdom, peasants had some rights and were not considered property of their lords.\nIn English serfdom, peasants were considered the property of their lords and had very few rights.\nTherefore, Japanese serfdom had a higher status than English serfdom.\nAnswer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0017853590000000003,
+            "elapsed time": 9.63383674621582,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nLil Wayne has 4 children.\nThe Chevrolet Corvette ZR1 has 2 seats.\nSince there are 4 children and only 2 seats in the car, Lil Wayne's children could not ride in the Chevrolet Corvette ZR1 together.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0017871995,
+            "elapsed time": 5.090577125549316,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nLil Wayne was born on September 27, 1982.\nIn the United States, the legal driving age is typically around 16-18 years old.\nAt the beginning of his career, Lil Wayne would have been around 16-18 years old.\nTherefore, Lil Wayne could legally operate a vehicle on his own at the beginning of his career.\nAnswer: true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.00178907,
+            "elapsed time": 6.158459424972534,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "The Ukrainian Greek Catholic Church does not recognize Alexander Nevsky as a saint. \nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0017907675000000001,
+            "elapsed time": 5.725714445114136,
+            "score": 90.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nJ. P. Morgan died in 1913.\nIn the early 1900s, smoking was common and the harmful effects on the lungs were not widely known.\nIt is likely that J. P. Morgan, like many people of his time, was a smoker.\nSmoking is known to cause damage to the lungs and can lead to various health issues.\nBased on the time period and common practices of the era, it is unlikely that J. P. Morgan had healthy lungs.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0017927485,
+            "elapsed time": 10.080227851867676,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Andrew Johnson was the 17th President of the United States.\nElagabalus was the 25th Emperor of the Roman Empire.\n17 is less than 25, therefore Andrew Johnson's presidential number does not exceed Elagabalus's Emperor number.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001794603,
+            "elapsed time": 7.548034429550171,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nThe average height of a Yeti is believed to be around 6-7 feet tall.\nAndre the Giant was a professional wrestler who stood at 7 feet 4 inches tall.\nAndre the Giant is taller than the average height of a Yeti, therefore a hypothetical Yeti would be towered over by Andre the Giant.\nAnswer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0017964975000000002,
+            "elapsed time": 6.96091103553772,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nIn the book \"The Little Prince\", the titular character is known to have a strong love and appreciation for flowers.\nThere is no mention or indication in the book that The Little Prince is allergic to flowers.\nBased on the information provided, The Little Prince's titular character was not allergic to flowers.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0017983365,
+            "elapsed time": 6.2717204093933105,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nMillard Fillmore was the 13th President of the United States, serving from 1850-1853.\nThe University of Pittsburgh was founded in 1787 as the Pittsburgh Academy.\nSince the University of Pittsburgh was established before Millard Fillmore became president, he did not help to establish it.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001800187,
+            "elapsed time": 9.035791873931885,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nThe average density of a pear is around 0.7 g/cm3.\nThe density of water is 1 g/cm3.\nSince the density of a pear is less than the density of water, a pear would float in water.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001801849,
+            "elapsed time": 3.752782106399536,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nA Haiku has 17 syllables.\nTwitter has a character limit of 280.\nThe average syllable count for a tweet is 33.\n17 syllables can fit within the character limit of a single tweet.\nAnswer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0018035639999999997,
+            "elapsed time": 5.142861843109131,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nA kangaroo pouch is designed to carry baby kangaroos, known as joeys.\nThe average size of a kangaroo pouch is approximately 30 cm in length and 20 cm in width.\nScooby Doo is a fictional Great Dane dog, which is much larger than a baby kangaroo.\nBased on the size comparison, Scooby Doo would not be able to fit in a kangaroo pouch.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0018053890000000001,
+            "elapsed time": 4.117052793502808,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nA kayak is a small, narrow watercraft that is propelled by a double-bladed paddle.\nTraditional boats in New Zealand include waka, which are Maori canoes.\nWhile kayaks are used in New Zealand for recreational purposes and water sports, they are not traditionally considered a traditional boat in New Zealand.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001807207,
+            "elapsed time": 5.183083772659302,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nRichard Nixon was President of the United States from 1969 to 1974.\nThe high school class of 2010 would have been born in 1992 or 1993.\nTherefore, the high school class of 2010 would not have lived through the Presidency of Richard Nixon.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001809017,
+            "elapsed time": 4.432080507278442,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nDeacons are religious figures in some Christian denominations.\nThe podcast 'God Awful Movies' is known for reviewing and critiquing religious and faith-based films in a comedic manner.\nDeacons may not appreciate the satirical or critical nature of the podcast towards religious movies.\nTherefore, a Deacon may not be likely to be a fan of the podcast 'God Awful Movies'.\nAnswer: true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0018109760000000002,
+            "elapsed time": 9.649642705917358,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nAnchovy are a type of fish that prefer colder waters, typically between 50-60 degrees Fahrenheit.\nAnchovy are commonly found in the waters off the coast of California and Peru, where the water temperature is cooler.\nTherefore, more anchovy live in colder temperature waters than warmer.\nAnswer: true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0018128575,
+            "elapsed time": 5.4701759815216064,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nThe Powerpuff Girls are a trio of superheroes who have superhuman strength and abilities.\nIn a tag team wrestling match, two wrestlers form a team to compete against another team.\nSince the Powerpuff Girls are a team of three, they cannot form a complete tag team wrestling match as they do not have an even number of members.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0018146809999999998,
+            "elapsed time": 5.423331022262573,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nSearch for information on whether Keith Richards has played a captain of a boat in a movie.\nBased on the facts provided, there is no information regarding Keith Richards playing a captain of a boat in a movie.\nAnswer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0018163,
+            "elapsed time": 4.478104829788208,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nMedicare is a federal health insurance program for people who are 65 or older.\nAn eleventh-grader is typically around 16-17 years old.\nSince an eleventh-grader is not 65 or older, they would not be eligible for Medicare.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0018180305,
+            "elapsed time": 5.742484092712402,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nThe Lincoln Tunnel is a tunnel that connects New Jersey to New York City.\nThe Lincoln Tunnel is used for cars, buses, and other motor vehicles.\nThe Oasis cruise boat is a large ship used for leisurely cruises.\nA cruise boat is too large to fit inside the Lincoln Tunnel, which is meant for smaller motor vehicles.\nTherefore, the Oasis cruise boat will not traverse the Lincoln Tunnel.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0018198845,
+            "elapsed time": 6.057349443435669,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "George Fox was the founder of the Quakers, who are known for their belief in non-violence and pacifism.\nStoning is a form of capital punishment where a person is killed by a group of people throwing stones at them.\nBased on the Quakers' belief in non-violence, George Fox would not support stoning.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0018218649999999998,
+            "elapsed time": 8.178962469100952,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nNeanderthals went extinct around 40,000 years ago.\nThe Supreme Court of the United States was established in 1789.\nSince Neanderthals were extinct long before the establishment of the Supreme Court, it is not possible for a neanderthal to have served on the Supreme Court of the United States.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0018237120000000001,
+            "elapsed time": 7.515612602233887,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nCamels have a hump on their back, which stores fat reserves for energy.\nCamels have long eyelashes and nostrils that can close to protect against sandstorms.\nCamels are known for their ability to survive in harsh desert environments.\nThere is no direct correlation between the anatomy of a camel and jokes on Wednesdays.\nAnswer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001825651,
+            "elapsed time": 5.862359046936035,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nClark Gable passed away in 1960.\nJohn Williams began composing film scores in the 1960s.\nSince Clark Gable passed away before John Williams began his film scoring career, it is not possible for them to have collaborated on any movies.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0018274345,
+            "elapsed time": 5.611288070678711,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nEric Clapton was romantically involved with Pattie Boyd, who was previously married to George Harrison of The Beatles.\nThis indicates that Eric Clapton did have similar taste in women to one of The Beatles.\nAnswer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0018291904999999998,
+            "elapsed time": 6.0415802001953125,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nEddie Murphy's father passed away when Eddie was a child.\nTherefore, Eddie Murphy's father did not see his first stand up show.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001830838,
+            "elapsed time": 6.423586368560791,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nThe creator of Law & Order is Dick Wolf.\nThere is no information provided about winged statuettes in Dick Wolf's home.\nSince there is no evidence to support the presence of winged statuettes in Dick Wolf's home, the answer is:\nAnswer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0018326155,
+            "elapsed time": 7.044763565063477,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nA baker's dozen is equal to 13.\nThe Golden Gate Bridge has 6 lanes for traffic.\nEven if the Mac Trucks are side by side, there would still be enough space for them to drive across the bridge without jamming it up.\nAnswer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001834414,
+            "elapsed time": 6.426219463348389,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nGuitarists frequently play strings which can cause pain and calluses on their fingers.\nThe constant practice and playing can increase their pain tolerance in their fingertips.\nTherefore, guitarist's fingers can handle pain better than average.\nAnswer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.00183613,
+            "elapsed time": 4.288418292999268,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nMaize, also known as corn, is a staple crop in the Americas.\nNative American tribes have been cultivating maize for thousands of years.\nThe Spaniards arrived in the Americas in the late 15th century.\nNative American tribes were already cultivating maize when the Spaniards arrived, therefore it is possible that they taught the Spaniards how to cultivate maize.\nAnswer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0018380014999999999,
+            "elapsed time": 5.016554594039917,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nFrogs do not have the cognitive ability to feel complex emotions like disgust.\nFrogs primarily rely on instinctual responses to their environment.\nSince frogs do not have the brain capacity to feel disgust, they do not experience this emotion.\nAnswer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0018397485,
+            "elapsed time": 6.046994924545288,
+            "score": 85.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0018411765,
+            "elapsed time": 2.1275947093963623,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nC-SPAN stands for Cable-Satellite Public Affairs Network.\nAlan Greenspan is an American economist who served as the Chair of the Federal Reserve.\nThere is no direct connection between Alan Greenspan and C-SPAN, as the span in C-SPAN stands for \"spanning\" or covering a wide range of topics.\nTherefore, the span in C-SPAN is not named after Alan Greenspan.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0018430425,
+            "elapsed time": 6.182746648788452,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nBoolean algebra is a mathematical structure that models logic operations.\nComputers use logic gates to perform operations, which can be represented using Boolean algebra.\nA computer can be designed and built using logic gates, which are based on Boolean algebra.\nTherefore, a computer can be programmed entirely in Boolean algebra.\nAnswer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001844806,
+            "elapsed time": 6.022774696350098,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nA leap year occurs every four years, adding an extra day to the calendar year.\nA bachelor's degree typically takes four years to complete.\nIf a student starts their bachelor's degree program in a leap year, they may have an extra day in their academic calendar.\nHowever, this extra day does not necessarily mean that a bachelor's degree will often include a leap year.\nTherefore, the statement that a bachelor's degree often includes a leap year is false. \nAnswer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001846898,
+            "elapsed time": 8.383610010147095,
+            "score": 70.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nElvis Presley, The King of Rock'n Roll, was known for his love of peanut butter and banana sandwiches.\nBananas are a fruit that grow on plants.\nTherefore, plants were crucial for The King of Rock'n Roll's snack with bananas.\nAnswer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0018486614999999999,
+            "elapsed time": 7.304496765136719,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nBob Marley was a famous reggae artist known for his iconic face.\nMany smoke shops sell merchandise related to music, including Bob Marley.\nIt is likely that you can find Bob Marley's face in most smoke shops.\nAnswer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0018503815,
+            "elapsed time": 3.7386512756347656,
+            "score": 85.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nBritney Spears experienced a very public breakdown in 2007.\nBipolar disorder is a mental health condition characterized by extreme mood swings.\nThere is no concrete evidence or official statement attributing Britney Spears' breakdown to bipolar disorder.\nWithout concrete evidence, it is not accurate to attribute Britney Spears' breakdown to bipolar disorder.\nAnswer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0018522030000000002,
+            "elapsed time": 7.381103277206421,
+            "score": 70.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nThe metric system is a system of measurement based on the meter as the base unit of length.\n1 foot is equal to 0.3048 meters.\nSince the foot is not based on the meter, it is not part of the metric system.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0018539414999999997,
+            "elapsed time": 4.682407379150391,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nHades is a character from Greek mythology.\nHe appears in the Disney movie Hercules, which is not a Disney Channel musical movie.\nTherefore, Hades does not appear in a Disney Channel musical movie.\nAnswer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0018558425,
+            "elapsed time": 6.42499852180481,
+            "score": 90.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nThe Hwasong-15 missile has a range of approximately 13,000 km.\nVoyager 2 is located over 18 billion kilometers away from Earth.\nThe distance between Earth and Voyager 2 is much greater than the range of the Hwasong-15 missile.\nTherefore, a Hwasong-15 missile could not hypothetically reach Voyager 2.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0018576825,
+            "elapsed time": 5.795078754425049,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nLinus Torvalds is the creator of the Linux operating system.\nDirectX is a collection of APIs developed by Microsoft for handling tasks related to multimedia, especially game programming.\nLinux and DirectX are not directly related, and Linus Torvalds does not make money off of DirectX.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001859435,
+            "elapsed time": 4.395793437957764,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Zika virus is primarily spread through the bite of infected Aedes mosquitoes.\nAntarctica is a continent located in the Southern Hemisphere.\nAntarctica has a very cold climate and does not have Aedes mosquitoes.\nSince Aedes mosquitoes do not exist in Antarctica, there is no risk of Zika virus transmission in Antarctica.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001861304,
+            "elapsed time": 7.013875722885132,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nA Haiku is a traditional form of Japanese poetry consisting of three lines with a 5-7-5 syllable structure.\nThere are millions of books published in the world.\nOnly a small percentage of books are written as Haikus.\nTherefore, most books are not written as Haikus.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0018630559999999999,
+            "elapsed time": 7.097117185592651,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Chuck Norris was born on March 10, 1940.\nChuck Norris will turn 80 years old on March 10, 2020.\nChuck Norris will turn 90 years old on March 10, 2030.\nThe next leap year after 2020 is 2024.\nChuck Norris will be a nonagenarian by the time the next leap year after 2020 happens.\nAnswer: true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0018650395,
+            "elapsed time": 5.942110776901245,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nCannabis, also known as marijuana, has been a common theme in rap music lyrics.\nMany famous rap artists openly talk about their use of cannabis in their music.\nThe use of cannabis in rap music has influenced the culture and style of the genre.\nTherefore, cannabis has been a big influence in the rap music genre.\nAnswer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001866998,
+            "elapsed time": 5.859148263931274,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nChristina Aguilera was a coach on The Voice from seasons 1-3 and 5-10.\nKelly Clarkson was a contestant on the first season of American Idol, not The Voice.\nSince Kelly Clarkson was not a contestant on The Voice during Christina Aguilera's coaching seasons, Christina Aguilera did not turn her chair around for Kelly Clarkson on The Voice.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0018688329999999999,
+            "elapsed time": 6.1664369106292725,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nIn the Wizard of Oz, the character the Cowardly Lion receives courage from the Wizard.\nAnxiety is a feeling of worry, nervousness, or unease about something with an uncertain outcome.\nCourage is the ability to do something that frightens one.\nReceiving courage from the Wizard of Oz could help an anxious person overcome their fears and face their uncertainties.\nTherefore, an anxious person would benefit from receiving courage from the Wizard of Oz.\nAnswer: true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001870778,
+            "elapsed time": 7.183744668960571,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nGeneration Y includes individuals born between the early 1980s and mid-1990s.\nThe NYPD police officer age requirement is between 21 and 35 years old.\nIf a Generation Y member was born in the early 1980s, they would currently be in their late 30s or early 40s, which is above the NYPD age requirement.\nIf a Generation Y member was born in the mid-1990s, they would currently be in their mid-20s, which falls within the NYPD age requirement.\nAnswer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001872753,
+            "elapsed time": 5.444986820220947,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nKing James I ruled from 1603-1625.\nDuring King James I's reign, he published a book called \"Daemonologie\" in 1597, in which he expressed his strong belief in witches and witchcraft.\nIn \"Daemonologie,\" King James I also mentioned his belief in fairies and how they were associated with witchcraft.\nBased on the facts provided, it can be inferred that King James I did not despise fairy beings, but rather believed in their existence.\nAnswer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001874864,
+            "elapsed time": 9.280879020690918,
+            "score": 85.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nHarry Houdini's wife, Bess Houdini, held seances every year on Halloween for ten years after Harry's death, in an attempt to contact his spirit.\nShe set up a secret code with Harry before his death, that only the two of them knew, in order to prove the authenticity of any messages received during the seances.\nDespite numerous attempts by psychics claiming to contact Harry's spirit during the seances, none were able to provide the secret code, therefore making them look foolish.\nAnswer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0018769134999999998,
+            "elapsed time": 8.915198802947998,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nOnions are a type of vegetable.\nThe inside of a tree consists of rings and layers of wood.\nOnions do not have a form that resembles the inside of a tree, as they do not have rings and layers like a tree does.\nAnswer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0018786445,
+            "elapsed time": 6.284181356430054,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nIn most states in the US, the minimum age to get a driver's license is 16.\nEleventh grade typically corresponds to the age of 16 or 17.\nTherefore, eleventh grade is not required to get a driver's license.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0018803645,
+            "elapsed time": 6.261180400848389,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nEthanol is the principal type of alcohol found in alcoholic beverages.\nExcessive alcohol consumption can have negative effects on health, including liver damage, addiction, and other health issues.\nJack Kerouac was known to have struggled with alcoholism throughout his life.\nBased on the negative effects of ethanol and Jack Kerouac's struggles with alcoholism, it can be concluded that ethanol was not beneficial to Jack Kerouac's health.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001882308,
+            "elapsed time": 8.208895683288574,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nCharlemagne's father was Pepin the Short.\nPepin the Short was not involved in the Battle of Tours, as it took place in 732 AD and Pepin was born in 714 AD.\nTherefore, Pepin the Short was not instrumental in the outcome of the Battle of Tours.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001884213,
+            "elapsed time": 6.060222625732422,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nGiant pandas are not capable of purchasing tickets to a Metallica show, as they are animals.\nMetallica shows typically sell out due to the demand from human fans.\nTherefore, giant pandas cannot sell out a Metallica show.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0018859789999999999,
+            "elapsed time": 8.051944255828857,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nHippopotamus are native to sub-Saharan Africa.\nHippopotamus are not found naturally outside of Africa.\nTherefore, you can only see hippopotamus in Africa.\nAnswer: true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0018876284999999999,
+            "elapsed time": 5.5744757652282715,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Based on the facts provided, there is no information indicating whether Rumi's work was serialized in a magazine. Therefore, the answer is: false."
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0018892455,
+            "elapsed time": 5.398631572723389,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nPicking strawberries often involves bending over for extended periods of time.\nBack pain can be exacerbated by bending over and repetitive motions.\nTherefore, someone with back pain may not enjoy picking strawberries.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0018910145,
+            "elapsed time": 7.532136678695679,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nThe Eiffel Tower was completed in 1889.\nThe Eiffel Tower served as a radio transmission tower during World War I.\nThe radio transmissions from the Eiffel Tower played a crucial role in the French victory during the Battle of Marne in 1914.\nTherefore, the Eiffel Tower did contribute to a war victory.\nAnswer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0018929435,
+            "elapsed time": 9.584129810333252,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0018943955,
+            "elapsed time": 3.6712448596954346,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nRick and Morty is an American adult animated science fiction sitcom created by Justin Roiland and Dan Harmon.\nAnime refers to a style of animation that originated in Japan.\nRick and Morty is not produced in Japan and does not follow the typical style of traditional anime.\nTherefore, Rick and Morty is not considered an anime.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0018962135,
+            "elapsed time": 4.893553733825684,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nChipmunks have cheek pouches that can expand to three times the size of their head.\nThe average size of a chocolate chip is about 0.33 inches in diameter.\nAssuming the chocolate chips are small enough, a chipmunk could fit 100 chocolate chips in its mouth.\nAnswer: true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0018980735,
+            "elapsed time": 5.66300106048584,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nSophists were ancient Greek teachers of rhetoric, philosophy, and politics.\nThey were known for their persuasive arguments and ability to manipulate language.\nLawyers also need to be skilled in rhetoric, persuasion, and argumentation.\nBased on these similarities in skills and abilities, Sophists hypothetically would have made good lawyers.\nAnswer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0018998830000000002,
+            "elapsed time": 5.793673038482666,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nThe Pantheon is a former Roman temple, now a church, in Rome, Italy.\nQueen Elizabeth is the current reigning monarch of the United Kingdom.\nIt is tradition for British monarchs to be buried in Westminster Abbey, not the Pantheon in Rome.\nQueen Elizabeth will not be buried in the Pantheon.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001901629,
+            "elapsed time": 6.289050102233887,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nGandalf is a fictional character from J.R.R. Tolkien's Middle-earth legendarium.\nEomer is a character also from J.R.R. Tolkien's Middle-earth legendarium.\nIn the books, Eomer dies during the War of the Ring.\nGandalf is present during the War of the Ring and plays a significant role in it.\nBased on the information from the books, Gandalf was present at the death of Eomer.\nAnswer: true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0019035235,
+            "elapsed time": 6.583510637283325,
+            "score": 85.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nReproduction is not the only means of becoming a parent, as adoption and surrogacy are also options.\nTherefore, those incapable of reproduction are not necessarily incapable of parenthood.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001905151,
+            "elapsed time": 3.7269256114959717,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nVenus is the second planet from the sun in our solar system.\nThe Herpes simplex virus cannot survive in extreme temperatures, such as those found on Venus.\nVenus has a surface temperature of about 900 degrees Fahrenheit, which is hot enough to destroy the virus.\nTherefore, the Herpes simplex virus cannot spread on Venus.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0019069669999999999,
+            "elapsed time": 9.96489143371582,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nKeelhauling was a form of punishment used by sailors in the past where the person was tied to a rope that was looped beneath the ship and thrown overboard, then dragged under the ship's keel.\nThe Eighth Amendment of the U.S. Constitution prohibits cruel and unusual punishment.\nKeelhauling is considered a cruel and inhumane punishment, as it often resulted in severe injury or death.\nTherefore, keelhauling would not be a fair punishment under the Eighth Amendment.\nAnswer: false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001908958,
+            "elapsed time": 6.929525375366211,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Steps:\nTNT is a television network known for broadcasting movies, TV shows, and sports.\nA railroad engineer is a person who operates trains.\nThere is no direct correlation between TNT and railroad engineers, as TNT does not employ railroad engineers.\nAnswer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001910618,
+            "elapsed time": 6.325313091278076,
+            "score": 95.0
+        }
+    ]
+]

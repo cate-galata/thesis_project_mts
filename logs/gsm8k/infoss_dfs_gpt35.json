@@ -1,0 +1,1698 @@
+[
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many clips did natalia sell altogether in april and may?\n- how many clips did natalia sell in april?\n- how many clips did natalia sell in may?\n"
+        },
+        {
+            "answer": [
+                "how many clips did natalia sell in april? 48\n- how many clips did natalia sell in may? 24\nAnswer: how many clips did natalia sell altogether in april and may? 72"
+            ],
+            "answer_gt": "72",
+            "gpt usage": 0.001508832,
+            "elapsed time": 10.238493919372559,
+            "score": 100.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow much more money does betty need to buy the wallet?\n- how much money does betty have saved?\n- how much money did betty's parents give her?\n- how much money did betty's grandparents give her?\n"
+        },
+        {
+            "answer": [
+                "How much more money does Betty need to buy the wallet? $35"
+            ],
+            "answer_gt": "5",
+            "gpt usage": 0.0015114369999999998,
+            "elapsed time": 8.07282280921936,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many pages does james write a year?\n- how many pages does james write to each friend per week?\n- how many weeks are there in a year?\n"
+        },
+        {
+            "answer": [
+                "How many pages does James write a year? 624\n- How many pages does James write to each friend per week? 6\n- How many weeks are there in a year? 104"
+            ],
+            "answer_gt": "624",
+            "gpt usage": 0.0015142135,
+            "elapsed time": 12.40327787399292,
+            "score": 85.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "how many pieces does albert eat that day?\n- how many slices does a large pizza have?\n- how many slices does a small pizza have?\n- how many pieces does albert eat from a large pizza?\n- how many pieces does albert eat from a small pizza?\n- how many large pizzas does albert buy?\n- how many small pizzas does albert buy?"
+        },
+        {
+            "answer": [
+                "how many pieces does albert eat that day? 64"
+            ],
+            "answer_gt": "48",
+            "gpt usage": 0.0015169089999999999,
+            "elapsed time": 4.20905876159668,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "how much did alexis pay for the shoes?\n- how much money did alexis spend in total?\n- how much money did alexis spend on items with known prices?\n    - how much did alexis spend on the button-up shirt?\n    - how much did alexis spend on the suit pants?\n    - how much did alexis spend on the suit coat?\n    - how much did alexis spend on the socks?\n    - how much did alexis spend on the belt?\n- how much money did alexis spend on items with unknown prices?\n- how much money did alexis spend on the shoes?\n"
+        },
+        {
+            "answer": [
+                "how much did alexis pay for the shoes? $34"
+            ],
+            "answer_gt": "41",
+            "gpt usage": 0.001520001,
+            "elapsed time": 9.493996620178223,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "how many people were on the ship the monster ate in the first hundred years?\n- how many people were on the ship the monster ate in the second hundred years?\n- how many people were on the ship the monster ate in the third hundred years?\n- how many people were on the ship the monster ate in the last hundred years?\n"
+        },
+        {
+            "answer": [
+                "how many people were on the ship the monster ate in the first hundred years? 53"
+            ],
+            "answer_gt": "121",
+            "gpt usage": 0.0015228440000000002,
+            "elapsed time": 5.761242628097534,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many trees does randy have in all on his farm?\n- how many mango trees does randy have?\n- how many coconut trees does randy have?\n    - how many coconut trees are half as many as mango trees?\n- how many trees does randy have in total?\n"
+        },
+        {
+            "answer": [
+                "how many trees does randy have in all on his farm? 135\n- how many mango trees does randy have? 60\n- how many coconut trees does randy have? 30\n    - how many coconut trees are half as many as mango trees? 30\n- how many trees does randy have in total? 135"
+            ],
+            "answer_gt": "85",
+            "gpt usage": 0.0015256145000000002,
+            "elapsed time": 7.124758005142212,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many hours will it take her to read 120 pages?\n- how many pages can joy read in 1 minute?\n- how many minutes will it take her to read 120 pages?"
+        },
+        {
+            "answer": [
+                "how many hours will it take her to read 120 pages? 30"
+            ],
+            "answer_gt": "5",
+            "gpt usage": 0.00152794,
+            "elapsed time": 5.476341247558594,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow much will mike have after spending some of his share on a shirt that costs $200?\n- what is the total amount of profit from the business transaction?\n- what is the total ratio of profit sharing between mike and johnson?\n- how much is mike's share of the profit?\n- how much will mike have left after spending $200 on a shirt?\n"
+        },
+        {
+            "answer": [
+                "- What is the total amount of profit from the business transaction? $2500\n- What is the total ratio of profit sharing between Mike and Johnson? 2:5\n- How much is Mike's share of the profit? $1000\n- How much will Mike have left after spending $200 on a shirt? $800\n\nAnswer: How much will Mike have after spending some of his share on a shirt that costs $200? $800"
+            ],
+            "answer_gt": "800",
+            "gpt usage": 0.0015309974999999998,
+            "elapsed time": 9.825174808502197,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many hours in total does roque take to get to and from work a week with walking and biking?\n- how many hours does roque spend walking to and from work in a week?\n- how many hours does roque spend riding his bike to and from work in a week?"
+        },
+        {
+            "answer": [
+                "- How many hours does Roque spend walking to and from work in a week? 12 hours\n- How many hours does Roque spend riding his bike to and from work in a week? 4 hours\nAnswer: How many hours in total does Roque take to get to and from work a week with walking and biking? 16 hours"
+            ],
+            "answer_gt": "16",
+            "gpt usage": 0.001534126,
+            "elapsed time": 9.004087924957275,
+            "score": 70.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many stamps did bella buy in all?\n- how many truck stamps did bella buy?\n    - how many rose stamps did bella buy?\n- how many snowflake stamps did bella buy?\n- how many stamps did bella buy in total?"
+        },
+        {
+            "answer": [
+                "how many stamps did Bella buy in all? 33"
+            ],
+            "answer_gt": "38",
+            "gpt usage": 0.001536692,
+            "elapsed time": 3.9027068614959717,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many letters are in samantha\u2019s last name?\n- how many letters are in bobbie\u2019s last name?\n    - how many letters are in jamie\u2019s last name?\n- how many letters are in jamie\u2019s last name?"
+        },
+        {
+            "answer": [
+                "how many letters are in samantha\u2019s last name? 6"
+            ],
+            "answer_gt": "7",
+            "gpt usage": 0.0015392975000000002,
+            "elapsed time": 4.405552387237549,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow much credit will mary need to pay before her next shopping trip?\n- how much credit did mary spend in total?\n- how much credit did mary spend on tuesday?\n- how much credit did mary spend on thursday?"
+        },
+        {
+            "answer": [
+                "- How much credit did Mary spend in total? $38\n- How much credit did Mary spend on Tuesday? $15\n- How much credit did Mary spend on Thursday? $23\nAnswer: How much credit will Mary need to pay before her next shopping trip? $62"
+            ],
+            "answer_gt": "62",
+            "gpt usage": 0.001542255,
+            "elapsed time": 9.207616567611694,
+            "score": 60.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many ml of salt will jack get when all the water evaporates?\n- what is the total amount of salt in 2 liters of seawater?\n- how much salt is in 1 ml of the seawater?"
+        },
+        {
+            "answer": [
+                "how many ml of salt will Jack get when all the water evaporates? 400 ml"
+            ],
+            "answer_gt": "400",
+            "gpt usage": 0.001544872,
+            "elapsed time": 5.429781198501587,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many gnomes does the fifth house have?\n- how many gnomes are in the first four houses?\n- how many gnomes are there in total on the street?"
+        },
+        {
+            "answer": [
+                "how many gnomes does the fifth house have?\n- how many gnomes are in the first four houses? 12\n- how many gnomes are there in total on the street? 20\nAnswer: how many gnomes does the fifth house have? 8"
+            ],
+            "answer_gt": "8",
+            "gpt usage": 0.0015476995000000002,
+            "elapsed time": 6.833704710006714,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many pizza pieces are left uneaten?\n- how many pieces are there in each personal pan pizza?\n- how many pieces does bill eat?\n- how many pieces does dale eat?\n- how many pieces does ann eat?\n- how many pieces does cate eat?"
+        },
+        {
+            "answer": [
+                "how many pizza pieces are left uneaten? 4\n- how many pieces are there in each personal pan pizza? 4\n- how many pieces does bill eat? 2\n- how many pieces does dale eat? 2\n- how many pieces does ann eat? 3\n- how many pieces does cate eat? 3\nAnswer: how many pizza pieces are left uneaten? 4"
+            ],
+            "answer_gt": "6",
+            "gpt usage": 0.0015507345,
+            "elapsed time": 10.723282814025879,
+            "score": 70.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow far did the car have to travel after the 3rd turn?\n- how far did the car travel after the 1st turn?\n- how far did the car travel after the 2nd turn?\n- how far did the car travel after the 3rd turn?\n- how far did the car travel after the 4th turn?"
+        },
+        {
+            "answer": [
+                "how far did the car have to travel after the 3rd turn? 10"
+            ],
+            "answer_gt": "10",
+            "gpt usage": 0.001553873,
+            "elapsed time": 6.379000663757324,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow much was the money shared?\n- how much money did tony get?"
+        },
+        {
+            "answer": [
+                "how much was the money shared? $5250\n- how much money did tony get? $3500\nAnswer: how much was the money shared? $5250"
+            ],
+            "answer_gt": "5250",
+            "gpt usage": 0.0015562150000000001,
+            "elapsed time": 4.303500413894653,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow much more money did lisa earn than tommy?\n- how much money did lisa earn?\n- how much money did tommy earn?"
+        },
+        {
+            "answer": [
+                "How much more money did Lisa earn than Tommy? 15\n\n- How much money did Lisa earn? $30\n- How much money did Tommy earn? $15"
+            ],
+            "answer_gt": "15",
+            "gpt usage": 0.001558879,
+            "elapsed time": 7.141319751739502,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "how many ounces of tea does she need?\n- how many ounces of tea does each person need?\n- how many people are at the party?\n    - how many people want tea at the party?"
+        },
+        {
+            "answer": [
+                "how many ounces of tea does she need? 72"
+            ],
+            "answer_gt": "9",
+            "gpt usage": 0.001561516,
+            "elapsed time": 5.217371225357056,
+            "score": 25.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow much did mr. benson pay in all?\n- how much did mr. benson pay for 10 tickets?\n- how much discount did mr. benson receive for the additional 2 tickets?"
+        },
+        {
+            "answer": [
+                "- How much did Mr. Benson pay for 10 tickets? $400\n- How much discount did Mr. Benson receive for the additional 2 tickets? $4\nAnswer: How much did Mr. Benson pay in all? $396"
+            ],
+            "answer_gt": "476",
+            "gpt usage": 0.0015644235,
+            "elapsed time": 7.78746771812439,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many bananas would each monkey get if they divide the bananas equally amongst themselves?\n- how many bananas are in each pile with 9 hands?\n- how many bananas are in each pile with 12 hands?\n- how many hands are there in total?\n- how many monkeys are in the family?"
+        },
+        {
+            "answer": [
+                "- How many bananas are in each pile with 9 hands? 126\n- How many bananas are in each pile with 12 hands? 108\n- How many hands are there in total? 138\n- How many monkeys are in the family? 12\nAnswer: How many bananas would each monkey get if they divide the bananas equally amongst themselves? 63"
+            ],
+            "answer_gt": "99",
+            "gpt usage": 0.0015676505,
+            "elapsed time": 10.603516340255737,
+            "score": 70.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow much money does he spend on coursework materials?\n- what is the total amount of money james spends in a semester?\n- how much money does james spend on food?\n- how much money does james spend on accommodation?\n- how much money does james spend on entertainment?\n"
+        },
+        {
+            "answer": [
+                "how much money does he spend on coursework materials? $250"
+            ],
+            "answer_gt": "300",
+            "gpt usage": 0.0015703280000000002,
+            "elapsed time": 5.71600079536438,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many minutes does she spend practicing in a month with four weeks?\n- how many minutes does she practice the piano per day?\n- how many minutes does she practice the violin per day?\n"
+        },
+        {
+            "answer": [
+                "- How many minutes does she practice the piano per day? 20\n- How many minutes does she practice the violin per day? 60\nAnswer: How many minutes does she spend practicing in a month with four weeks? 2400"
+            ],
+            "answer_gt": "1920",
+            "gpt usage": 0.0015732900000000002,
+            "elapsed time": 10.663703680038452,
+            "score": 85.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "how many digits did sam memorize?\n- how many digits of pi did carlos memorize?\n- how many digits of pi did mina memorize?\n- how many more digits of pi did sam memorize than carlos?\n"
+        },
+        {
+            "answer": [
+                "how many digits did sam memorize? 30\n- how many digits of pi did carlos memorize? 12\n- how many digits of pi did mina memorize? 24\n- how many more digits of pi did sam memorize than carlos? 18\n\nAnswer: how many digits did sam memorize? 30"
+            ],
+            "answer_gt": "10",
+            "gpt usage": 0.0015762719999999999,
+            "elapsed time": 10.18480110168457,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many chores does gerald need to average a month to save up for his supplies?\n- how much money does gerald need to save up for his supplies?\n- how much money does gerald make from each chore?\n- how many months does gerald have to save up for his supplies?"
+        },
+        {
+            "answer": [
+                "- How much money does Gerald need to save up for his supplies? $400\n- How much money does Gerald make from each chore? $10\n- How many months does Gerald have to save up for his supplies? 4\nAnswer: How many chores does Gerald need to average a month to save up for his supplies? 10"
+            ],
+            "answer_gt": "5",
+            "gpt usage": 0.0015792515,
+            "elapsed time": 5.741835832595825,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many pencils are in each box?\n- how many pencils did arnel initially have in total?\n- how many pencils did arnel share with his friends?\n- how many friends does arnel have?\n- how many pencils are in each box originally? "
+        },
+        {
+            "answer": [
+                "how many pencils are in each box? 8\n- how many pencils did arnel initially have in total? 100\n- how many pencils did arnel share with his friends? 50\n- how many friends does arnel have? 5\n- how many pencils are in each box originally? 10\nAnswer: how many pencils are in each box? 8"
+            ],
+            "answer_gt": "5",
+            "gpt usage": 0.0015823970000000001,
+            "elapsed time": 8.025758504867554,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many dollars did leah lose?\n- how much money was spent on the milkshake?\n- how much money was put in the savings account?\n- how much money was left in the wallet?\n"
+        },
+        {
+            "answer": [
+                "How many dollars did Leah lose? 13"
+            ],
+            "answer_gt": "11",
+            "gpt usage": 0.001585008,
+            "elapsed time": 6.388772487640381,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many minutes did leo finish the third part of the assignment?\n- how many minutes did leo finish the second part of the assignment?\n- how many parts is leo's assignment divided into?"
+        },
+        {
+            "answer": [
+                "how many minutes did leo finish the third part of the assignment? 50\n- how many minutes did leo finish the second part of the assignment? 50\n- how many parts is leo's assignment divided into? 3\nAnswer: how many minutes did leo finish the third part of the assignment? 45"
+            ],
+            "answer_gt": "45",
+            "gpt usage": 0.0015878215,
+            "elapsed time": 6.551787853240967,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nwhat is the total amount of money those 60 students get in a day?\n- how many students receive $6 allowance per day?\n- how many students receive $4 allowance per day?\n"
+        },
+        {
+            "answer": [
+                "What is the total amount of money those 60 students get in a day? 360\n- How many students receive $6 allowance per day? 40\n- How many students receive $4 allowance per day? 20"
+            ],
+            "answer_gt": "320",
+            "gpt usage": 0.001590752,
+            "elapsed time": 7.241420745849609,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many hours will jerry spend at the field watching his daughters play and practice altogether?\n- how many games will each daughter play?\n- how many hours will each team practice for every game they play?\n- how many hours does each game last?\n"
+        },
+        {
+            "answer": [
+                "- How many games will each daughter play? 8\n- How many hours will each team practice for every game they play? 4\n- How many hours does each game last? 2\n\nAnswer: How many hours will Jerry spend at the field watching his daughters play and practice altogether? 192"
+            ],
+            "answer_gt": "96",
+            "gpt usage": 0.0015936725,
+            "elapsed time": 8.602851867675781,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow much oil is each of the remaining cans holding?\n- how many liters of oil are in the 10 cans holding 8 liters each?\n- how many cans are considered as the remaining cans?\n"
+        },
+        {
+            "answer": [
+                "how much oil is each of the remaining cans holding?\n- how many liters of oil are in the 10 cans holding 8 liters each? 80\n- how many cans are considered as the remaining cans? 14\nAnswer: how much oil is each of the remaining cans holding? 15"
+            ],
+            "answer_gt": "15",
+            "gpt usage": 0.0015964819999999998,
+            "elapsed time": 9.024157762527466,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow much does he earn per week?\n- how much does he earn per hour at his second job?\n- how many hours does he work at his second job?"
+        },
+        {
+            "answer": [
+                "- How much does he earn per hour at his second job? $16\n- How many hours does he work at his second job? 15\nAnswer: How much does he earn per week? $780"
+            ],
+            "answer_gt": "840",
+            "gpt usage": 0.001599317,
+            "elapsed time": 7.7544264793396,
+            "score": 65.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow much will tara's balance be after paying for 4 months?\n- how much is the laptop after the 20% down payment?\n- how much does tara still owe after the down payment?\n- how much will tara pay in total after 4 months?"
+        },
+        {
+            "answer": [
+                "- How much is the laptop after the 20% down payment? $800\n- How much does Tara still owe after the down payment? $800 - $20 = $780\n- How much will Tara pay in total after 4 months? $65 * 4 = $260\nAnswer: How much will Tara's balance be after paying for 4 months? $780 - $260 = $520"
+            ],
+            "answer_gt": "520",
+            "gpt usage": 0.0016025145,
+            "elapsed time": 9.161060810089111,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many will amalie remain with?\n- what is the total number of coins elsa has?\n- what is the total number of coins amalie has?\n- how many coins will amalie spend on toys?\n    - what is 3/4 of the total number of coins amalie has?"
+        },
+        {
+            "answer": [
+                "how many will amalie remain with? 110"
+            ],
+            "answer_gt": "90",
+            "gpt usage": 0.0016053115,
+            "elapsed time": 8.748018741607666,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many apples does harry have?\n- how many apples does tim have?\n    - how many apples does martha have?\n- how many apples does harry have?"
+        },
+        {
+            "answer": [
+                "How many apples does Harry have? 17"
+            ],
+            "answer_gt": "19",
+            "gpt usage": 0.001607636,
+            "elapsed time": 5.978548765182495,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "how many cubic feet of water are in the aquarium?\n- what is the volume of the aquarium?\n- how much water was originally in the aquarium?\n- how much water was spilled by the cat?\n- how much water did nancy add to the aquarium?"
+        },
+        {
+            "answer": [
+                "- How many cubic feet of water are in the aquarium? 18\n    - What is the volume of the aquarium? 72\n    - How much water was originally in the aquarium? 36\n    - How much water was spilled by the cat? 18\n    - How much water did Nancy add to the aquarium? 54\nAnswer: How many cubic feet of water are in the aquarium? 54"
+            ],
+            "answer_gt": "54",
+            "gpt usage": 0.001610696,
+            "elapsed time": 10.182482242584229,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many kilograms did each of the last two people lose?\n- how many kilograms did the second person lose?\n- how many kilograms did the third person lose?\n- how many kilograms did the fourth person lose?\n"
+        },
+        {
+            "answer": [
+                "how many kilograms did each of the last two people lose?\n- how many kilograms did the second person lose? 20\n- how many kilograms did the third person lose? 28\n- how many kilograms did the fourth person lose? 28\nAnswer: how many kilograms did each of the last two people lose? 56"
+            ],
+            "answer_gt": "28",
+            "gpt usage": 0.0016134835,
+            "elapsed time": 6.619888544082642,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nhow many vegetables did the garden produce?\n- how many cucumbers did the garden produce?\n- how many peppers did the garden produce?\n    - how many cucumbers did the garden produce?\n- how many potatoes did the garden produce?\n"
+            ],
+            "count": {
+                "sure": 0,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "how many vegetables did the garden produce?\n- how many cucumbers did the garden produce?\n- how many peppers did the garden produce?\n- how many potatoes did the garden produce?"
+        },
+        {
+            "answer": [
+                "how many vegetables did the garden produce? 474"
+            ],
+            "answer_gt": "768",
+            "gpt usage": 0.0016172535,
+            "elapsed time": 8.121675968170166,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "how many slices are left?\n- how many slices are there in one cookie pie?\n- how many people are sharing the cookie pies?\n- how many slices are being consumed by manny, his classmates, and mr. keith?\n    - how many slices are being consumed by manny?\n    - how many slices are being consumed by his classmates?\n    - how many slices are being consumed by mr. keith?\n- how many slices are left after consumption?\n"
+        },
+        {
+            "answer": [
+                "how many slices are left? 57"
+            ],
+            "answer_gt": "4",
+            "gpt usage": 0.001619973,
+            "elapsed time": 5.866266965866089,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many cans of milk did jennifer bring home from the store?\n- how many additional cans did jennifer buy for every 5 cans mark bought?\n- how many cans of milk did jennifer purchase at the store before meeting mark?\n- how many cans of milk did jennifer buy in total?"
+        },
+        {
+            "answer": [
+                "- How many additional cans did Jennifer buy for every 5 cans Mark bought? 6\n- How many cans of milk did Jennifer purchase at the store before meeting Mark? 40\n- How many cans of milk did Jennifer buy in total? 40 + (6 * (50 / 5)) = 40 + (6 * 10) = 40 + 60 = 100\n\nAnswer: How many cans of milk did Jennifer bring home from the store? 100"
+            ],
+            "answer_gt": "100",
+            "gpt usage": 0.0016229934999999998,
+            "elapsed time": 7.478434801101685,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\ncalculate her total income.\n- how much does she earn for 40 hours of work?\n- how much does she earn for each hour of overtime?\n- how many hours of overtime did she work?\n- how much extra did she earn from overtime?\n- how much did she earn in total last week?\n"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "output:\ncalculate her total income.\n- how much does she earn for 40 hours of work?\n- how much does she earn for each hour of overtime?\n- how many hours of overtime did she work?\n- how much extra did she earn from overtime?\n"
+        },
+        {
+            "answer": [
+                "calculate her total income. $600"
+            ],
+            "answer_gt": "700",
+            "gpt usage": 0.001626985,
+            "elapsed time": 8.702423334121704,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nin how many different rooms could hans be checked in?\n- how many floors are available for hans to be checked in?\n- how many rooms are there per floor?\n- how many rooms are unavailable for guests?"
+        },
+        {
+            "answer": [
+                "in how many different rooms could Hans be checked in? 90\n\n- How many floors are available for Hans to be checked in? 9\n- How many rooms are there per floor? 10\n- How many rooms are unavailable for guests? 10\n\nTo find the total number of rooms available for Hans to be checked in, we multiply the number of available floors by the number of rooms per floor and then subtract the number of rooms that are unavailable for guests:\n9 floors * 10 rooms per floor - 10 rooms unavailable = 90 rooms."
+            ],
+            "answer_gt": "90",
+            "gpt usage": 0.0016300330000000001,
+            "elapsed time": 8.802023649215698,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many ounces of soda did peter buy?\n- how much money did peter spend in total?\n- how much money did peter spend on the soda?\n- how much money did peter spend on other items?\n- how much money did peter have left after buying the soda?\n- how many ounces of soda can peter buy with $2?"
+        },
+        {
+            "answer": [
+                "How many ounces of soda did Peter buy? 6\n\n- How much money did Peter spend in total? $1.50\n- How much money did Peter spend on the soda? $1.50\n- How much money did Peter spend on other items? $0\n- How much money did Peter have left after buying the soda? $0.50\n- How many ounces of soda can Peter buy with $2? 8"
+            ],
+            "answer_gt": "6",
+            "gpt usage": 0.0016329685,
+            "elapsed time": 10.533389568328857,
+            "score": 90.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many geckos has brandon sold in the last two years?\n- how many geckos did brandon sell the year before?\n- how many geckos did brandon sell last year?"
+        },
+        {
+            "answer": [
+                "- How many geckos did Brandon sell the year before? 86 * 2 = 172\n- How many geckos did Brandon sell last year? 86\nAnswer: How many geckos has Brandon sold in the last two years? 172 + 86 = 258"
+            ],
+            "answer_gt": "258",
+            "gpt usage": 0.001635594,
+            "elapsed time": 7.631308555603027,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nhow many cups of food will he need for all three months?\n- how many birds does herman feed in the morning each day?\n- how many birds does herman feed in the afternoon each day?\n- how many days are there in december, january, and february?\n- how many total cups of food does herman feed the birds each day?\n- how many cups of food will he need for one month?\n- how many cups of food will he need for three months?\n"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "how many cups of food will he need for all three months?\n- how many birds does herman feed in the morning each day?\n- how many birds does herman feed in the afternoon each day?\n- how many days are there in december, january, and february?\n- how many total cups of food does herman feed the birds each day?\n- how many cups of food will he need for one month?\n- how many cups of food will he need for three months?"
+        },
+        {
+            "answer": [
+                "how many cups of food will he need for all three months? 135\n- how many birds does herman feed in the morning each day? 1\n- how many birds does herman feed in the afternoon each day? 1\n- how many days are there in december, january, and february? 90\n- how many total cups of food does herman feed the birds each day? 1\n- how many cups of food will he need for one month? 45\n- how many cups of food will he need for three months? 135"
+            ],
+            "answer_gt": "90",
+            "gpt usage": 0.0016405915,
+            "elapsed time": 16.131603479385376,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow much money will they both have saved for their trip after a year? \n- how much money does sally save per day?\n- how much money does bob save per day?"
+        },
+        {
+            "answer": [
+                "how much money will they both have saved for their trip after a year? \n- how much money does sally save per day? $3\n- how much money does bob save per day? $2\nAnswer: $1825"
+            ],
+            "answer_gt": "1825",
+            "gpt usage": 0.0016434474999999999,
+            "elapsed time": 5.904328346252441,
+            "score": 70.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow long will it take him to write 3 books that are 400 pages each?\n- how many pages are in 3 books that are 400 pages each?\n- how many pages does john write in a day?\n"
+        },
+        {
+            "answer": [
+                "- How many pages are in 3 books that are 400 pages each? 1200\n- How many pages does John write in a day? 20\nAnswer: How long will it take him to write 3 books that are 400 pages each? 60 days"
+            ],
+            "answer_gt": "60",
+            "gpt usage": 0.0016462435,
+            "elapsed time": 6.680970907211304,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "how much money did he make from selling all the water?\n- how many gallons of water did james collect on monday?\n- how many gallons of water did james collect on tuesday?\n- how much money did he make from selling the water collected on monday?\n- how much money did he make from selling the water collected on tuesday?"
+        },
+        {
+            "answer": [
+                "how much money did he make from selling all the water? 108\n- how many gallons of water did james collect on monday? 60\n- how many gallons of water did james collect on tuesday? 45\n- how much money did he make from selling the water collected on monday? 72\n- how much money did he make from selling the water collected on tuesday? 54\nAnswer: how much money did he make from selling all the water? 126"
+            ],
+            "answer_gt": "126",
+            "gpt usage": 0.0016494915,
+            "elapsed time": 9.15128779411316,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "current decomposition:\nwhat is the total number of gumballs that hector purchased?\n- how many gumballs did hector give to todd?\n- how many gumballs did hector give to alisha?\n- how many gumballs did hector give to bobby?"
+        },
+        {
+            "answer": [
+                "what is the total number of gumballs that Hector purchased? 42\n- how many gumballs did Hector give to Todd? 4\n- how many gumballs did Hector give to Alisha? 8\n- how many gumballs did Hector give to Bobby? 30\nAnswer: what is the total number of gumballs that Hector purchased? 42"
+            ],
+            "answer_gt": "45",
+            "gpt usage": 0.001652815,
+            "elapsed time": 8.554430723190308,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many sales were in the stationery section?\n- how many sales were in the fabric section?\n- how many sales were in the jewelry section?"
+        },
+        {
+            "answer": [
+                "How many sales were in the stationery section? 24"
+            ],
+            "answer_gt": "15",
+            "gpt usage": 0.0016552005,
+            "elapsed time": 3.678813934326172,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "how much oil does ellie need in total to fix the bike?\n- how much oil does ellie need to fix each wheel?\n- how much oil does ellie need to fix the rest of the bike?"
+        },
+        {
+            "answer": [
+                "how much oil does ellie need in total to fix the bike? 25"
+            ],
+            "answer_gt": "25",
+            "gpt usage": 0.0016578075,
+            "elapsed time": 5.791927814483643,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many people can the boat transport in 2 days?\n- how many people can the boat take during one trip?\n- how many boat trips are there in 2 days?"
+        },
+        {
+            "answer": [
+                "- How many people can the boat take during one trip? 12\n- How many boat trips are there in 2 days? 8\nAnswer: How many people can the boat transport in 2 days? 96"
+            ],
+            "answer_gt": "96",
+            "gpt usage": 0.0016604235,
+            "elapsed time": 6.977579355239868,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many uncommon cards did he get?\n- what fraction of cards in each pack are uncommon?\n- how many packs of magic cards did john buy?"
+        },
+        {
+            "answer": [
+                "How many uncommon cards did he get? 50"
+            ],
+            "answer_gt": "50",
+            "gpt usage": 0.001662698,
+            "elapsed time": 4.887462377548218,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow much did he spend in total on the pills?\n- how much did he spend on the pills that cost $1.50 each?\n- how much did he spend on the pills that cost $5.50 more than the $1.50 pills?"
+        },
+        {
+            "answer": [
+                "how much did he spend in total on the pills? $189\n- how much did he spend on the pills that cost $1.50 each? $63\n- how much did he spend on the pills that cost $5.50 more than the $1.50 pills? $126\nAnswer: how much did he spend in total on the pills? $189"
+            ],
+            "answer_gt": "41",
+            "gpt usage": 0.0016656485000000002,
+            "elapsed time": 8.99204397201538,
+            "score": 70.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow much more money did tina make for the class trip selling candy bars compared to marvin?\n- how many candy bars did tina sell?\n- how much money did marvin make selling candy bars?\n- how much money did tina make selling candy bars?"
+        },
+        {
+            "answer": [
+                "- How many candy bars did Tina sell? 105\n- How much money did Marvin make selling candy bars? $70\n- How much money did Tina make selling candy bars? $210\nAnswer: How much more money did Tina make for the class trip selling candy bars compared to Marvin? $140"
+            ],
+            "answer_gt": "140",
+            "gpt usage": 0.0016686045,
+            "elapsed time": 8.577938795089722,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\ncalculate the total number of photos in the gallery.\n- how many photos did they take on the first day?\n- how many photos did they take on the second day?"
+        },
+        {
+            "answer": [
+                "- how many photos did they take on the first day? 200\n- how many photos did they take on the second day? 320\nAnswer: calculate the total number of photos in the gallery. 920"
+            ],
+            "answer_gt": "920",
+            "gpt usage": 0.0016716139999999999,
+            "elapsed time": 11.757009744644165,
+            "score": 85.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nhow many pets does ed have in total?\n- how many fish does ed have?\n    - how many fish does ed have compared to cats and dogs?\n- how many cats does ed have?\n- how many dogs does ed have?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "how many pets does ed have in total?\n- how many fish does ed have?\n    - how many fish does ed have compared to cats and dogs?\n- how many cats does ed have?\n- how many dogs does ed have?"
+        },
+        {
+            "answer": [
+                "how many pets does ed have in total? 11"
+            ],
+            "answer_gt": "15",
+            "gpt usage": 0.0016752685000000001,
+            "elapsed time": 6.980587005615234,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "how many stamps does valerie need in total?\n- how many stamps does valerie need for the thank you cards?\n- how many stamps does valerie need for the job applications?\n- how many stamps does valerie need for the mail-in rebates?\n    - how many more mail-in rebates does valerie need to send than bills?\n- how many stamps does valerie need for the water bill?\n- how many stamps does valerie need for the electric bill?\n"
+        },
+        {
+            "answer": [
+                "How many stamps does Valerie need in total? 21 stamps\n\n- How many stamps does Valerie need for the thank you cards? 3 stamps\n- How many stamps does Valerie need for the job applications? 12 stamps\n- How many stamps does Valerie need for the mail-in rebates? 6 stamps\n    - How many more mail-in rebates does Valerie need to send than bills? 3\n- How many stamps does Valerie need for the water bill? 1 stamp\n- How many stamps does Valerie need for the electric bill? 2 stamps\n\nTherefore, Valerie needs a total of 21 stamps."
+            ],
+            "answer_gt": "21",
+            "gpt usage": 0.0016789625,
+            "elapsed time": 9.133301258087158,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many objects can jeanette juggle?\n- how many objects can she juggle after 1 week?\n- how many objects can she juggle after 2 weeks?\n- how many objects can she juggle after 3 weeks?\n- how many objects can she juggle after 4 weeks?\n- how many objects can she juggle after 5 weeks?"
+        },
+        {
+            "answer": [
+                "How many objects can Jeanette juggle? 15"
+            ],
+            "answer_gt": "13",
+            "gpt usage": 0.0016816965,
+            "elapsed time": 5.558017253875732,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "how much money will she have left over after she buys her bike?\n- how much money does carrie earn in a week?\n- how many weeks are there in a month?"
+        },
+        {
+            "answer": [
+                "- how much money does carrie earn in a week? $280\n- how many weeks are there in a month? 4\nAnswer: how much money will she have left over after she buys her bike? $120"
+            ],
+            "answer_gt": "720",
+            "gpt usage": 0.0016845265000000002,
+            "elapsed time": 7.272745370864868,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\ncalculate the number of board members who did attend the meeting.\n- how many chairs were not occupied?\n- how many chairs were occupied?\n- how many people were present in the meeting?\n"
+        },
+        {
+            "answer": [
+                "calculate the number of board members who did attend the meeting. 16\n- how many chairs were not occupied? 16\n- how many chairs were occupied? 24\n- how many people were present in the meeting? 48"
+            ],
+            "answer_gt": "48",
+            "gpt usage": 0.001687333,
+            "elapsed time": 6.901756286621094,
+            "score": 90.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "how many feet of yarn did she use for the second ball?\n- how many feet of yarn did she use for the third ball?\n- how many feet of yarn did she use for the first ball?\n- how many times larger is the third ball compared to the first ball?"
+        },
+        {
+            "answer": [
+                "how many feet of yarn did she use for the second ball? 54\n- how many feet of yarn did she use for the third ball? 27\n- how many feet of yarn did she use for the first ball? 9\n- how many times larger is the third ball compared to the first ball? 3\nAnswer: how many feet of yarn did she use for the second ball? 54"
+            ],
+            "answer_gt": "18",
+            "gpt usage": 0.001690372,
+            "elapsed time": 10.917542457580566,
+            "score": 90.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many roommates does john have?\n- how many roommates does bob have?\n- how many more roommates than bob does john have?\n"
+        },
+        {
+            "answer": [
+                "How many roommates does John have? 25\n- How many roommates does Bob have? 10\n- How many more roommates than Bob does John have? 15"
+            ],
+            "answer_gt": "25",
+            "gpt usage": 0.0016928675,
+            "elapsed time": 6.033208131790161,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "how many rooms does the principal need to book to fit all of the students in the class?\n- how many students can fit in a room with two queen size beds?\n- how many students can fit in a room with a pull-out couch?"
+        },
+        {
+            "answer": [
+                "- How many students can fit in a room with two queen size beds? 4\n- How many students can fit in a room with a pull-out couch? 1\nAnswer: How many rooms does the principal need to book to fit all of the students in the class? 8 rooms."
+            ],
+            "answer_gt": "6",
+            "gpt usage": 0.0016959265000000001,
+            "elapsed time": 9.152102708816528,
+            "score": 65.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many seashells did ali start with?\n- how many seashells did ali give to his friends?\n- how many seashells did ali give to his brothers?\n- how many seashells did ali sell?"
+        },
+        {
+            "answer": [
+                "How many seashells did Ali start with? 180\n- How many seashells did Ali give to his friends? 40\n- How many seashells did Ali give to his brothers? 30\n- How many seashells did Ali sell? 55\nAnswer: How many seashells did he have left? 55"
+            ],
+            "answer_gt": "55",
+            "gpt usage": 0.001699014,
+            "elapsed time": 7.531864166259766,
+            "score": 90.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow much did james pay?\n- how many pounds of beef did james buy?\n- what is the price per pound of beef?"
+        },
+        {
+            "answer": [
+                "How much did James pay? $110.00\n- How many pounds of beef did James buy? 20\n- What is the price per pound of beef? $5.50"
+            ],
+            "answer_gt": "110",
+            "gpt usage": 0.0017014425,
+            "elapsed time": 8.526822090148926,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow much change will they receive?\n- how much do the regular tickets cost?\n- how much discount do the children get?\n- how much money did they give the cashier?\n"
+        },
+        {
+            "answer": [
+                "how much change will they receive?  $191."
+            ],
+            "answer_gt": "74",
+            "gpt usage": 0.00170401,
+            "elapsed time": 7.102383852005005,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "how many sticks of wax did loraine use to make all the animals?\n- how many large animals did loraine make?\n- how many small animals did loraine make?\n    - how many sticks of wax did loraine use for each small animal?\n- how many sticks of wax does each large animal take?"
+        },
+        {
+            "answer": [
+                "how many sticks of wax did loraine use to make all the animals? 48"
+            ],
+            "answer_gt": "20",
+            "gpt usage": 0.0017067145000000002,
+            "elapsed time": 6.612335443496704,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow much will you save via discounts if you buy 3 gallons of whole milk and 5 boxes of cereal?\n- what is the discount per gallon of whole milk?\n- how many gallons of whole milk are being purchased?\n- what is the discount per box of cereal?\n- how many boxes of cereal are being purchased?\n"
+        },
+        {
+            "answer": [
+                "How much will you save via discounts if you buy 3 gallons of whole milk and 5 boxes of cereal?\n- What is the discount per gallon of whole milk? $1\n- How many gallons of whole milk are being purchased? 3\n- What is the discount per box of cereal? $1\n- How many boxes of cereal are being purchased? 5\n\nTo calculate the total savings:\nTotal savings = (Discount per gallon of milk * Number of gallons of milk) + (Discount per box of cereal * Number of boxes of cereal)\nTotal savings = ($1 * 3) + ($1 * 5)\nTotal savings = $3 + $5\nTotal savings = $8\n\nAnswer: How much will you save via discounts if you buy 3 gallons of whole milk and 5 boxes of cereal? $8"
+            ],
+            "answer_gt": "8",
+            "gpt usage": 0.001710308,
+            "elapsed time": 14.548147201538086,
+            "score": 90.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many kids got into the movie?\n- how many kids were denied from riverside high?\n- how many kids were denied from west side high?\n- how many kids were denied from mountaintop high?"
+        },
+        {
+            "answer": [
+                "How many kids got into the movie? 174\n- How many kids were denied from Riverside High? 24\n- How many kids were denied from West Side High? 63\n- How many kids were denied from Mountaintop High? 25"
+            ],
+            "answer_gt": "148",
+            "gpt usage": 0.0017131185,
+            "elapsed time": 9.219887971878052,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nwhat percentage of germs would be left after using both sanitizer sprays together?\n- what percentage of germs does the first spray not kill?\n- what percentage of germs does the second spray not kill?\n- what percentage of germs do both sprays not kill?"
+        },
+        {
+            "answer": [
+                "what percentage of germs would be left after using both sanitizer sprays together? 37.5%"
+            ],
+            "answer_gt": "30",
+            "gpt usage": 0.0017159150000000001,
+            "elapsed time": 5.004828453063965,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many packages did the third butcher deliver?\n- how many packages did the first butcher deliver?\n- how many packages did the second butcher deliver?\n- how many pounds of ground beef did each butcher deliver in total?\n- how many pounds of ground beef did the third butcher deliver?"
+        },
+        {
+            "answer": [
+                "how many packages did the third butcher deliver? 13"
+            ],
+            "answer_gt": "8",
+            "gpt usage": 0.001718738,
+            "elapsed time": 5.680603504180908,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "how many minutes do all three spend cleaning their rooms each week?\n- how long does it take cory to clean her room?\n- how long does it take blake to clean his room?\n- how many times do they clean their rooms in a week?"
+        },
+        {
+            "answer": [
+                "- how long does it take cory to clean her room? 25\n- how long does it take blake to clean his room? 21\n- how many times do they clean their rooms in a week? 2\nAnswer: how many minutes do all three spend cleaning their rooms each week? 138"
+            ],
+            "answer_gt": "136",
+            "gpt usage": 0.0017217155000000001,
+            "elapsed time": 11.009411573410034,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow much was winwin able to take home?\n- how much did winwin pay for the tax?\n- how much did winwin pay for the processing fee?"
+        },
+        {
+            "answer": [
+                "how much was winwin able to take home? $35\n\n- how much did winwin pay for the tax? $10\n- how much did winwin pay for the processing fee? $5\n\nTo find out how much Winwin was able to take home, we need to subtract the tax and processing fee from the amount she won in the lottery:\n$50 - $10 - $5 = $35\n\nTherefore, Winwin was able to take home $35."
+            ],
+            "answer_gt": "35",
+            "gpt usage": 0.0017244510000000001,
+            "elapsed time": 8.421061515808105,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "current decomposition:\nhow many meals does she deliver?\n- how many packages does she deliver?\n- how many meals and packages are combined?"
+        },
+        {
+            "answer": [
+                "how many meals does she deliver? 9"
+            ],
+            "answer_gt": "3",
+            "gpt usage": 0.0017267855,
+            "elapsed time": 6.020224571228027,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow much does the discounted subscription cost?\n- what is the cost of the subscription with the discount applied?\n"
+        },
+        {
+            "answer": [
+                "How much does the discounted subscription cost? 44"
+            ],
+            "answer_gt": "44",
+            "gpt usage": 0.0017291665,
+            "elapsed time": 10.195125341415405,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nhow much money will ariella have after two years?\n- how much money does ariella have in her son's savings account?\n- how much interest will ariella earn after two years?\n    - what is the rate of interest on ariella's account?\n- how much money does daniella have in her son's savings account?\n"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "how much money will ariella have after two years?\n- how much money does ariella have in her son's savings account?\n- how much interest will ariella earn after two years?\n    - what is the rate of interest on ariella's account?\n- how much money does daniella have in her son's savings account?"
+        },
+        {
+            "answer": [
+                "how much money will Ariella have after two years? $880\n- how much money does Ariella have in her son's savings account? $600\n- how much interest will Ariella earn after two years? $280\n    - what is the rate of interest on Ariella's account? 10%\n- how much money does Daniella have in her son's savings account? $400\nAnswer: how much money will Ariella have after two years? $880"
+            ],
+            "answer_gt": "720",
+            "gpt usage": 0.0017339029999999997,
+            "elapsed time": 14.995548486709595,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "current decomposition:\nhow much did george pay for his food?\n- what was the cost of the sandwich?\n- what was the cost of the juice?\n- what was the cost of the bottle of milk?"
+        },
+        {
+            "answer": [
+                "- What was the cost of the sandwich? $4\n- What was the cost of the juice? $8\n- What was the cost of the bottle of milk? $6\nAnswer: How much did George pay for his food? $18"
+            ],
+            "answer_gt": "21",
+            "gpt usage": 0.0017367605,
+            "elapsed time": 6.52576470375061,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow long will he ride on the 13th day to finish his goal?\n- how many miles has he ridden so far?\n- how many miles are left for him to ride?\n    - how many total miles will he ride?\n- how many days has he been riding?\n- how many days are left for him to ride?\n    - how many days will it take him to finish his goal?"
+        },
+        {
+            "answer": [
+                "how long will he ride on the 13th day to finish his goal? 6 miles\n\n- how many miles has he ridden so far? 144 miles\n- how many miles are left for him to ride? 6 miles\n    - how many total miles will he ride? 150 miles\n- how many days has he been riding? 12 days\n- how many days are left for him to ride? 1 day\n    - how many days will it take him to finish his goal? 1 day"
+            ],
+            "answer_gt": "6",
+            "gpt usage": 0.0017399409999999998,
+            "elapsed time": 7.611005544662476,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow much did john spend altogether?\n- how much did john spend on burgers?\n- how much did john spend on condiments and propane?\n- how much did john spend on alcohol?"
+        },
+        {
+            "answer": [
+                "how much did john spend altogether? $460\n- how much did john spend on burgers? $300\n- how much did john spend on condiments and propane? $80\n- how much did john spend on alcohol? $200"
+            ],
+            "answer_gt": "295",
+            "gpt usage": 0.00174277,
+            "elapsed time": 8.089559555053711,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "how much did daniel spend on all the games in his collection?\n- how much did daniel spend on the 80 games bought for $12 each?\n- how many games are in the rest of the collection?\n    - how many games were bought for $7 each in the rest of the collection?\n    - how many games were bought for $3 each in the rest of the collection?\n"
+        },
+        {
+            "answer": [
+                "How much did Daniel spend on all the games in his collection? 346 * $3 + 40 * $7 + 226 * $12 = $4,142"
+            ],
+            "answer_gt": "2290",
+            "gpt usage": 0.0017458215,
+            "elapsed time": 8.301886558532715,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many baseball cards does he have on thursday?\n- how many baseball cards did buddy have on tuesday?\n- how many baseball cards did buddy buy on thursday?"
+        },
+        {
+            "answer": [
+                "- How many baseball cards did Buddy have on Tuesday? 15\n- How many baseball cards did Buddy buy on Thursday? 5\nAnswer: How many baseball cards does he have on Thursday? 20"
+            ],
+            "answer_gt": "32",
+            "gpt usage": 0.001748446,
+            "elapsed time": 8.541531801223755,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nwhat is the maximum number of full-length movies grandpa could have watched during these two days?\n- how many movies did grandpa watch on tuesday?\n- how many movies did grandpa watch on wednesday?\n- how many full-length movies can grandpa watch in 4 hours and 30 minutes?\n- how many full-length movies can grandpa watch in 90 minutes?\n- how many total hours did grandpa watch movies for on tuesday and wednesday?\n- how many total minutes did grandpa watch movies for on tuesday and wednesday?"
+        },
+        {
+            "answer": [
+                "What is the maximum number of full-length movies Grandpa could have watched during these two days? 18"
+            ],
+            "answer_gt": "9",
+            "gpt usage": 0.0017516975,
+            "elapsed time": 6.612121343612671,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow much will her order be with the discount?\n- what is the total cost of the 2 quiches?\n- what is the total cost of the 6 croissants?\n- what is the total cost of the 6 buttermilk biscuits?\n- what is the total cost of the order before the discount?\n- how much is the 10% discount on the total cost of the order?\n- what is the final cost of the order after the discount?\n"
+        },
+        {
+            "answer": [
+                "how much will her order be with the discount? $45.00\n- what is the total cost of the 2 quiches? $30.00\n- what is the total cost of the 6 croissants? $18.00\n- what is the total cost of the 6 buttermilk biscuits? $12.00\n- what is the total cost of the order before the discount? $60.00\n- how much is the 10% discount on the total cost of the order? $6.00\n- what is the final cost of the order after the discount? $45.00"
+            ],
+            "answer_gt": "54",
+            "gpt usage": 0.001755211,
+            "elapsed time": 11.454712152481079,
+            "score": 90.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow old will mel be in years?\n- how old is katherine now?\n- how much older is katherine compared to mel?"
+        },
+        {
+            "answer": [
+                "How old will Mel be in years? 21\n- How old is Katherine now? 24\n- How much older is Katherine compared to Mel? 3"
+            ],
+            "answer_gt": "21",
+            "gpt usage": 0.0017575675,
+            "elapsed time": 5.762753009796143,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "current decomposition:\nhow many stars must kyle make to fill all the glass bottles he bought?\n- how many origami stars can each glass bottle hold?\n- how many glass bottles did kyle buy in total?"
+        },
+        {
+            "answer": [
+                "- How many origami stars can each glass bottle hold? 15\n- How many glass bottles did Kyle buy in total? 5\nAnswer: How many stars must Kyle make to fill all the glass bottles he bought? 75"
+            ],
+            "answer_gt": "75",
+            "gpt usage": 0.00176028,
+            "elapsed time": 7.949386358261108,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nhow much does glenn spend?\n- how much does glenn spend on monday?\n- how much does glenn spend on wednesday?\n- how much does glenn spend on saturday?\n    - how much does glenn spend on movie tickets on a saturday?\n"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "how much does glenn spend?\n- how much does glenn spend on monday?\n- how much does glenn spend on wednesday?\n- how much does glenn spend on saturday?\n    - how much does glenn spend on movie tickets on a saturday?"
+        },
+        {
+            "answer": [
+                "how much does glenn spend? 35"
+            ],
+            "answer_gt": "35",
+            "gpt usage": 0.0017643655000000001,
+            "elapsed time": 8.388724565505981,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many kilograms of sugar does it sell every week?\n- how many grams are in a kilogram?\n- how many packets are sold in a week?"
+        },
+        {
+            "answer": [
+                "how many kilograms of sugar does it sell every week? 2"
+            ],
+            "answer_gt": "2",
+            "gpt usage": 0.001766666,
+            "elapsed time": 5.070176362991333,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "how much change would simon receive back from his purchase?\n- what is the total cost of the flowers before the discount?\n- how much is the discount on simon's purchase?\n- what is the final cost after the discount?\n- how much change would simon receive back from paying with a $50 bill?"
+        },
+        {
+            "answer": [
+                "- What is the total cost of the flowers before the discount? $2.50 * 5 + $12.50 + $1.00 * 5 = $12.50 + $12.50 + $5.00 = $30.00\n- How much is the discount on Simon's purchase? $30.00 * 0.10 = $3.00\n- What is the final cost after the discount? $30.00 - $3.00 = $27.00\n- How much change would Simon receive back from paying with a $50 bill? $50.00 - $27.00 = $23.00\nAnswer: How much change would Simon receive back from his purchase? $23.00"
+            ],
+            "answer_gt": "23",
+            "gpt usage": 0.001770055,
+            "elapsed time": 8.022438764572144,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nwhat is the amount of money derek has left?\n- how much money did derek spend on textbooks?\n- how much money did derek spend on school supplies?"
+        },
+        {
+            "answer": [
+                "What is the amount of money Derek has left? $240\n- How much money did Derek spend on textbooks? $480\n- How much money did Derek spend on school supplies? $240\nAnswer: What is the amount of money Derek has left? $240"
+            ],
+            "answer_gt": "360",
+            "gpt usage": 0.0017728745,
+            "elapsed time": 7.303046226501465,
+            "score": 85.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nin dollars, how much did lisa and carly spend in total?\n- how much did lisa spend in total?\n    - how much did lisa spend on jeans?\n        - how much did lisa spend on t-shirts?\n    - how much did lisa spend on coats?\n- how much did carly spend in total?\n    - how much did carly spend on t-shirts?\n    - how much did carly spend on jeans?\n    - how much did carly spend on coats?\n"
+        },
+        {
+            "answer": [
+                "in dollars, how much did lisa and carly spend in total?\n- how much did lisa spend in total? $240\n    - how much did lisa spend on jeans? $80\n        - how much did lisa spend on t-shirts? $40\n    - how much did lisa spend on coats? $160\n- how much did carly spend in total? $60\n    - how much did carly spend on t-shirts? $10\n    - how much did carly spend on jeans? $30\n    - how much did carly spend on coats? $20\n\nAnswer: in dollars, how much did lisa and carly spend in total? $300"
+            ],
+            "answer_gt": "230",
+            "gpt usage": 0.0017763815000000002,
+            "elapsed time": 9.009413957595825,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "how many positive cases were there initially?\n- how many positive cases were there after the second day?\n    - how many new cases were recorded on the second day?\n    - how many recoveries were there on the second day?\n- how many positive cases were there after the third day?\n    - how many new cases were recorded on the third day?\n    - how many recoveries were there on the third day?\n"
+        },
+        {
+            "answer": [
+                "how many positive cases were there initially? 2000\n- how many positive cases were there after the second day? 2500\n    - how many new cases were recorded on the second day? 500\n    - how many recoveries were there on the second day? 50\n- how many positive cases were there after the third day? 2950\n    - how many new cases were recorded on the third day? 1500\n    - how many recoveries were there on the third day? 200\nAnswer: What's the total number of positive cases after the third day? 2950"
+            ],
+            "answer_gt": "3750",
+            "gpt usage": 0.001779857,
+            "elapsed time": 11.407455921173096,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow many inches are all of her snakes combined?\n- how many inches is each snake?\n- how many snakes does christina have?"
+        },
+        {
+            "answer": [
+                "how many inches are all of her snakes combined? 42\n- how many inches is each snake? 24\n- how many snakes does christina have? 3"
+            ],
+            "answer_gt": "50",
+            "gpt usage": 0.0017823575,
+            "elapsed time": 6.633464336395264,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nhow many glasses were broken?\n- how many glasses did david break?\n- how many glasses did william break?\n    - how many times the number of glasses david broke did william break?\n    "
+            ],
+            "count": {
+                "sure": 0,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "current decomposition:\nhow many glasses were broken?\n- how many glasses did david break?\n- how many glasses did william break?\n    - how many times the number of glasses david broke did william break?\n"
+        },
+        {
+            "answer": [
+                "how many glasses were broken? 14"
+            ],
+            "answer_gt": "10",
+            "gpt usage": 0.001785983,
+            "elapsed time": 8.454036235809326,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "how old is dallas now?\n- how old was dallas last year?\n    - how old was darcy last year?\n        - how old is darcy now?\n            - how old is dexter now?\n- how old is darcy now?\n- how old is dexter now?"
+            ],
+            "count": {
+                "sure": 0,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "output:\nhow old is dallas now?\n- how old was dallas last year?\n    - how old was darcy last year?\n        - how old is darcy now?\n            - how old is dexter now?\n- how old is darcy now?\n- how old is dexter now?"
+        },
+        {
+            "answer": [
+                "how old is dallas now? 21"
+            ],
+            "answer_gt": "46",
+            "gpt usage": 0.00178995,
+            "elapsed time": 7.764080762863159,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nwhat was the average cost across all products sold today?\n- what was the total cost of iphones sold?\n- what was the total cost of ipads sold?\n- what was the total cost of apple tvs sold?\n"
+        },
+        {
+            "answer": [
+                "what was the average cost across all products sold today? $540\n\n- what was the total cost of iphones sold? $100,000\n- what was the total cost of ipads sold? $18,000\n- what was the total cost of apple tvs sold? $16,000"
+            ],
+            "answer_gt": "670",
+            "gpt usage": 0.0017930615,
+            "elapsed time": 9.491341590881348,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nwhat is the total cost of the gifts after the rebate?\n- how much did the polo shirts cost in total?\n- how much did the necklaces cost in total?\n- how much did the computer game cost?\n- how much was the rebate?"
+        },
+        {
+            "answer": [
+                "What is the total cost of the gifts after the rebate? 325"
+            ],
+            "answer_gt": "322",
+            "gpt usage": 0.001795908,
+            "elapsed time": 5.573390007019043,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nhow old will herbert be next year?\n- how old is kris now?\n- how many years younger is herbert than kris?"
+        },
+        {
+            "answer": [
+                "- How old is Kris now? 24\n- How many years younger is Herbert than Kris? 10\nAnswer: How old will Herbert be next year? 15"
+            ],
+            "answer_gt": "15",
+            "gpt usage": 0.0017983,
+            "elapsed time": 7.841896057128906,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "current decomposition:\nhow many minutes should she run on friday?\n- how many miles does she run in a week?\n- how many minutes does she run per mile?\n- how many minutes does she run on monday?\n- how many minutes does she run on tuesday?\n- how many minutes does she run on wednesday?\n- how many minutes does she run on thursday?\n"
+        },
+        {
+            "answer": [
+                "how many minutes should she run on Friday? 40\n- how many miles does she run in a week? 20\n- how many minutes does she run per mile? 30\n- how many minutes does she run on Monday? 60\n- how many minutes does she run on Tuesday? 30\n- how many minutes does she run on Wednesday? 60\n- how many minutes does she run on Thursday? 20\nAnswer: how many minutes should she run on Friday? 40"
+            ],
+            "answer_gt": "30",
+            "gpt usage": 0.0018014625000000002,
+            "elapsed time": 9.128360271453857,
+            "score": 60.0
+        }
+    ]
+]

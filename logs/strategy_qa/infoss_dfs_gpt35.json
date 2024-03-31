@@ -1,0 +1,2329 @@
+[
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "are more people today related to genghis khan than julius caesar?\n- how many descendants does genghis khan have today?\n- how many descendants does julius caesar have today?"
+        },
+        {
+            "answer": [
+                "- How many descendants does Genghis Khan have today? Genghis Khan is estimated to have around 16 million male-line descendants today.\n- How many descendants does Julius Caesar have today? Julius Caesar is estimated to have around 100 living descendants today.\nAnswer: Are more people today related to Genghis Khan than Julius Caesar? true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001389533,
+            "elapsed time": 7.328340530395508,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "would a monoamine oxidase candy bar cheer up a depressed friend?\n- what is a monoamine oxidase candy bar?\n- can a monoamine oxidase candy bar affect mood?\n- can candy bars cheer up a depressed friend?\n- what are some ways to cheer up a depressed friend?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "enhanced decomposition:\nwould a monoamine oxidase candy bar cheer up a depressed friend?\n- what is a monoamine oxidase candy bar?\n- can a monoamine oxidase candy bar affect mood?\n- can candy bars cheer up a depressed friend?\n    - what are some ways to cheer up a depressed friend?\n- what are some other foods that can improve mood?"
+        },
+        {
+            "answer": [
+                "- What is a monoamine oxidase candy bar? A monoamine oxidase candy bar contains ingredients that inhibit the enzyme monoamine oxidase, which can affect mood.\n- Can a monoamine oxidase candy bar affect mood? Yes, a monoamine oxidase candy bar can potentially affect mood due to its ingredients.\n- Can candy bars cheer up a depressed friend? Candy bars alone may not be sufficient to cheer up a depressed friend, as there are other factors to consider.\n    - What are some ways to cheer up a depressed friend? Some ways to cheer up a depressed friend include offering support, listening, engaging in activities together, and seeking professional help if needed.\n- What are some other foods that can improve mood? Foods rich in omega-3 fatty acids, such as fish, and those high in antioxidants, such as fruits and vegetables, are known to improve mood.\nAnswer: Would a Monoamine Oxidase candy bar cheer up a depressed friend? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0013940765,
+            "elapsed time": 13.63908576965332,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nis a pound sterling valuable?\n- what factors determine the value of a currency?\n    - what is the economic stability of the country issuing the currency?\n    - what is the inflation rate of the country issuing the currency?\n- how does the value of the pound sterling compare to other currencies?"
+            ],
+            "count": {
+                "sure": 0,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "is a pound sterling valuable?\n- what factors determine the value of a currency?\n    - what is the economic stability of the country issuing the currency?\n    - what is the inflation rate of the country issuing the currency?\n- how does the value of the pound sterling compare to other currencies?"
+        },
+        {
+            "answer": [
+                "- What factors determine the value of a currency? The value of a currency is determined by the economic stability and inflation rate of the country issuing the currency.\n    - What is the economic stability of the country issuing the currency? The economic stability of the country issuing the pound sterling is relatively strong.\n    - What is the inflation rate of the country issuing the currency? The inflation rate of the country issuing the pound sterling is relatively low.\n- How does the value of the pound sterling compare to other currencies? The value of the pound sterling is relatively high compared to other currencies.\nAnswer: Is a pound sterling valuable? true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0013981375,
+            "elapsed time": 13.567644119262695,
+            "score": 60.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\ndo the anchors on rede globo speak chinese?\n- which languages do the anchors on rede globo speak?\n- are the anchors on rede globo required to speak chinese?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 1,
+            "actions": [
+                "enhanced decomposition:\ndo the anchors on rede globo speak chinese?\n- what languages do anchors on rede globo speak?\n- do the anchors on rede globo speak languages other than portuguese?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 2,
+            "env_step": 2,
+            "decomp_state": "enhanced decomposition:\ndo the anchors on rede globo speak chinese?\n- what languages do anchors on rede globo speak?\n- do the anchors on rede globo speak languages other than portuguese?\n    - do the anchors on rede globo speak chinese?"
+        },
+        {
+            "answer": [
+                "- What languages do anchors on Rede Globo speak? The anchors on Rede Globo speak Portuguese and occasionally English.\n- Do the anchors on Rede Globo speak languages other than Portuguese? Yes, the anchors on Rede Globo speak languages other than Portuguese, such as English.\n    - Do the anchors on Rede Globo speak Chinese? No, the anchors on Rede Globo do not speak Chinese.\nAnswer: Do the anchors on Rede Globo speak Chinese? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0014029985,
+            "elapsed time": 14.272901058197021,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "is a boeing 737 cost covered by wonder woman (2017 film) box office receipts?\n- how much does a boeing 737 cost?\n- how much did the 2017 movie wonder woman gross?"
+        },
+        {
+            "answer": [
+                "- How much does a Boeing 737 cost? A Boeing 737 typically costs around $89.1 million.\n- How much did the 2017 movie Wonder Woman gross? The 2017 movie Wonder Woman grossed approximately $821.8 million worldwide.\nAnswer: Is a Boeing 737 cost covered by Wonder Woman (2017 film) box office receipts? false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0014054745,
+            "elapsed time": 6.705392360687256,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\ncan you buy casio products at petco?\n- what type of products does casio manufacture?\n- what products does petco sell?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 1,
+            "actions": [
+                "output:\ncan you buy casio products at petco?\n- what type of products does casio manufacture?\n- does petco sell electronic products?\n- does petco have a partnership with casio?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 2,
+            "env_step": 2,
+            "decomp_state": "can you buy casio products at petco?\n- what type of products does casio manufacture?\n- does petco sell electronic products?\n- does petco have a partnership with casio?\n    - what brands does petco have partnerships with?"
+        },
+        {
+            "answer": [
+                "- What type of products does Casio manufacture? Casio manufactures a wide range of products including watches, calculators, musical instruments, and electronic devices.\n- Does Petco sell electronic products? Petco primarily sells pet-related products such as food, toys, and accessories.\n- Does Petco have a partnership with Casio? There is no information available indicating that Petco has a partnership with Casio.\n    - What brands does Petco have partnerships with? Petco has partnerships with various pet product brands, but not with electronics brands like Casio.\nAnswer: Can you buy Casio products at Petco? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0014104355,
+            "elapsed time": 12.858997583389282,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nare christmas trees dissimilar to deciduous trees?\n- what are the characteristics of christmas trees?\n- what are the characteristics of deciduous trees?"
+        },
+        {
+            "answer": [
+                "- What are the characteristics of Christmas trees? Christmas trees are typically evergreen, coniferous trees that are often used as decorations during the holiday season.\n- What are the characteristics of deciduous trees? Deciduous trees are trees that shed their leaves annually, typically in the fall.\nAnswer: Christmas trees are dissimilar to deciduous trees. True."
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0014129475,
+            "elapsed time": 12.517642498016357,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\ndid land owners elect their rulers in the kingdom of hungary?\n- what was the political system in the kingdom of hungary?\n- how were rulers selected in the kingdom of hungary?"
+        },
+        {
+            "answer": [
+                "- What was the political system in the Kingdom of Hungary? The Kingdom of Hungary had a feudal system with a monarch as the head of state.\n- How were rulers selected in the Kingdom of Hungary? Rulers in the Kingdom of Hungary were typically selected through hereditary succession.\nAnswer: Did land owners elect their rulers in the Kingdom of Hungary? False"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0014153240000000001,
+            "elapsed time": 5.054021596908569,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\ndoes dragon ball shows and movies fall short of friday 13th number of projects?\n- how many dragon ball shows and movies are there?\n- how many projects are there related to friday the 13th?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "current decomposition:\ndoes dragon ball shows and movies fall short of friday 13th number of projects?\n- how many dragon ball shows and movies are there?\n- how many projects are there related to friday the 13th?\n    - how many movies and tv shows are part of the friday the 13th franchise?"
+        },
+        {
+            "answer": [
+                "- How many Dragon Ball shows and movies are there? There are a total of 20 Dragon Ball shows and movies.\n- How many projects are there related to Friday the 13th? There are a total of 12 movies and 1 TV show in the Friday the 13th franchise.\nAnswer: Does Dragon Ball shows and movies fall short of Friday the 13th number of projects? false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0014192645000000001,
+            "elapsed time": 15.403000593185425,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nis greed the most prevalent of the seven deadly sins?\n- what are the seven deadly sins?\n- how is prevalence defined in the context of the seven deadly sins?\n- which of the seven deadly sins is most commonly manifested in society?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "is greed the most prevalent of the seven deadly sins?\n- what are the seven deadly sins?\n- how is prevalence defined in the context of the seven deadly sins?\n- which of the seven deadly sins is most commonly manifested in society?"
+        },
+        {
+            "answer": [
+                "- What are the seven deadly sins? The seven deadly sins are pride, greed, wrath, envy, lust, gluttony, and sloth.\n- How is prevalence defined in the context of the seven deadly sins? Prevalence can be defined as the frequency or common occurrence of a particular sin in society.\n- Which of the seven deadly sins is most commonly manifested in society? Greed is often considered one of the most prevalent sins in society, as it is associated with a strong desire for material possessions and wealth.\nAnswer: Is greed the most prevalent of the Seven Deadly Sins? true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.00142325,
+            "elapsed time": 12.999118089675903,
+            "score": 60.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "is average number of peas in a pod enough commas for a billion?\n- what is the average number of peas in a pod?\n- how many digits are in a billion?\n    - what is the place value of each digit in a billion?\n- how many commas are needed to properly format a number with a billion digits?"
+            ],
+            "count": {
+                "sure": 0,
+                "maybe": 1,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "is average number of peas in a pod enough commas for a billion?\n- what is the average number of peas in a pod?\n- how many digits are in a billion?\n    - what is the place value of each digit in a billion?\n- how many commas are needed to properly format a number with a billion digits?"
+        },
+        {
+            "answer": [
+                "- What is the average number of peas in a pod? The average number of peas in a pod is around 7-9.\n- How many digits are in a billion? A billion has 10 digits.\n    - What is the place value of each digit in a billion? The place value of each digit in a billion is as follows: 1,000,000,000.\n- How many commas are needed to properly format a number with a billion digits? To properly format a number with a billion digits, 2 commas are needed.\nAnswer: Is average number of peas in a pod enough commas for a billion? false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0014275345,
+            "elapsed time": 15.323970079421997,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nis dustin hoffman one of the b'nei yisrael?\n- who are the b'nei yisrael?\n- is dustin hoffman part of the b'nei yisrael community?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "is dustin hoffman one of the b'nei yisrael?\n- who are the b'nei yisrael?\n- is dustin hoffman part of the b'nei yisrael community?\n    - what is dustin hoffman's religious affiliation?"
+        },
+        {
+            "answer": [
+                "- Who are the B'nei Yisrael? The B'nei Yisrael refers to the Jewish people or the Children of Israel.\n- Is Dustin Hoffman part of the B'nei Yisrael community? \n    - What is Dustin Hoffman's religious affiliation? Dustin Hoffman is Jewish.\nAnswer: Is Dustin Hoffman one of the B'nei Yisrael? true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001431456,
+            "elapsed time": 13.354867935180664,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "could the powerpuff girls hypothetically attend the camden military academy?\n- are the powerpuff girls human or superhuman?\n- is camden military academy open to fictional characters?\n    - are there any fictional characters enrolled in camden military academy?"
+        },
+        {
+            "answer": [
+                "- are the powerpuff girls human or superhuman? The Powerpuff Girls are superhuman.\n- is camden military academy open to fictional characters? Camden Military Academy is not open to fictional characters.\n    - are there any fictional characters enrolled in camden military academy? There are no fictional characters enrolled in Camden Military Academy.\nAnswer: Could the Powerpuff Girls hypothetically attend the Camden Military Academy? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0014340909999999998,
+            "elapsed time": 12.395148038864136,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "would an uninsured person be more likely than an insured person to decline a ct scan?\n- what are the common reasons for people to decline a ct scan?\n- are there any financial factors that influence a person's decision to decline a ct scan?\n    - what is the cost of a ct scan for an uninsured person?\n- how does having insurance impact a person's likelihood to accept medical procedures?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "would an uninsured person be more likely than an insured person to decline a ct scan?\n- what are the common reasons for people to decline a ct scan?\n- are there any financial factors that influence a person's decision to decline a ct scan?\n    - what is the cost of a ct scan for an uninsured person?\n- how does having insurance impact a person's likelihood to accept medical procedures?"
+        },
+        {
+            "answer": [
+                "- What are the common reasons for people to decline a CT scan? Common reasons for declining a CT scan include fear of radiation exposure, claustrophobia, and concerns about potential side effects.\n- Are there any financial factors that influence a person's decision to decline a CT scan? Yes, financial factors can play a significant role in a person's decision to decline a CT scan.\n    - What is the cost of a CT scan for an uninsured person? The cost of a CT scan for an uninsured person can vary but is typically in the range of $500 to $3000.\n- How does having insurance impact a person's likelihood to accept medical procedures? Having insurance can significantly impact a person's likelihood to accept medical procedures, as it can reduce or eliminate the financial burden of the procedure.\nAnswer: An uninsured person would be more likely than an insured person to decline a CT scan. True"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0014388019999999999,
+            "elapsed time": 15.731613874435425,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nis disneyland paris the largest disney resort?\n- what are the different disney resorts worldwide?\n- what criteria determine the size of a disney resort?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 1,
+            "actions": [
+                "output:\nis disneyland paris the largest disney resort?\n- what are the sizes of all disney resorts worldwide?\n- what criteria are used to determine the largest disney resort?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 2,
+            "env_step": 2,
+            "decomp_state": "is disneyland paris the largest disney resort?\n- what are the sizes of all disney resorts worldwide?\n- what criteria are used to determine the largest disney resort?"
+        },
+        {
+            "answer": [
+                "- What are the sizes of all Disney resorts worldwide? Disneyland Paris covers an area of 4,800 acres.\n- What criteria are used to determine the largest Disney resort? The size of the resort in terms of land area.\nAnswer: Is Disneyland Paris the largest Disney resort? true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001443391,
+            "elapsed time": 14.876883029937744,
+            "score": 60.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "enhanced decomposition:\nwould adam sandler get a reference to cole sprouse and a scuba man doll?\n- who is cole sprouse?\n- what is the significance of a scuba man doll in the context?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "current decomposition:\nwould adam sandler get a reference to cole sprouse and a scuba man doll?\n- who is cole sprouse?\n- what is the significance of a scuba man doll in the context?\n\nenhanced decomposition:\nwould adam sandler get a reference to cole sprouse and a scuba man doll?\n- who is cole sprouse?\n- what is the significance of a scuba man doll in the context?\n    - what movies featuring adam sandler include references to specific individuals?"
+        },
+        {
+            "answer": [
+                "- Who is Cole Sprouse? Cole Sprouse is an American actor known for his role in the TV show \"The Suite Life of Zack & Cody\" and \"Riverdale\".\n- What is the significance of a scuba man doll in the context? The scuba man doll is a reference to the movie \"Big Daddy\" where Adam Sandler's character gives a scuba man doll to a child as a gift.\n- What movies featuring Adam Sandler include references to specific individuals? Adam Sandler's movies often include references to other celebrities and pop culture figures.\nAnswer: Would Adam Sandler get a reference to Cole Sprouse and a scuba man doll? true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0014478965,
+            "elapsed time": 12.044151782989502,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "can a microwave melt a toyota prius battery?\n- what battery does a toyota prius use? \n    - what material is the toyota prius battery made of?\n    - what is the melting point of the material of a toyota prius battery?\n- what is the maximum temperature a microwave can reach?"
+            ],
+            "count": {
+                "sure": 0,
+                "maybe": 1,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "can a microwave melt a toyota prius battery?\n- what battery does a toyota prius use?\n    - what material is the toyota prius battery made of?\n- what is the maximum temperature a microwave can reach?"
+        },
+        {
+            "answer": [
+                "- What battery does a Toyota Prius use? A Toyota Prius uses a 202 V nickel-metal hydride battery.\n    - What material is the Toyota Prius battery made of? Nickel\n- What is the maximum temperature a microwave can reach? Microwaves rarely warm food more than 212 F.\nAnswer: Can a microwave melt a Toyota Prius battery? false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001451336,
+            "elapsed time": 10.098029613494873,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "could george washington's own speeches have been recorded live to a compact disc?\n- did george washington have any speeches recorded?\n- when were compact discs invented?\n- were there any recording devices available during george washington's time?"
+        },
+        {
+            "answer": [
+                "- did george washington have any speeches recorded? No, there are no recordings of George Washington's speeches.\n- when were compact discs invented? Compact discs were invented in 1982.\n- were there any recording devices available during george washington's time? No, there were no recording devices available during George Washington's time.\nAnswer: Could George Washington's own speeches have been recorded live to a compact disc? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0014540549999999999,
+            "elapsed time": 7.927424669265747,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "enhanced decomposition:\nwould food made with black salt smell of sulfur?\n- what is black salt made of?\n- what causes the smell of sulfur?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "current decomposition:\nwould food made with black salt smell of sulfur?\n- what is black salt made of?\n- what causes the smell of sulfur?\n\nenhanced decomposition:\nwould food made with black salt smell of sulfur?\n- what is black salt made of?\n- what causes the smell of sulfur?\n    - what chemical compounds are responsible for the smell of sulfur?"
+        },
+        {
+            "answer": [
+                "- What is black salt made of? Black salt is primarily made of sodium chloride with small amounts of impurities like sulfates, sulfides, and iron.\n- What causes the smell of sulfur? The smell of sulfur is caused by the presence of sulfur-containing compounds like hydrogen sulfide and sulfur dioxide.\n    - What chemical compounds are responsible for the smell of sulfur? Hydrogen sulfide (H2S) and sulfur dioxide (SO2) are the main chemical compounds responsible for the smell of sulfur.\nAnswer: Food made with black salt would not smell of sulfur. False."
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001457841,
+            "elapsed time": 15.080565214157104,
+            "score": 60.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nis miami a city on the american west coast?\n- is miami located on the east coast or the west coast of the united states?\n- which states are considered part of the american west coast?\n    - what are some major cities on the american west coast?"
+        },
+        {
+            "answer": [
+                "- Is Miami located on the east coast or the west coast of the United States? Miami is located on the east coast of the United States.\n- Which states are considered part of the American West Coast? States considered part of the American West Coast include California, Oregon, and Washington.\n    - What are some major cities on the American West Coast? Major cities on the American West Coast include Los Angeles, San Francisco, and Seattle.\nAnswer: Is Miami a city on the American West Coast? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001460418,
+            "elapsed time": 8.287141799926758,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nis the tibia necessary to win the stanley cup?\n- what is the role of the tibia in the human body? \n- what does it take to win the stanley cup?"
+        },
+        {
+            "answer": [
+                "- What is the role of the tibia in the human body? The tibia is one of the two bones in the lower leg and plays a crucial role in supporting the body's weight and movement.\n- What does it take to win the Stanley Cup? Winning the Stanley Cup requires a team to have strong teamwork, skillful players, effective coaching, and a bit of luck.\nAnswer: Is the tibia necessary to win the Stanley Cup? false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001462933,
+            "elapsed time": 8.12467908859253,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "can you add water to rice pudding to make horchata?\n- what is the traditional recipe for horchata?\n- what ingredients are used to make rice pudding?"
+        },
+        {
+            "answer": [
+                "- What is the traditional recipe for horchata? The traditional recipe for horchata includes rice, water, sugar, and cinnamon.\n- What ingredients are used to make rice pudding? The ingredients used to make rice pudding include rice, milk, sugar, and sometimes cinnamon.\nAnswer: If you add water to rice pudding, is it horchata? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001465403,
+            "elapsed time": 8.725191354751587,
+            "score": 70.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "can nickel cause skin discoloration resembling a zombie?\n- what are the symptoms of nickel poisoning?\n- how does nickel affect the skin?"
+        },
+        {
+            "answer": [
+                "- Can nickel cause skin discoloration resembling a zombie? Yes, nickel can cause skin discoloration resembling a zombie.\n    - What are the symptoms of nickel poisoning? Symptoms of nickel poisoning include skin rashes, itching, redness, and discoloration.\n    - How does nickel affect the skin? Nickel can cause allergic reactions in the skin, leading to discoloration and other symptoms.\nAnswer: If your skin was turning the color of a zombie, could it be because of nickel? true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001467973,
+            "elapsed time": 10.707775831222534,
+            "score": 35.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nis the illuminati card game still popular?\n- what is the current popularity of the illuminati card game?\n- how does the current popularity of the illuminati card game compare to its past popularity?"
+        },
+        {
+            "answer": [
+                "- What is the current popularity of the Illuminati card game? The current popularity of the Illuminati card game is relatively low compared to its peak in the 1990s.\n- How does the current popularity of the Illuminati card game compare to its past popularity? The current popularity of the Illuminati card game is significantly lower than its past popularity.\nAnswer: Is the Illuminati card game still popular? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0014704520000000001,
+            "elapsed time": 8.127514839172363,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "can menthol affect the taste of thanksgiving dishes?\n- how does menthol interact with taste buds?\n- what are common thanksgiving dishes that could be affected by menthol?\n- are there any traditional thanksgiving recipes that include menthol as an ingredient?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "can menthol affect the taste of thanksgiving dishes?\n- how does menthol interact with taste buds?\n- what are common thanksgiving dishes that could be affected by menthol?\n- are there any traditional thanksgiving recipes that include menthol as an ingredient?"
+        },
+        {
+            "answer": [
+                "- Can menthol affect the taste of Thanksgiving dishes? Menthol can affect the taste of dishes by interacting with taste buds.\n    - How does menthol interact with taste buds? Menthol activates cold-sensitive receptors in the mouth, giving a cooling sensation.\n    - What are common Thanksgiving dishes that could be affected by menthol? Dishes like cranberry sauce or pumpkin pie could potentially be affected by menthol.\n    - Are there any traditional Thanksgiving recipes that include menthol as an ingredient? There are no traditional Thanksgiving recipes that include menthol as an ingredient.\nAnswer: Is Menthol associated with Thanksgiving? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0014744105,
+            "elapsed time": 19.45176672935486,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "is it okay to lie after taking an oath in a court of law?\n- what are the consequences of lying under oath in a court of law?\n- are there any exceptions where lying under oath is allowed?"
+        },
+        {
+            "answer": [
+                "- What are the consequences of lying under oath in a court of law? Lying under oath in a court of law is considered perjury and can result in legal consequences such as fines or imprisonment.\n- Are there any exceptions where lying under oath is allowed? There are no legal exceptions where lying under oath is allowed.\nAnswer: Is it okay to lie after taking an oath in a court of law? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.00147694,
+            "elapsed time": 8.968523740768433,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "can you eat all types of soup while on a liquid diet?\n- what types of soup are typically allowed on a liquid diet?\n- what types of soup are typically restricted on a liquid diet?"
+        },
+        {
+            "answer": [
+                "- Can you eat all types of soup while on a liquid diet? No, not all types of soup are allowed on a liquid diet.\n    - What types of soup are typically allowed on a liquid diet? Clear broths, vegetable soups, and pureed soups are typically allowed on a liquid diet.\n    - What types of soup are typically restricted on a liquid diet? Cream-based soups, chunky soups, and soups with large pieces of meat or vegetables are typically restricted on a liquid diet.\nAnswer: Are there some types of soup you cannot eat while on a liquid diet? true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001479628,
+            "elapsed time": 7.537594318389893,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nwould the titanic be well preserved at the bottom of the gulf of finland?\n- what are the conditions at the bottom of the gulf of finland?\n- how well has the titanic been preserved in its current location?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "would the titanic be well preserved at the bottom of the gulf of finland?\n- what are the conditions at the bottom of the gulf of finland?\n- how well has the titanic been preserved in its current location?\n    - what is the current condition of the titanic wreck?"
+        },
+        {
+            "answer": [
+                "- What are the conditions at the bottom of the Gulf of Finland? The bottom of the Gulf of Finland is cold and dark, with low oxygen levels and high salinity.\n- How well has the Titanic been preserved in its current location? The Titanic wreck has been deteriorating over time due to various factors such as corrosion, microbial activity, and human impact.\nAnswer: Would the Titanic be well preserved at the bottom of the Gulf of Finland? false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0014834755,
+            "elapsed time": 14.22916054725647,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "did any country in portuguese colonial war share switzerlands role in wwii?\n- what was switzerland's role in wwii?\n    - what did switzerland do during wwii?\n- what countries were involved in the portuguese colonial war?\n- did any country involved in the portuguese colonial war remain neutral like switzerland did in wwii?"
+            ],
+            "count": {
+                "sure": 0,
+                "maybe": 1,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "current decomposition:\ndid any country in portuguese colonial war share switzerlands role in wwii?\n- what was switzerland's role in wwii?\n    - what did switzerland do during wwii?\n- what countries were involved in the portuguese colonial war?\n- did any country involved in the portuguese colonial war remain neutral like switzerland did in wwii?"
+        },
+        {
+            "answer": [
+                "- What was Switzerland's role in WWII? Switzerland remained neutral during WWII and did not take part in the conflict.\n    - What did Switzerland do during WWII? Switzerland provided a safe haven for refugees and served as a center for diplomacy.\n- What countries were involved in the Portuguese Colonial War? The main countries involved in the Portuguese Colonial War were Portugal, the African colonies of Angola, Mozambique, and Guinea-Bissau, as well as various independence movements.\n- Did any country involved in the Portuguese Colonial War remain neutral like Switzerland did in WWII? No, none of the countries involved in the Portuguese Colonial War remained neutral like Switzerland did in WWII.\nAnswer: False"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0014881904999999999,
+            "elapsed time": 23.554054975509644,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "would a pict be confused by old english?\n- who were the picts?\n- what language did the picts speak?\n- what is the difference between old english and the language spoken by the picts?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "enhanced decomposition:\nwould a pict be confused by old english?\n- who were the picts?\n- what language did the picts speak?\n- what is the difference between old english and the language spoken by the picts?\n    - what are the characteristics of old english that might be confusing to someone unfamiliar with it?"
+        },
+        {
+            "answer": [
+                "- Who were the Picts? The Picts were a group of people who lived in what is now eastern and northern Scotland during the late Iron Age and early Medieval periods.\n- What language did the Picts speak? The Picts likely spoke a Celtic language, although not much is known about their specific language.\n- What is the difference between Old English and the language spoken by the Picts? Old English is a Germanic language, while the language spoken by the Picts was likely a Celtic language.\n    - What are the characteristics of Old English that might be confusing to someone unfamiliar with it? Old English has different grammar, vocabulary, and pronunciation compared to modern English, which could be confusing to someone unfamiliar with it.\nAnswer: Would a Pict be confused by Old English? true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0014924265,
+            "elapsed time": 15.680102586746216,
+            "score": 85.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\ndid japanese serfdom have higher status than english counterpart?\n- what was the social status of serfs in japan?\n- what was the social status of serfs in england?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "did japanese serfdom have higher status than english counterpart?\n- what was the social status of serfs in japan?\n- what was the social status of serfs in england?\n    - how does the social status of japanese serfs compare to english serfs?"
+        },
+        {
+            "answer": [
+                "- What was the social status of serfs in Japan? Japanese serfs were considered to be at the bottom of the social hierarchy, with very limited rights and freedoms.\n- What was the social status of serfs in England? English serfs also had low social status, with limited rights and freedoms, but were not as strictly bound to the land as Japanese serfs.\n    - How does the social status of Japanese serfs compare to English serfs? Japanese serfs had a lower social status compared to English serfs.\nAnswer: Japanese serfdom did not have a higher status than the English counterpart. False."
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0014963085,
+            "elapsed time": 11.574177026748657,
+            "score": 60.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "could lil wayne's children ride in a chevrolet corvette zr1 together?\n- how many children does lil wayne have?\n- is there enough seating capacity in a chevrolet corvette zr1 for multiple passengers?"
+        },
+        {
+            "answer": [
+                "- how many children does lil wayne have? Lil Wayne has four children.\n- is there enough seating capacity in a chevrolet corvette zr1 for multiple passengers? The Chevrolet Corvette ZR1 has a seating capacity of two.\nAnswer: Could Lil Wayne's children ride in a Chevrolet Corvette ZR1 together? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0014988190000000002,
+            "elapsed time": 10.770013809204102,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\ncould lil wayne legally operate a vehicle on his own at the beginning of his career?\n- what is the legal driving age in lil wayne's state of residence at the beginning of his career?\n- did lil wayne have a valid driver's license at the beginning of his career?"
+        },
+        {
+            "answer": [
+                "- What is the legal driving age in Lil Wayne's state of residence at the beginning of his career? The legal driving age in Louisiana, Lil Wayne's home state, is 17.\n- Did Lil Wayne have a valid driver's license at the beginning of his career? It is unclear whether Lil Wayne had a valid driver's license at the beginning of his career.\nAnswer: Could Lil Wayne legally operate a vehicle on his own at the beginning of his career? False"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001501681,
+            "elapsed time": 9.741249084472656,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\ndoes ukrainian greek catholic church recognize alexander nevsky as a saint?\n- who is alexander nevsky?\n- what are the criteria for someone to be recognized as a saint by the ukrainian greek catholic church?"
+        },
+        {
+            "answer": [
+                "- Who is Alexander Nevsky? Alexander Nevsky was a medieval Russian prince and military hero.\n- What are the criteria for someone to be recognized as a saint by the Ukrainian Greek Catholic Church? The Ukrainian Greek Catholic Church follows the same criteria as the Roman Catholic Church for recognizing saints, which includes evidence of heroic virtue and miracles attributed to the individual.\nAnswer: Does the Ukrainian Greek Catholic Church recognize Alexander Nevsky as a saint? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001504194,
+            "elapsed time": 6.133057355880737,
+            "score": 70.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "enhanced decomposition:\ndid j. p. morgan have healthy lungs?\n- what was j. p. morgan's medical history?\n    - did j. p. morgan have any lung-related illnesses?\n- what is the definition of healthy lungs?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": ""
+        },
+        {
+            "answer": [
+                "- What battery does a Toyota Prius use? A Toyota Prius uses a 202 V nickel-metal hydride battery.\n    - What material is the Toyota Prius battery made of? Nickel\n    - What is the melting point of the material of a Toyota Prius battery? Nickel has a melting point of 2651 F\n- What is the maximum temperature a microwave can reach? Microwaves rarely warm food more than 212 F.\nAnswer: Can a microwave melt a Toyota Prius battery? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0015075865,
+            "elapsed time": 8.225328207015991,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\ndoes andrew johnson's presidential number exceed elagabalus's emperor number?\n- what is andrew johnson's presidential number?\n- what is elagabalus's emperor number?"
+        },
+        {
+            "answer": [
+                "- What is Andrew Johnson's presidential number? Andrew Johnson was the 17th President of the United States.\n- What is Elagabalus's Emperor number? Elagabalus was the 25th Emperor of the Roman Empire.\nAnswer: Does Andrew Johnson's presidential number exceed Elagabalus's Emperor number? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0015100979999999999,
+            "elapsed time": 7.731283187866211,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "would a hypothetical yeti be towered over by andre the giant?\n- how tall is a yeti?\n- how tall is andre the giant?\n- what is the height difference between a yeti and andre the giant?"
+        },
+        {
+            "answer": [
+                "- How tall is a yeti? The height of a yeti is typically described as being around 6 to 10 feet tall.\n- How tall is Andre the Giant? Andre the Giant was reported to be around 7 feet 4 inches tall.\n- What is the height difference between a yeti and Andre the Giant? The height difference between a yeti and Andre the Giant would be around 6 inches to 3 feet 4 inches.\nAnswer: Would a hypothetical Yeti be towered over by Andre the Giant? false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001512832,
+            "elapsed time": 9.85634994506836,
+            "score": 90.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nwas the little prince's titular character allergic to flowers?\n- who is the titular character in the little prince?\n- did the titular character in the little prince have any allergies?\n- did the titular character in the little prince interact with flowers?"
+        },
+        {
+            "answer": [
+                "- Who is the titular character in The Little Prince? The titular character in The Little Prince is a young prince who lives on a small asteroid.\n- Did the titular character in The Little Prince have any allergies? There is no mention in the book of The Little Prince having any allergies.\n- Did the titular character in The Little Prince interact with flowers? Yes, the titular character in The Little Prince interacts with a rose on his asteroid.\nAnswer: The Little Prince's titular character was not allergic to flowers. False."
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0015154225,
+            "elapsed time": 9.644874095916748,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "can a microwave melt a toyota prius battery?\n- what battery does a toyota prius use? \n    - what material is the toyota prius battery made of?\n- what is the maximum temperature a microwave can reach?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "can a microwave melt a toyota prius battery?\n- what battery does a toyota prius use? \n    - what material is the toyota prius battery made of?\n- what is the maximum temperature a microwave can reach?"
+        },
+        {
+            "answer": [
+                "- What battery does a Toyota Prius use? A Toyota Prius uses a 202 V nickel-metal hydride battery.\n    - What material is the Toyota Prius battery made of? Nickel\n- What is the maximum temperature a microwave can reach? Microwaves rarely warm food more than 212 F.\nAnswer: Can a microwave melt a Toyota Prius battery? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0015190490000000002,
+            "elapsed time": 6.917743921279907,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nwould a pear sink in water?\n- what is the density of a pear?\n- what is the density of water?"
+        },
+        {
+            "answer": [
+                "- What is the density of a pear? The density of a pear is approximately 0.7 g/cm^3.\n- What is the density of water? The density of water is 1 g/cm^3.\nAnswer: Would a pear sink in water? true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001521298,
+            "elapsed time": 5.395474910736084,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "can you write a whole haiku in a single tweet?\n- what is the character limit for a single tweet on twitter? \n"
+        },
+        {
+            "answer": [
+                "Can you write a whole Haiku in a single tweet? Yes, a Haiku can be written in a single tweet.\n- What is the character limit for a single tweet on Twitter? The character limit for a single tweet on Twitter is 280 characters.\nAnswer: Can you write a whole Haiku in a single tweet? true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0015236945,
+            "elapsed time": 6.4646782875061035,
+            "score": 70.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "could scooby doo fit in a kangaroo pouch?\n- what are the dimensions of a kangaroo pouch?\n- what are the dimensions of scooby doo?"
+        },
+        {
+            "answer": [
+                "- What are the dimensions of a kangaroo pouch? A kangaroo pouch can vary in size, but typically can stretch up to 4 feet in length and 1 foot in width.\n- What are the dimensions of Scooby Doo? Scooby Doo is a fictional character, but based on his depiction in various media, he is approximately 6 feet tall and 3 feet wide.\nAnswer: Could Scooby Doo fit in a kangaroo pouch? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0015262095000000001,
+            "elapsed time": 8.571062564849854,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nis the kayak a traditional boat in new zealand?\n- what is considered a traditional boat in new zealand?\n- what is the history of kayaks in new zealand?"
+            ],
+            "count": {
+                "sure": 0,
+                "maybe": 1,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "is the kayak a traditional boat in new zealand?\n- what is considered a traditional boat in new zealand?\n- what is the history of kayaks in new zealand?"
+        },
+        {
+            "answer": [
+                "- What is considered a traditional boat in New Zealand? Traditional boats in New Zealand include waka (canoes) and waka ama (outrigger canoes).\n- What is the history of kayaks in New Zealand? Kayaks were not traditionally used by the indigenous Maori people in New Zealand.\nAnswer: Is the kayak a traditional boat in New Zealand? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0015298915,
+            "elapsed time": 11.417738914489746,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "would the high school class of 2010 have lived through the presidency of richard nixon?\n- what years did richard nixon serve as president?\n- what is the typical age range of a high school class?"
+        },
+        {
+            "answer": [
+                "- What years did Richard Nixon serve as president? Richard Nixon served as president from 1969 to 1974.\n- What is the typical age range of a high school class? The typical age range of a high school class is around 14 to 18 years old.\nAnswer: Would the high school class of 2010 have lived through the Presidency of Richard Nixon? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0015324779999999999,
+            "elapsed time": 7.4434814453125,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nwould a deacon be likely to be a fan of the podcast 'god awful movies'?\n- what is the role of a deacon in a religious context?\n- what topics does the podcast 'god awful movies' cover?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 1,
+            "actions": [
+                "output:\nwould a deacon be likely to be a fan of the podcast 'god awful movies'?\n- what is a deacon's typical role or responsibilities?\n- what is the content or theme of the podcast 'god awful movies'?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 2,
+            "env_step": 2,
+            "decomp_state": "would a deacon be likely to be a fan of the podcast 'god awful movies'?\n- what is a deacon's typical role or responsibilities?\n- what is the content or theme of the podcast 'god awful movies'?\n    - what genre of movies does the podcast typically review?"
+        },
+        {
+            "answer": [
+                "- Would a deacon be likely to be a fan of the podcast 'God Awful Movies'? A deacon's typical role is to assist the priest in the liturgy, distribute communion, and perform other duties as needed.\n- What is the content or theme of the podcast 'God Awful Movies'? The podcast 'God Awful Movies' typically reviews and critiques poorly made or low-quality movies.\n    - What genre of movies does the podcast typically review? The podcast 'God Awful Movies' typically reviews movies in the comedy or horror genres.\nAnswer: Would a deacon be likely to be a fan of the podcast 'God Awful Movies'? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0015378075000000001,
+            "elapsed time": 16.109076976776123,
+            "score": 60.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\ndo more anchovy live in colder temperature waters than warmer?\n- what is the preferred water temperature range for anchovy?\n- are anchovy able to adapt to different water temperatures?"
+        },
+        {
+            "answer": [
+                "- What is the preferred water temperature range for anchovy? Anchovy prefer water temperatures between 50-70 degrees Fahrenheit.\n- Are anchovy able to adapt to different water temperatures? Anchovy are able to adapt to a wide range of water temperatures.\nAnswer: Do more anchovy live in colder temperature waters than warmer? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0015402149999999997,
+            "elapsed time": 8.456339597702026,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "can the powerpuff girls form a complete tag team wrestling match?\n- who are the powerpuff girls?\n- what are the characteristics of a tag team wrestling match?\n    - how many members are required for a tag team wrestling match?\n- have the powerpuff girls ever participated in a tag team wrestling match?\n    - what are the previous wrestling matches the powerpuff girls have participated in?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "can the powerpuff girls form a complete tag team wrestling match?\n- who are the powerpuff girls?\n- what are the characteristics of a tag team wrestling match?\n    - how many members are required for a tag team wrestling match?\n- have the powerpuff girls ever participated in a tag team wrestling match?\n    - what are the previous wrestling matches the powerpuff girls have participated in?"
+        },
+        {
+            "answer": [
+                "- Who are the Powerpuff Girls? The Powerpuff Girls are a trio of superhero characters named Blossom, Bubbles, and Buttercup.\n- What are the characteristics of a tag team wrestling match? A tag team wrestling match involves two teams of two or more wrestlers each, with only one member of each team allowed in the ring at a time.\n    - How many members are required for a tag team wrestling match? A tag team wrestling match requires a minimum of two members per team.\n- Have the Powerpuff Girls ever participated in a tag team wrestling match? The Powerpuff Girls have not participated in a tag team wrestling match.\n    - What are the previous wrestling matches the Powerpuff Girls have participated in? The Powerpuff Girls have been involved in various animated wrestling matches, but not specifically in a tag team format.\nAnswer: Can the Powerpuff Girls form a complete tag team wrestling match? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001544749,
+            "elapsed time": 12.515085458755493,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "enhanced decomposition:\ndoes rock star keith richards play a captain of a boat in a movie?\n- which movie features keith richards as a captain of a boat?\n- what is the character name of keith richards in the movie?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "enhanced decomposition:\ndoes rock star keith richards play a captain of a boat in a movie?\n- which movie features keith richards as a captain of a boat?\n- what is the character name of keith richards in the movie?"
+        },
+        {
+            "answer": [
+                "- Which movie features Keith Richards as a captain of a boat? Keith Richards plays the role of Captain Teague in the movie \"Pirates of the Caribbean: At World's End.\"\n- What is the character name of Keith Richards in the movie? Captain Teague\nAnswer: Does rock star Keith Richards play a captain of a boat in a movie? true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0015484375,
+            "elapsed time": 10.898394346237183,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "would an eleventh-grader be eligible for medicare?\n- what are the age requirements for medicare eligibility?\n- are there any exceptions for individuals under the age requirement?"
+        },
+        {
+            "answer": [
+                "- What are the age requirements for Medicare eligibility? The age requirement for Medicare eligibility is 65 years old.\n- Are there any exceptions for individuals under the age requirement? There are some exceptions for individuals under the age of 65, such as those with certain disabilities or specific medical conditions.\nAnswer: Would an eleventh-grader be eligible for Medicare? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0015507914999999999,
+            "elapsed time": 6.965124130249023,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nwill oasis cruise boat traverse the lincoln tunnel?\n- is the lincoln tunnel part of the route for the oasis cruise boat?\n- are there any restrictions for boats in the lincoln tunnel?\n- how tall and wide is the oasis cruise boat?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "current decomposition:\nwill oasis cruise boat traverse the lincoln tunnel?\n- is the lincoln tunnel part of the route for the oasis cruise boat?\n- are there any restrictions for boats in the lincoln tunnel?\n- how tall and wide is the oasis cruise boat?\n    - what are the height and width limitations for boats passing through the lincoln tunnel?"
+        },
+        {
+            "answer": [
+                "- Is the Lincoln Tunnel part of the route for the Oasis cruise boat? No, the Lincoln Tunnel is not part of the route for the Oasis cruise boat.\n- Are there any restrictions for boats in the Lincoln Tunnel? Yes, there are height and width restrictions for boats passing through the Lincoln Tunnel.\n- How tall and wide is the Oasis cruise boat? The Oasis cruise boat is too tall and wide to pass through the Lincoln Tunnel.\n    - What are the height and width limitations for boats passing through the Lincoln Tunnel? The height limit for boats passing through the Lincoln Tunnel is 13 feet 6 inches and the width limit is 13 feet. \nAnswer: Will Oasis cruise boat traverse the Lincoln Tunnel? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0015549025,
+            "elapsed time": 14.773410320281982,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nwould george fox support stoning?\n- who was george fox?\n- what are george fox's beliefs and principles?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "would george fox support stoning?\n- who was george fox?\n- what are george fox's beliefs and principles?\n    - does george fox's beliefs and principles align with the practice of stoning?"
+        },
+        {
+            "answer": [
+                "- Who was George Fox? George Fox was an English Dissenter and founder of the Religious Society of Friends, commonly known as the Quakers.\n- What are George Fox's beliefs and principles? George Fox believed in non-violence, equality, and the importance of inner spiritual experience.\n    - Does George Fox's beliefs and principles align with the practice of stoning? No, George Fox's beliefs and principles do not align with the practice of stoning.\nAnswer: Would George Fox support stoning? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0015585055,
+            "elapsed time": 9.789791822433472,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "enhanced decomposition:\nhas a neanderthal ever served on the supreme court of the united states?\n- what is the time period when neanderthals existed?\n- what is the timeline of the united states supreme court justices?\n- is there any historical evidence of neanderthals interacting with modern humans?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "current decomposition:\nhas a neanderthal ever served on the supreme court of the united states?\n- what is the time period when neanderthals existed?\n- what is the timeline of the united states supreme court justices?\n- is there any historical evidence of neanderthals interacting with modern humans?\n\nenhanced decomposition:\nhas a neanderthal ever served on the supreme court of the united states?\n- what is the time period when neanderthals existed?\n- what is the timeline of the united states supreme court justices?\n- is there any historical evidence of neanderthals interacting with modern humans?\n    - what are examples of interactions between neanderthals and modern humans?\n"
+        },
+        {
+            "answer": [
+                "- What is the time period when neanderthals existed? Neanderthals existed from about 400,000 to 40,000 years ago.\n- What is the timeline of the United States Supreme Court justices? The United States Supreme Court was established in 1789, and there have been various justices appointed since then.\n- Is there any historical evidence of neanderthals interacting with modern humans? There is evidence of some interactions between neanderthals and modern humans, such as interbreeding and sharing of tools.\n    - What are examples of interactions between neanderthals and modern humans? Examples include genetic evidence of interbreeding between neanderthals and modern humans, as well as the sharing of tools and artifacts. \n\nAnswer: Has a neanderthal ever served on the Supreme Court of the United States? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001563374,
+            "elapsed time": 16.12394070625305,
+            "score": 60.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "current decomposition:\ndoes the anatomy of a camel lend itself to jokes on wednesdays?"
+        },
+        {
+            "answer": [
+                "- Does the anatomy of a camel lend itself to jokes? Camels are often associated with humor due to their unique physical characteristics such as humps and long necks.\n- Are jokes about camels typically told on Wednesdays? There is no specific day associated with camel jokes, they can be told any day of the week.\nAnswer: Can the anatomy of a camel lend itself to jokes on Wednesdays? true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001565944,
+            "elapsed time": 11.735599040985107,
+            "score": 65.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\ndid clark gable appear in any movies scored by john williams?\n- what movies has john williams scored?\n- in which movies did clark gable appear?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "did clark gable appear in any movies scored by john williams?\n- what movies has john williams scored?\n- in which movies did clark gable appear?"
+        },
+        {
+            "answer": [
+                "- What movies has John Williams scored? John Williams has scored movies such as Star Wars, Jurassic Park, E.T. the Extra-Terrestrial, and many others.\n- In which movies did Clark Gable appear? Clark Gable appeared in movies such as Gone with the Wind, It Happened One Night, and Mutiny on the Bounty.\nAnswer: Did Clark Gable appear in any movies scored by John Williams? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0015695415,
+            "elapsed time": 11.23412561416626,
+            "score": 60.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\ndid eric clapton have similar taste in women to one of the beatles?\n- who were the significant women in eric clapton's life?\n- who were the significant women in the lives of the beatles members?\n    - what were the preferences of the beatles members in terms of women?"
+            ],
+            "count": {
+                "sure": 0,
+                "maybe": 1,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 1,
+            "actions": [
+                "enhanced decomposition:\ndid eric clapton have similar taste in women to one of the beatles?\n- what is eric clapton's taste in women?\n- what is the taste in women of the beatles?\n    - which beatles member's taste in women is being compared to eric clapton's?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 2,
+            "env_step": 2,
+            "decomp_state": "current decomposition:\ndid eric clapton have similar taste in women to one of the beatles?\n- what is eric clapton's taste in women?\n- what is the taste in women of the beatles?\n    - which beatles member's taste in women is being compared to eric clapton's?\n\nenhanced decomposition:\ndid eric clapton have similar taste in women to one of the beatles?\n- what is eric clapton's taste in women?\n- what is the taste in women of the beatles?\n    - which beatles member's taste in women is being compared to eric clapton's?\n        - what are the individual tastes in women of each beatles member?\n"
+        },
+        {
+            "answer": [
+                "- What is Eric Clapton's taste in women? Eric Clapton has been known to have relationships with models, actresses, and musicians.\n- What is the taste in women of the Beatles? The Beatles consisted of four members, each with their own individual taste in women.\n    - Which Beatles member's taste in women is being compared to Eric Clapton's? Let's compare Eric Clapton's taste in women to John Lennon's taste in women.\n        - What are the individual tastes in women of each Beatles member? John Lennon was known to have relationships with artists, activists, and musicians.\nAnswer: Did Eric Clapton have similar taste in women to John Lennon? false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001575833,
+            "elapsed time": 22.909593105316162,
+            "score": 70.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\ndid eddie murphy's father see his first stand up show?\n- who is eddie murphy's father?\n- when and where was eddie murphy's first stand up show?"
+        },
+        {
+            "answer": [
+                "- Who is Eddie Murphy's father? Eddie Murphy's father is Charles Edward Murphy.\n- When and where was Eddie Murphy's first stand up show? Eddie Murphy's first stand up show was at the age of 15 at the Roosevelt Youth Center in Roosevelt, New York.\nAnswer: Did Eddie Murphy's father see his first stand up show? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0015782545,
+            "elapsed time": 9.462439060211182,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nare there winged statuettes in the home of the creator of law & order?\n- who is the creator of law & order?\n    - what is the name of the creator of law & order?\n- what are winged statuettes?\n- what type of decorations does the creator of law & order have in their home?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "are there winged statuettes in the home of the creator of law & order?\n- who is the creator of law & order?\n    - what is the name of the creator of law & order?\n- what are winged statuettes?\n- what type of decorations does the creator of law & order have in their home?"
+        },
+        {
+            "answer": [
+                "- Who is the creator of Law & Order? The creator of Law & Order is Dick Wolf.\n    - What is the name of the creator of Law & Order? Dick Wolf\n- What are winged statuettes? Winged statuettes are small sculptures or statues with wings.\n- What type of decorations does the creator of Law & Order have in their home? There is no specific information available about the decorations in Dick Wolf's home.\nAnswer: Are there winged statuettes in the home of the creator of Law & Order? false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0015824544999999998,
+            "elapsed time": 14.849097967147827,
+            "score": 60.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nwould baker's dozen of side by side mac trucks jam up golden gate bridge?\n- how many trucks are in a baker's dozen?\n- how wide is the golden gate bridge?\n- what is the width of a mac truck?\n- what is the maximum width allowed on the golden gate bridge?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "would baker's dozen of side by side mac trucks jam up golden gate bridge?\n- how many trucks are in a baker's dozen?\n- how wide is the golden gate bridge?\n- what is the width of a mac truck?\n- what is the maximum width allowed on the golden gate bridge?"
+        },
+        {
+            "answer": [
+                "- how many trucks are in a baker's dozen? A baker's dozen consists of 13 trucks.\n- how wide is the golden gate bridge? The Golden Gate Bridge is 90 feet wide.\n- what is the width of a mac truck? The width of a Mac Truck is approximately 8.5 feet.\n- what is the maximum width allowed on the golden gate bridge? The maximum width allowed on the Golden Gate Bridge is 8 feet 6 inches.\nAnswer: Would a baker's dozen of side by side Mac Trucks jam up Golden Gate Bridge? true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0015865705,
+            "elapsed time": 14.707282543182373,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "can guitarists handle pain better than average?\n- do guitarists develop calluses on their fingers?\n- does playing the guitar help increase pain tolerance?"
+        },
+        {
+            "answer": [
+                "- Do guitarists develop calluses on their fingers? Yes, guitarists often develop calluses on their fingers from playing.\n- Does playing the guitar help increase pain tolerance? Playing the guitar can help increase pain tolerance in the fingers.\nAnswer: Do guitarists have fingers that can handle pain better than average? true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0015890455,
+            "elapsed time": 11.672164678573608,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "enhanced decomposition:\ndid native american tribes teach spaniards how to cultivate maize?\n- which native american tribes are known for cultivating maize?\n    - what is the history of maize cultivation among native american tribes?\n- how did the spaniards learn to cultivate maize?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "current decomposition:\ndid native american tribes teach spaniards how to cultivate maize?\n- which native american tribes are known for cultivating maize?\n- how did the spaniards learn to cultivate maize?\n\nenhanced decomposition:\ndid native american tribes teach spaniards how to cultivate maize?\n- which native american tribes are known for cultivating maize?\n    - what is the history of maize cultivation among native american tribes?\n- how did the spaniards learn to cultivate maize?"
+        },
+        {
+            "answer": [
+                "- Which Native American tribes are known for cultivating maize? Native American tribes such as the Aztecs, Mayans, and Incas are known for cultivating maize.\n    - What is the history of maize cultivation among Native American tribes? Maize cultivation has been a staple of Native American agriculture for thousands of years, with tribes developing various techniques and varieties of maize.\n- How did the Spaniards learn to cultivate maize? The Spaniards learned to cultivate maize from Native American tribes through interactions, trade, and observation.\nAnswer: Did Native American tribes teach Spaniards how to cultivate maize? true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0015932285,
+            "elapsed time": 13.1155104637146,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\ndo frogs feel disgust?\n- what is the definition of disgust in the context of animal behavior?\n- do frogs exhibit behaviors that indicate disgust towards certain stimuli?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "do frogs feel disgust?\n- what is the definition of disgust in the context of animal behavior?\n- do frogs exhibit behaviors that indicate disgust towards certain stimuli?"
+        },
+        {
+            "answer": [
+                "- What is the definition of disgust in the context of animal behavior? Disgust in animal behavior refers to a negative emotional response to certain stimuli that are perceived as offensive or harmful.\n- Do frogs exhibit behaviors that indicate disgust towards certain stimuli? Frogs do not have the cognitive capacity to experience emotions like disgust in the same way humans do.\nAnswer: Do frogs feel disgust? false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0015965985,
+            "elapsed time": 9.045026302337646,
+            "score": 70.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\ndoes a person need to be a parent to become a grandparent?\n- what is the definition of a grandparent?\n- what is the typical family structure that leads to someone becoming a grandparent?\n- can someone become a grandparent without being a parent themselves?"
+        },
+        {
+            "answer": [
+                "- What is the definition of a grandparent? A grandparent is the parent of one's parent.\n- What is the typical family structure that leads to someone becoming a grandparent? Typically, someone becomes a grandparent after their child has a child.\n- Can someone become a grandparent without being a parent themselves? No, in order to become a grandparent, one must first be a parent.\nAnswer: Does a person need to be a parent to become a grandparent? true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0015992765,
+            "elapsed time": 7.856595993041992,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "enhanced decomposition:\nis the span in c-span named after alan greenspan?\n- what does c-span stand for?\n- who is alan greenspan?"
+        },
+        {
+            "answer": [
+                "- What does C-SPAN stand for? C-SPAN stands for Cable-Satellite Public Affairs Network.\n- Who is Alan Greenspan? Alan Greenspan is an American economist who served as the Chair of the Federal Reserve from 1987 to 2006.\nAnswer: Is the span in C-SPAN named after Alan Greenspan? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0016017495000000001,
+            "elapsed time": 7.76577091217041,
+            "score": 70.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "can a computer be programmed entirely in boolean algebra?\n- what is boolean algebra?\n- how are computers programmed?\n- can boolean algebra be used to program a computer?"
+        },
+        {
+            "answer": [
+                "- What is boolean algebra? Boolean algebra is a mathematical system used to represent logic and make decisions based on true or false values.\n- How are computers programmed? Computers are typically programmed using programming languages that involve a combination of logic, arithmetic, and control flow statements.\n- Can boolean algebra be used to program a computer? While boolean algebra can be used to design and analyze digital circuits, it is not typically used as the sole programming language for programming a computer.\nAnswer: Can a computer be programmed entirely in Boolean algebra? false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0016043535,
+            "elapsed time": 8.200111150741577,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "in american society, will a bachelor's degree often include a leap year?"
+        },
+        {
+            "answer": [
+                "- In American society, will a bachelor's degree often include a leap year? No, a bachelor's degree typically takes four years to complete without any additional leap years.\nAnswer: false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0016065049999999998,
+            "elapsed time": 7.518183708190918,
+            "score": 70.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nwere plants crucial for the king of rock'n roll's snack with bananas?\n- what did the king of rock'n roll eat as a snack?\n- do bananas come from plants?"
+        },
+        {
+            "answer": [
+                "- What did the King of Rock'n Roll eat as a snack? The King of Rock'n Roll ate peanut butter and banana sandwiches as a snack.\n- Do bananas come from plants? Yes, bananas come from plants.\nAnswer: Were plants crucial for The King of Rock'n Roll's snack with bananas? true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001608998,
+            "elapsed time": 8.845187187194824,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "can you find bob marley's face in most smoke shops?\n- what products typically feature bob marley's face in smoke shops?\n- is bob marley's image associated with a specific type of smoking accessory? \n"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "can you find bob marley's face in most smoke shops?\n- what products typically feature bob marley's face in smoke shops?\n- is bob marley's image associated with a specific type of smoking accessory?\n"
+        },
+        {
+            "answer": [
+                "- What products typically feature Bob Marley's face in smoke shops? Bob Marley's face is commonly found on posters, t-shirts, lighters, and rolling papers in smoke shops.\n- Is Bob Marley's image associated with a specific type of smoking accessory? Yes, Bob Marley's image is often associated with reggae music and the Rastafarian culture, which is sometimes linked to the use of marijuana.\nAnswer: Can you find Bob Marley's face in most smoke shops? true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001612846,
+            "elapsed time": 12.030726909637451,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nis britney spears' breakdown attributed to bipolar disorder?\n- what is britney spears' mental health history?\n- what are the common causes of breakdowns in celebrities?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 1,
+            "actions": [
+                "output:\nis britney spears' breakdown attributed to bipolar disorder?\n- what is britney spears' medical history?\n- what is bipolar disorder and its symptoms?\n- are there any statements from britney spears or her medical professionals confirming the attribution?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 2,
+            "env_step": 2,
+            "decomp_state": "is britney spears' breakdown attributed to bipolar disorder?\n- what is britney spears' medical history?\n- what is bipolar disorder and its symptoms?\n- are there any statements from britney spears or her medical professionals confirming the attribution?\n    - have any reliable sources reported on the attribution of britney spears' breakdown to bipolar disorder?"
+        },
+        {
+            "answer": [
+                "- What is Britney Spears' medical history? Britney Spears has a history of mental health issues and public breakdowns.\n- What is bipolar disorder and its symptoms? Bipolar disorder is a mental health condition characterized by extreme mood swings, including manic episodes and depressive episodes.\n- Are there any statements from Britney Spears or her medical professionals confirming the attribution? There have been reports and statements suggesting that Britney Spears' breakdown was attributed to bipolar disorder.\n    - Have any reliable sources reported on the attribution of Britney Spears' breakdown to bipolar disorder? Yes, there have been reports from reliable sources discussing the attribution of Britney Spears' breakdown to bipolar disorder.\nAnswer: Britney Spears' breakdown is attributed to bipolar disorder. True"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0016181759999999998,
+            "elapsed time": 17.393184185028076,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nis the foot part of the metric system?\n- what measurement system does the foot belong to?"
+        },
+        {
+            "answer": [
+                "- What measurement system does the foot belong to? The foot belongs to the imperial system.\nAnswer: Is the foot part of the metric system? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0016202345,
+            "elapsed time": 10.043883323669434,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "does hades appear in a disney channel musical movie?\n- which disney channel musical movies feature characters from greek mythology?\n    - are there any disney channel musical movies that specifically feature hades?\n- which disney channel musical movies feature hades as a character?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "does hades appear in a disney channel musical movie?\n- which disney channel musical movies feature characters from greek mythology?\n    - are there any disney channel musical movies that specifically feature hades?\n- which disney channel musical movies feature hades as a character?"
+        },
+        {
+            "answer": [
+                "- Which Disney Channel musical movies feature characters from Greek mythology? \"Descendants\" and \"Descendants 2\" feature characters like Mal, daughter of Maleficent, and Evie, daughter of the Evil Queen.\n    - Are there any Disney Channel musical movies that specifically feature Hades? No, there are no Disney Channel musical movies that specifically feature Hades.\n- Which Disney Channel musical movies feature Hades as a character? None.\nAnswer: Does Hades appear in a Disney Channel musical movie? false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0016240275,
+            "elapsed time": 10.10700511932373,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\ncould a hwasong-15 missile hypothetically reach voyager 2?\n- what is the maximum range of a hwasong-15 missile?\n- how far away is voyager 2 from earth?"
+        },
+        {
+            "answer": [
+                "- What is the maximum range of a Hwasong-15 missile? The maximum range of a Hwasong-15 missile is estimated to be around 13,000 km.\n- How far away is Voyager 2 from Earth? Voyager 2 is currently approximately 18.8 billion kilometers away from Earth.\nAnswer: Could a Hwasong-15 missile hypothetically reach Voyager 2? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0016266595,
+            "elapsed time": 12.478637933731079,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "enhanced decomposition:\ndoes linus torvalds make money off of directx?\n- who is linus torvalds?\n- what is directx?\n    - how is directx related to linus torvalds?\n- how do people make money off of directx?\n"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 1,
+            "actions": [
+                "enhanced decomposition:\ndoes linus torvalds make money off of directx?\n- what is linus torvalds' association with directx?\n- how does linus torvalds monetize his work in the tech industry?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 2,
+            "env_step": 2,
+            "decomp_state": "current decomposition:\ndoes linus torvalds make money off of directx?\n- what is linus torvalds' association with directx?\n- how does linus torvalds monetize his work in the tech industry?\n\nenhanced decomposition:\ndoes linus torvalds make money off of directx?\n- what is linus torvalds' association with directx?\n    - is linus torvalds involved in the development of directx?\n- how does linus torvalds monetize his work in the tech industry?\n"
+        },
+        {
+            "answer": [
+                "- What is Linus Torvalds' association with DirectX? Linus Torvalds is not directly involved in the development of DirectX, as it is a Microsoft product.\n    - Is Linus Torvalds involved in the development of DirectX? No, Linus Torvalds is not involved in the development of DirectX.\n- How does Linus Torvalds monetize his work in the tech industry? Linus Torvalds primarily monetizes his work through his involvement in the development of the Linux kernel and related projects.\n\nAnswer: Linus Torvalds does not make money off of DirectX. False."
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0016325665,
+            "elapsed time": 23.11730146408081,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\ndo you need to worry about zika virus in antarctica?\n- are there mosquitoes in antarctica?\n- has there been any reported cases of zika virus in antarctica?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "do you need to worry about zika virus in antarctica?\n- are there mosquitoes in antarctica?\n- has there been any reported cases of zika virus in antarctica?"
+        },
+        {
+            "answer": [
+                "- Are there mosquitoes in Antarctica? No, there are no native mosquitoes in Antarctica.\n- Has there been any reported cases of Zika virus in Antarctica? No, there have been no reported cases of Zika virus in Antarctica.\nAnswer: Do you need to worry about Zika virus in Antarctica? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001636005,
+            "elapsed time": 10.214815378189087,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nare most books written as a haiku?\n- what is a haiku?\n- how are books typically written?"
+        },
+        {
+            "answer": [
+                "are most books written as a haiku? A haiku is a form of Japanese poetry consisting of three lines with a 5-7-5 syllable structure.\n- what is a haiku? A haiku is a form of Japanese poetry consisting of three lines with a 5-7-5 syllable structure.\n- how are books typically written? Books are typically written in prose, with paragraphs and chapters. \nAnswer: Are most books written as a Haiku? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0016384860000000002,
+            "elapsed time": 9.889907836914062,
+            "score": 60.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "enhanced decomposition:\nwill chuck norris be a nonagenarian by time next leap year after 2020 happens?\n- what is chuck norris's birth year?\n- what is the definition of a nonagenarian?\n    - at what age does a person become a nonagenarian?\n- when is the next leap year after 2020?\n- how many years are between chuck norris's birth year and the next leap year after 2020?\n"
+            ],
+            "count": {
+                "sure": 0,
+                "maybe": 1,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "enhanced decomposition:\nwill chuck norris be a nonagenarian by time next leap year after 2020 happens?\n- what is chuck norris's birth year?\n- what is the definition of a nonagenarian?\n    - at what age does a person become a nonagenarian?\n- when is the next leap year after 2020?\n- how many years are between chuck norris's birth year and the next leap year after 2020?"
+        },
+        {
+            "answer": [
+                "- What is Chuck Norris's birth year? Chuck Norris was born in 1940.\n- What is the definition of a nonagenarian? A nonagenarian is a person who is between 90 and 99 years old.\n    - At what age does a person become a nonagenarian? A person becomes a nonagenarian when they turn 90 years old.\n- When is the next leap year after 2020? The next leap year after 2020 is 2024.\n- How many years are between Chuck Norris's birth year and the next leap year after 2020? There are 84 years between Chuck Norris's birth year (1940) and the next leap year after 2020 (2024).\nAnswer: Will Chuck Norris be a nonagenarian by the time the next leap year after 2020 happens? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0016435405,
+            "elapsed time": 15.3187096118927,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "enhanced decomposition:\nhas cannabis been a big influence in rap music genre?\n- how has cannabis influenced the lyrics of rap songs?\n- how has cannabis influenced the overall culture and image of rap music?\n- are there specific rap artists or songs that prominently feature cannabis as a theme?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "enhanced decomposition:\nhas cannabis been a big influence in rap music genre?\n- how has cannabis influenced the lyrics of rap songs? \n- how has cannabis influenced the overall culture and image of rap music? \n- are there specific rap artists or songs that prominently feature cannabis as a theme?\n    - can you provide examples of rap songs where cannabis is a central theme?"
+        },
+        {
+            "answer": [
+                "- How has cannabis influenced the lyrics of rap songs? Cannabis has been a common theme in rap lyrics, with many artists referencing its use, effects, and culture in their songs.\n- How has cannabis influenced the overall culture and image of rap music? Cannabis has played a significant role in shaping the culture and image of rap music, with many artists and fans associating the drug with the genre.\n- Are there specific rap artists or songs that prominently feature cannabis as a theme? Yes, there are many rap artists and songs that prominently feature cannabis as a central theme, such as Snoop Dogg, Wiz Khalifa, and songs like \"Gin and Juice\" by Snoop Dogg and \"Young, Wild & Free\" by Wiz Khalifa. \n\nAnswer: Has cannabis been a big influence in rap music genre? true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0016480095,
+            "elapsed time": 15.487292528152466,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\ndid christina aguilera turn her chair around for kelly clarkson on the voice?\n- was kelly clarkson a contestant on the voice?\n- did christina aguilera serve as a coach on the voice?\n- did christina aguilera turn her chair around for any contestants on the voice?"
+        },
+        {
+            "answer": [
+                "- Was Kelly Clarkson a contestant on The Voice? Yes, Kelly Clarkson was a contestant on The Voice.\n- Did Christina Aguilera serve as a coach on The Voice? Yes, Christina Aguilera served as a coach on The Voice.\n- Did Christina Aguilera turn her chair around for any contestants on The Voice? Yes, Christina Aguilera turned her chair around for some contestants on The Voice.\nAnswer: Did Christina Aguilera turn her chair around for Kelly Clarkson on The Voice? True"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0016506375,
+            "elapsed time": 7.626117467880249,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "would an anxious person benefit from receiving courage from the wizard of oz?\n- what are the characteristics of an anxious person?\n- how does courage help in reducing anxiety?\n- what is the source of courage in the wizard of oz story?\n    - how is courage portrayed in the wizard of oz?\n    - how does the wizard of oz give courage to the characters?\n- are the benefits of courage long-lasting for an anxious person?\n"
+            ],
+            "count": {
+                "sure": 0,
+                "maybe": 1,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "would an anxious person benefit from receiving courage from the wizard of oz?\n- what are the characteristics of an anxious person?\n- how does courage help in reducing anxiety?\n- what is the source of courage in the wizard of oz story?\n    - how is courage portrayed in the wizard of oz?\n    - how does the wizard of oz give courage to the characters?\n- are the benefits of courage long-lasting for an anxious person?"
+        },
+        {
+            "answer": [
+                "- What are the characteristics of an anxious person? An anxious person may experience excessive worry, fear, and physical symptoms such as rapid heartbeat or sweating.\n- How does courage help in reducing anxiety? Courage can help reduce anxiety by providing the strength and confidence to face fears and challenges.\n- What is the source of courage in the Wizard of Oz story? The source of courage in the Wizard of Oz story is the Cowardly Lion.\n    - How is courage portrayed in the Wizard of Oz? Courage is portrayed as the ability to face fears and challenges despite feeling afraid.\n    - How does the Wizard of Oz give courage to the characters? The Wizard of Oz gives courage to the characters by helping them realize that they already possess the qualities they seek.\n- Are the benefits of courage long-lasting for an anxious person? The benefits of courage can be long-lasting for an anxious person if they continue to practice facing fears and challenges.\nAnswer: Would an anxious person benefit from receiving courage from the Wizard of Oz? true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0016556345,
+            "elapsed time": 16.061358213424683,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\ndoes a generation y member satisfy nypd police officer age requirement?\n- what are the age requirements to become an nypd police officer?\n- what are the birth years for generation y?\n- how do the birth years of generation y align with the age requirements for nypd police officers?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "current decomposition:\ndoes a generation y member satisfy nypd police officer age requirement?\n- what are the age requirements to become an nypd police officer?\n- what are the birth years for generation y?\n- how do the birth years of generation y align with the age requirements for nypd police officers?\n    - how does the age range of generation y align with the age requirements for nypd police officers?"
+        },
+        {
+            "answer": [
+                "- What are the age requirements to become an NYPD police officer? The age requirements to become an NYPD police officer are between 21 and 35 years old.\n- What are the birth years for Generation Y? Generation Y, also known as Millennials, are typically born between 1981 and 1996.\n- How do the birth years of Generation Y align with the age requirements for NYPD police officers? The birth years of Generation Y align with the age requirements for NYPD police officers as individuals born between 1981 and 1996 would currently be between 25 and 40 years old.\n    - How does the age range of Generation Y align with the age requirements for NYPD police officers? The age range of Generation Y aligns with the age requirements for NYPD police officers as individuals within the Generation Y range would fall within the 21 to 35-year-old requirement.\nAnswer: Does a Generation Y member satisfy NYPD police officer age requirement? false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0016602409999999998,
+            "elapsed time": 14.597794771194458,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\ndid king james i despise fairy beings?\n- what is the historical background of king james i's beliefs regarding fairies?\n- did king james i write about his views on fairy beings?"
+        },
+        {
+            "answer": [
+                "- What is the historical background of King James I's beliefs regarding fairies? King James I believed in the existence of fairies and wrote about them in his book \"Daemonologie\".\n- Did King James I write about his views on fairy beings? Yes, King James I wrote about his views on fairy beings in his book \"Daemonologie\".\nAnswer: Did King James I despise fairy beings? false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0016629005,
+            "elapsed time": 9.536712646484375,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "enhanced decomposition:\ndid harry houdini's wife make psychics look foolish?\n- who was harry houdini's wife?\n- what did harry houdini's wife do to make psychics look foolish?"
+        },
+        {
+            "answer": [
+                "- Who was Harry Houdini's wife? Harry Houdini's wife was Bess Houdini.\n- What did Harry Houdini's wife do to make psychics look foolish? Bess Houdini exposed fraudulent psychics and mediums, revealing their tricks and methods.\nAnswer: Did Harry Houdini's wife make psychics look foolish? true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001665447,
+            "elapsed time": 7.00797963142395,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "do onions have a form that resembles the inside of a tree?\n- what is the internal structure of an onion?\n- what is the internal structure of a tree?"
+        },
+        {
+            "answer": [
+                "- What is the internal structure of an onion? An onion has layers of fleshy leaves surrounding a central core.\n- What is the internal structure of a tree? A tree has a central trunk with branches extending outwards and roots underground.\nAnswer: Do onions have a form that resembles the inside of a tree? false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0016679854999999998,
+            "elapsed time": 8.066900730133057,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "can eleventh grade students obtain a driver's license?\n- what are the age requirements for obtaining a driver's license?\n- what are the educational requirements for obtaining a driver's license?\n"
+        },
+        {
+            "answer": [
+                "- What are the age requirements for obtaining a driver's license? The age requirement for obtaining a driver's license varies by state but is typically around 16-18 years old.\n- What are the educational requirements for obtaining a driver's license? In most states, completing a driver's education course is required to obtain a driver's license.\n\nAnswer: Is eleventh grade required to get a driver's license? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001670456,
+            "elapsed time": 9.325507640838623,
+            "score": 75.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nwas ethanol beneficial to jack kerouac's health?\n- what is ethanol?\n- what health effects does ethanol have on the body?\n- did jack kerouac consume ethanol?\n- what are the potential health benefits of ethanol consumption?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "was ethanol beneficial to jack kerouac's health?\n- what is ethanol?\n- what health effects does ethanol have on the body?\n- did jack kerouac consume ethanol?\n- what are the potential health benefits of ethanol consumption?\n    - are there any specific health benefits of ethanol consumption that could apply to jack kerouac?"
+        },
+        {
+            "answer": [
+                "- What is ethanol? Ethanol is a type of alcohol that is commonly found in alcoholic beverages.\n- What health effects does ethanol have on the body? Ethanol can have both positive and negative health effects on the body, depending on the amount consumed.\n- Did Jack Kerouac consume ethanol? Jack Kerouac was known to be a heavy drinker and consumed alcohol, including ethanol.\n- What are the potential health benefits of ethanol consumption? Some studies suggest that moderate ethanol consumption may have cardiovascular benefits.\n    - Are there any specific health benefits of ethanol consumption that could apply to Jack Kerouac? While moderate ethanol consumption may have cardiovascular benefits, excessive consumption can lead to negative health effects such as liver damage and addiction.\nAnswer: Was ethanol beneficial to Jack Kerouac's health? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0016746265,
+            "elapsed time": 12.836472749710083,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "was charlemagne's father instrumental in outcome of the battle of tours?\n- who was charlemagne's father?\n- what role did charlemagne's father play in the battle of tours?"
+        },
+        {
+            "answer": [
+                "- Who was Charlemagne's father? Charlemagne's father was Pepin the Short.\n- What role did Charlemagne's father play in the Battle of Tours? Pepin the Short was not involved in the Battle of Tours.\nAnswer: Was Charlemagne's father instrumental in the outcome of the Battle of Tours? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0016770735,
+            "elapsed time": 8.100707530975342,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "can giant pandas sell out a metallica show?\n- are metallica shows frequently sold out?\n- how many tickets does a metallica show typically sell?\n- do people have a strong interest in giant pandas?"
+        },
+        {
+            "answer": [
+                "- Are Metallica shows frequently sold out? Yes, Metallica shows are known to sell out quickly.\n- How many tickets does a Metallica show typically sell? Metallica shows typically sell tens of thousands of tickets.\n- Do people have a strong interest in giant pandas? Yes, giant pandas are a popular and beloved animal.\nAnswer: Can giant pandas sell out a Metallica show? true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0016795579999999998,
+            "elapsed time": 10.016086339950562,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "can you only see hippopotamus in africa?\n- what continents are hippopotamus native to?\n    - are there hippopotamus populations outside of africa?\n- where do hippopotamus live in the wild?"
+        },
+        {
+            "answer": [
+                "- What continents are hippopotamus native to? Hippopotamus are native to Africa.\n    - Are there hippopotamus populations outside of Africa? No, hippopotamus are not native to any other continent.\n- Where do hippopotamus live in the wild? Hippopotamus live in sub-Saharan Africa, primarily near rivers and lakes.\nAnswer: Can you only see hippopotamus in Africa? true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0016819905000000001,
+            "elapsed time": 6.558694124221802,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nwas rumi's work serialized in a magazine?\n- which magazines published rumi's work?\n- in what year did rumi's work get serialized?"
+        },
+        {
+            "answer": [
+                "- Which magazines published Rumi's work? Rumi's work was published in the magazine \"The New Yorker\" and \"Harper's Magazine\".\n- In what year did Rumi's work get serialized? Rumi's work was serialized in \"The New Yorker\" in 2017 and in \"Harper's Magazine\" in 2019.\nAnswer: Was Rumi's work serialized in a magazine? true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0016844834999999998,
+            "elapsed time": 6.374221086502075,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nwould someone with back pain enjoy picking strawberries?\n- what physical activities should be avoided by people with back pain?\n- what are the physical requirements of picking strawberries?\n- are there any modifications that can be made to enable someone with back pain to pick strawberries comfortably?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "would someone with back pain enjoy picking strawberries?\n- what physical activities should be avoided by people with back pain?\n- what are the physical requirements of picking strawberries?\n- are there any modifications that can be made to enable someone with back pain to pick strawberries comfortably?"
+        },
+        {
+            "answer": [
+                "- What physical activities should be avoided by people with back pain? People with back pain should avoid activities that involve heavy lifting, bending, or twisting.\n- What are the physical requirements of picking strawberries? Picking strawberries requires bending down, reaching, and potentially lifting baskets of fruit.\n- Are there any modifications that can be made to enable someone with back pain to pick strawberries comfortably? Yes, someone with back pain can use a stool or cushion to sit while picking strawberries to reduce strain on their back.\nAnswer: Would someone with back pain enjoy picking strawberries? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001688364,
+            "elapsed time": 10.997686624526978,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\ndid eiffel tower contribute to a war victory?\n- what is the history of the eiffel tower during the war in question?\n- how did the eiffel tower impact the outcome of the war?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "did eiffel tower contribute to a war victory?\n- what is the history of the eiffel tower during the war in question?\n- how did the eiffel tower impact the outcome of the war?\n    - what strategic significance did the eiffel tower have during the war?"
+        },
+        {
+            "answer": [
+                "- What is the history of the Eiffel Tower during the war in question? During World War II, the Eiffel Tower was used by the French Resistance to send messages and signals to the Allied forces.\n- How did the Eiffel Tower impact the outcome of the war? The Eiffel Tower served as a symbol of French resilience and resistance during the war, boosting morale and inspiring the French people to continue fighting.\n    - What strategic significance did the Eiffel Tower have during the war? The Eiffel Tower's use as a communication hub by the French Resistance played a role in coordinating resistance efforts and providing valuable intelligence to the Allies.\nAnswer: Did Eiffel Tower contribute to a war victory? true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.00169251,
+            "elapsed time": 17.065526485443115,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\ndo some religions look forward to armageddon?\n- what is armageddon in the context of religion?\n- which religions believe in armageddon?"
+        },
+        {
+            "answer": [
+                "- What is armageddon in the context of religion? Armageddon is a term used to describe the end of the world or a final battle between good and evil in some religious beliefs.\n- Which religions believe in armageddon? Some religions that believe in the concept of armageddon include Christianity, Islam, and Judaism.\nAnswer: Some religions do look forward to armageddon. True"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0016949870000000002,
+            "elapsed time": 8.644596815109253,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nis rick and morty considered an anime?\n- what defines a show as an anime?\n- what are the characteristics of rick and morty?"
+            ],
+            "count": {
+                "sure": 0,
+                "maybe": 1,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 1,
+            "actions": [
+                "output:\nis rick and morty considered an anime?\n- what defines a show as an anime?\n- is rick and morty produced in japan?\n- does rick and morty follow traditional anime art style?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 2,
+            "env_step": 2,
+            "decomp_state": "is rick and morty considered an anime?\n- what defines a show as an anime?\n- is rick and morty produced in japan?\n- does rick and morty follow traditional anime art style?\n    - what are the characteristics of traditional anime art style?"
+        },
+        {
+            "answer": [
+                "- What defines a show as an anime? A show is considered an anime if it is animated and originated in Japan.\n- Is Rick and Morty produced in Japan? No, Rick and Morty is produced in the United States.\n- Does Rick and Morty follow traditional anime art style? No, Rick and Morty does not follow traditional anime art style.\n    - What are the characteristics of traditional anime art style? Traditional anime art style includes features such as large, expressive eyes, colorful hair, and exaggerated facial expressions.\nAnswer: Is Rick and Morty considered an anime? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0016999940000000002,
+            "elapsed time": 14.564701318740845,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "could a chipmunk fit 100 chocolate chips in his mouth?\n- what is the average size of a chocolate chip?\n- what is the size of a chipmunk's mouth?\n- how many chocolate chips can fit in a chipmunk's mouth at once?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "could a chipmunk fit 100 chocolate chips in his mouth?\n- what is the average size of a chocolate chip?\n- what is the size of a chipmunk's mouth?\n- how many chocolate chips can fit in a chipmunk's mouth at once?\n    - what is the average number of chocolate chips that can fit in a chipmunk's mouth at once?"
+        },
+        {
+            "answer": [
+                "- What is the average size of a chocolate chip? The average size of a chocolate chip is about 0.5 inches in diameter.\n- What is the size of a chipmunk's mouth? A chipmunk's mouth is typically about 0.5 inches wide.\n- How many chocolate chips can fit in a chipmunk's mouth at once? \n    - What is the average number of chocolate chips that can fit in a chipmunk's mouth at once? Based on the size of a chocolate chip and a chipmunk's mouth, it is unlikely that a chipmunk could fit 100 chocolate chips in its mouth at once.\nAnswer: Could a chipmunk fit 100 chocolate chips in his mouth? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0017043020000000002,
+            "elapsed time": 12.127624034881592,
+            "score": 0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nwould sophist's have hypothetically made good lawyers?\n- what skills are required to be a good lawyer?\n- what skills did the sophists possess?\n    - what were the main teachings of the sophists?\n- how do the skills of a lawyer compare to the skills of the sophists?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 1,
+            "actions": [
+                "would sophist's have hypothetically made good lawyers?\n- what skills and characteristics make a good lawyer?\n- what skills and characteristics did sophists possess?\n- was argumentation a key skill of the sophists?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "answer": [
+                "- What skills do sophists possess? Sophists possess skills in rhetoric, persuasion, argumentation, and public speaking.\n- What skills are required to be a good lawyer? Good lawyers require skills in critical thinking, research, analysis, communication, negotiation, and advocacy.\n- What are the similarities/differences between the skills of sophists and lawyers? While both sophists and lawyers possess skills in communication and persuasion, lawyers also require skills in critical thinking, research, analysis, negotiation, and advocacy which sophists may not necessarily possess.\nAnswer: Would Sophists have hypothetically made good lawyers? false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001709584,
+            "elapsed time": 13.816355466842651,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nwill queen elizabeth be buried in the pantheon?\n- where will queen elizabeth be buried?\n- what is the criteria for someone to be buried in the pantheon?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "will queen elizabeth be buried in the pantheon?\n- where will queen elizabeth be buried?\n- what is the criteria for someone to be buried in the pantheon?\n    - what are the specific requirements to be interred in the pantheon?"
+        },
+        {
+            "answer": [
+                "- Where will Queen Elizabeth be buried? Queen Elizabeth II has made plans to be buried in the Royal Burial Ground at Frogmore, near Windsor Castle.\n- What is the criteria for someone to be buried in the Pantheon? The Pantheon in Rome is a historic building that serves as a burial place for important figures in Italian history.\n    - What are the specific requirements to be interred in the Pantheon? To be interred in the Pantheon, one must have made significant contributions to Italian culture, politics, or society.\nAnswer: Will Queen Elizabeth be buried in the Pantheon? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0017133175,
+            "elapsed time": 11.962867975234985,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "output:\nwas gandalf present at the death of eomer?\n- who is eomer in the lord of the rings?\n- was gandalf present during the events involving eomer's death?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "was gandalf present at the death of eomer?\n- who is eomer in the lord of the rings?\n- was gandalf present during the events involving eomer's death?\n    - what characters were present at the death of eomer?"
+        },
+        {
+            "answer": [
+                "- Who is Eomer in The Lord of the Rings? Eomer is a character in The Lord of the Rings, a nobleman of Rohan and the brother of Eowyn.\n- Was Gandalf present during the events involving Eomer's death? Gandalf was not present at the death of Eomer.\n    - What characters were present at the death of Eomer? The characters present at the death of Eomer were Eomer himself, Aragorn, Legolas, Gimli, and other members of the Fellowship of the Ring.\nAnswer: Was Gandalf present at the death of Eomer? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001717194,
+            "elapsed time": 9.990160703659058,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "enhanced decomposition:\nare those incapable of reproduction incapable of parenthood?\n- what are the reasons for someone being incapable of reproduction?\n- can someone who is incapable of reproduction become a parent?\n    - what are the alternative ways for someone incapable of reproduction to become a parent?\n"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "current decomposition:\nare those incapable of reproduction incapable of parenthood?\n- what are the reasons for someone being incapable of reproduction?\n- can someone who is incapable of reproduction become a parent?\n\nenhanced decomposition:\nare those incapable of reproduction incapable of parenthood?\n- what are the reasons for someone being incapable of reproduction?\n- can someone who is incapable of reproduction become a parent?\n    - what are the alternative ways for someone incapable of reproduction to become a parent?\n"
+        },
+        {
+            "answer": [
+                "- What are the reasons for someone being incapable of reproduction? There are various reasons for someone being incapable of reproduction, such as medical conditions, genetic factors, or surgical interventions.\n- Can someone who is incapable of reproduction become a parent? Yes, someone who is incapable of reproduction can still become a parent through alternative methods such as adoption, surrogacy, or fostering.\n    - What are the alternative ways for someone incapable of reproduction to become a parent? Alternative ways for someone incapable of reproduction to become a parent include adoption, surrogacy, fostering, or using assisted reproductive technologies such as IVF with donor gametes.\nAnswer: Those incapable of reproduction are not necessarily incapable of parenthood. True."
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001721583,
+            "elapsed time": 16.693681240081787,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "actions": [
+                "can herpes simplex virus spread on venus?\n- can viruses survive on venus?\n    - what are the conditions on venus?\n- how does herpes simplex virus spread on earth?"
+            ],
+            "count": {
+                "sure": 1,
+                "maybe": 0,
+                "impossible": 0
+            }
+        },
+        {
+            "total_step": 1,
+            "env_step": 2,
+            "decomp_state": "can herpes simplex virus spread on venus?\n- can viruses survive on venus?\n    - what are the conditions on venus?\n- how does herpes simplex virus spread on earth?"
+        },
+        {
+            "answer": [
+                "- Can viruses survive on Venus? No, viruses cannot survive on Venus due to its extreme conditions.\n    - What are the conditions on Venus? Venus has a surface temperature of about 900 degrees Fahrenheit and an atmosphere composed mainly of carbon dioxide and sulfuric acid.\n- How does herpes simplex virus spread on Earth? Herpes simplex virus spreads through direct contact with an infected person or through contact with contaminated objects.\nAnswer: Can Herpes simplex virus spread on Venus? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001725097,
+            "elapsed time": 8.408823490142822,
+            "score": 95.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "output:\nwould keelhauling be a fair punishment under the eighth amendment?\n- what is keelhauling?\n- what does the eighth amendment prohibit?"
+        },
+        {
+            "answer": [
+                "- What is keelhauling? Keelhauling is a form of punishment where a person is tied to a rope and dragged underwater from one side of the ship to the other.\n- What does the Eighth Amendment prohibit? The Eighth Amendment prohibits cruel and unusual punishment.\nAnswer: Would keelhauling be a fair punishment under the Eighth Amendment? false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0017276004999999999,
+            "elapsed time": 6.948191404342651,
+            "score": 85.0
+        }
+    ],
+    [
+        {
+            "total_step": 0,
+            "env_step": 1,
+            "decomp_state": "can you find a railroad engineer on tnt?\n- what is a railroad engineer's job description?\n- is tnt a tv network or a company specializing in explosives?"
+        },
+        {
+            "answer": [
+                "- What is a railroad engineer's job description? A railroad engineer is responsible for operating locomotives and other equipment to transport passengers or freight.\n- Is TNT a TV network or a company specializing in explosives? TNT is a company specializing in explosives.\nAnswer: Can you find a railroad engineer on TNT? false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0017298675000000001,
+            "elapsed time": 5.872357606887817,
+            "score": 30.0
+        }
+    ]
+]

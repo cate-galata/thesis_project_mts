@@ -1,0 +1,1102 @@
+[
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001911576,
+            "elapsed time": 2.5047214031219482,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "False"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.00191249,
+            "elapsed time": 3.782289505004883,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001913362,
+            "elapsed time": 1.8436377048492432,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "False"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001914362,
+            "elapsed time": 3.903291940689087,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "Answer: true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001915365,
+            "elapsed time": 2.8354709148406982,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "False"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001916285,
+            "elapsed time": 6.520213603973389,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0019171969999999998,
+            "elapsed time": 3.8768813610076904,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "True"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001918117,
+            "elapsed time": 2.0330216884613037,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "False"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0019190929999999998,
+            "elapsed time": 4.166158199310303,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001920099,
+            "elapsed time": 5.997626543045044,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001921143,
+            "elapsed time": 3.111985445022583,
+            "score": 15.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "True"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0019221330000000001,
+            "elapsed time": 2.8924155235290527,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "False"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001923175,
+            "elapsed time": 3.6790077686309814,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0019241969999999999,
+            "elapsed time": 2.803769588470459,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001925093,
+            "elapsed time": 2.7528934478759766,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001926045,
+            "elapsed time": 3.4872488975524902,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001926957,
+            "elapsed time": 5.092963457107544,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001927915,
+            "elapsed time": 4.909690856933594,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "False"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0019288450000000002,
+            "elapsed time": 3.607320547103882,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "False"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0019297770000000001,
+            "elapsed time": 2.504258155822754,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0019307789999999999,
+            "elapsed time": 4.4855921268463135,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001931765,
+            "elapsed time": 4.685578107833862,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001932737,
+            "elapsed time": 4.6454856395721436,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001933861,
+            "elapsed time": 3.7682883739471436,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001934821,
+            "elapsed time": 3.6864352226257324,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0019358089999999997,
+            "elapsed time": 4.222270250320435,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001936835,
+            "elapsed time": 3.1488208770751953,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0019377550000000002,
+            "elapsed time": 2.264949083328247,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0019386809999999998,
+            "elapsed time": 3.324791669845581,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0019396250000000002,
+            "elapsed time": 2.8719112873077393,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0019405709999999999,
+            "elapsed time": 2.7249608039855957,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "False"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001941515,
+            "elapsed time": 3.9081223011016846,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0019425009999999997,
+            "elapsed time": 2.712571144104004,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "False"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0019436510000000002,
+            "elapsed time": 11.052428722381592,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001944729,
+            "elapsed time": 3.8816707134246826,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001945805,
+            "elapsed time": 9.41213607788086,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0019467030000000001,
+            "elapsed time": 2.1416492462158203,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0019476430000000002,
+            "elapsed time": 4.879311800003052,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "False"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0019486290000000001,
+            "elapsed time": 3.0073492527008057,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001949577,
+            "elapsed time": 6.17449951171875,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001950457,
+            "elapsed time": 2.1337332725524902,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0019514530000000001,
+            "elapsed time": 3.9593138694763184,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001952411,
+            "elapsed time": 4.971987247467041,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001953405,
+            "elapsed time": 3.9262566566467285,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "True"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0019543499999999997,
+            "elapsed time": 2.9398908615112305,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0019552659999999998,
+            "elapsed time": 2.798246145248413,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001956232,
+            "elapsed time": 2.6367363929748535,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "True"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001957182,
+            "elapsed time": 2.893514633178711,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001958108,
+            "elapsed time": 4.0686914920806885,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.00195905,
+            "elapsed time": 3.92440128326416,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "False"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0019599300000000004,
+            "elapsed time": 2.2403082847595215,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "False"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001960906,
+            "elapsed time": 2.965951442718506,
+            "score": 85.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001961926,
+            "elapsed time": 4.197582721710205,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001962848,
+            "elapsed time": 2.6185319423675537,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.00196384,
+            "elapsed time": 2.8779613971710205,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001964764,
+            "elapsed time": 2.3180510997772217,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "False"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.00196577,
+            "elapsed time": 5.255929708480835,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001966766,
+            "elapsed time": 2.833803653717041,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001967792,
+            "elapsed time": 4.1077492237091064,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "True"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0019687439999999997,
+            "elapsed time": 3.8201379776000977,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "True"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001969674,
+            "elapsed time": 3.7819957733154297,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001970646,
+            "elapsed time": 5.191362619400024,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001971566,
+            "elapsed time": 3.311176061630249,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001972458,
+            "elapsed time": 5.509664058685303,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001973414,
+            "elapsed time": 2.676663637161255,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001974396,
+            "elapsed time": 3.384453058242798,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001975322,
+            "elapsed time": 2.439923048019409,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001976228,
+            "elapsed time": 3.54483699798584,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001977192,
+            "elapsed time": 4.990761756896973,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.00197814,
+            "elapsed time": 2.970360279083252,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.00197911,
+            "elapsed time": 3.9614689350128174,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "False"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001980074,
+            "elapsed time": 2.902381658554077,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001980989,
+            "elapsed time": 2.329911231994629,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001981915,
+            "elapsed time": 4.081217050552368,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "True"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001983009,
+            "elapsed time": 3.539062738418579,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001983923,
+            "elapsed time": 2.3744893074035645,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "True"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0019849250000000002,
+            "elapsed time": 3.431727170944214,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "True"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001985873,
+            "elapsed time": 3.2708966732025146,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001986847,
+            "elapsed time": 5.043106555938721,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001987793,
+            "elapsed time": 5.66027045249939,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001988783,
+            "elapsed time": 3.9575846195220947,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001989705,
+            "elapsed time": 4.633133411407471,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0019906209999999997,
+            "elapsed time": 2.1984007358551025,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "False"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001991535,
+            "elapsed time": 2.6520743370056152,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "False"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001992525,
+            "elapsed time": 2.670945167541504,
+            "score": 50.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "False"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001993437,
+            "elapsed time": 2.984591007232666,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001994385,
+            "elapsed time": 3.9620120525360107,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001995321,
+            "elapsed time": 3.0515401363372803,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001996247,
+            "elapsed time": 3.7807462215423584,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001997193,
+            "elapsed time": 2.8404154777526855,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.001998125,
+            "elapsed time": 2.1942293643951416,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "False"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.001999083,
+            "elapsed time": 2.5120255947113037,
+            "score": 30.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "true"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0020000449999999998,
+            "elapsed time": 3.7148208618164062,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.0020010469999999997,
+            "elapsed time": 4.482095956802368,
+            "score": 10.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "False"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.002002113,
+            "elapsed time": 8.562968730926514,
+            "score": 40.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.002003063,
+            "elapsed time": 2.648876190185547,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0020039529999999997,
+            "elapsed time": 2.168564796447754,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.0020049129999999997,
+            "elapsed time": 2.765941858291626,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": false,
+            "gpt usage": 0.002005867,
+            "elapsed time": 3.02329158782959,
+            "score": 20.0
+        }
+    ],
+    [
+        {
+            "answer": [
+                "false"
+            ],
+            "answer_gt": true,
+            "gpt usage": 0.002006757,
+            "elapsed time": 4.459914445877075,
+            "score": 10.0
+        }
+    ]
+]
