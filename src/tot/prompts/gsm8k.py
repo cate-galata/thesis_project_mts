@@ -53,7 +53,7 @@ How many beetles are eaten each day?
 
 Structure your output exaclty like in the examples.
 Also output your confidence level for the entire decomposition at the end choosing one from (certain/high/medium/low), like this: confidence level: (certain/high/medium/low). 
-Use "certain" cautiously and only when you are absolutely sure this is the optimal decomposition (i.e. all subquestions are mutually exclusive, collectively exhaustive and necessary to answer the question they originate from).
+Use "certain" cautiously and only when you are absolutely sure this is the optimal decomposition (i.e. all subquestions are mutually exclusive, collectively exhaustive and relevant to answer the question they originate from).
 Avoid further decomposition when the existing questions already provide sufficient information to extrapolate the answer. Do NOT add subquestions whose answers cannot be found in the problem description. 
 If all necessary information to answer the question has been found and thus no further decomposition into subquestions is needed, output: confidence level: stop.
 
@@ -61,7 +61,7 @@ Input: {input}
 '''
 
 
-value_prompt = '''Output how likely the current decomposition into subquestions is to answer the original question. Assess if all subquestions can be answered solely with information from the problem description, and if they contribute relevant information. Output sure/maybe/impossible in the last line. Output sure for necessary, mutually exclusive, and collectively exhaustive subquestions. Output impossible if no information in the problem description can answer a question.
+value_prompt = '''Output how likely the current decomposition into subquestions is to answer the original question. Assess if all subquestions can be answered solely with information from the problem description, and if they contribute relevant information. Output sure/maybe/impossible in the last line. Output sure for relevant, mutually exclusive, and collectively exhaustive subquestions. Output impossible if no information in the problem description can answer a question.
 {input}
 '''
 
