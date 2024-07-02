@@ -16,8 +16,8 @@ Case Studies and Experiments: Comprehensive analysis and evaluation of the frame
 src/tot: Contains the source code for the framework and algorithms.
   data/: Includes datasets used for testing.
   prompts/: Includes prompts for the LLM.
-  methods/: Includes the implementation classes for all datasets.
-scripts/: Scripts for running experiments and analyzing results.
+  tasks/: Includes the implementation of classes for all datasets.
+scripts/: Scripts for running tree decomposition experiments and analyzing results.
 logs/: Documentation of results.
 
 ## Getting Started
