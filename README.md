@@ -13,10 +13,12 @@ Case Studies and Experiments: Comprehensive analysis and evaluation of the frame
 - Researchy Questions: non-factoid, multi-perspective questions that require complex reasoning and information analysis to be solved.
 
 ## Contents
-src/: Contains the source code for the framework and algorithms.
-data/: Includes datasets used for training and testing.
-experiments/: Documentation and scripts for running experiments and analyzing results.
-docs/: Thesis documentation and supplementary materials.
+src/tot: Contains the source code for the framework and algorithms.
+  data/: Includes datasets used for testing.
+  prompts/: Includes prompts for the LLM.
+  methods/: Includes the implementation classes for all datasets.
+scripts/: Scripts for running experiments and analyzing results.
+logs/: Documentation of results.
 
 ## Getting Started
 1. Set up OpenAI API key and add it in the place of 'PUT-YOUR-KEY-HERE' in the models.py file of the src/tot folder.
